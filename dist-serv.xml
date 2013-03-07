@@ -1,0 +1,412 @@
+Index: products/distribution/services/src/main/resources/META-INF/spring/distribution-services.xml
+===================================================================
+--- products/distribution/services/src/main/resources/META-INF/spring/distribution-services.xml	(revision 84450)
++++ products/distribution/services/src/main/resources/META-INF/spring/distribution-services.xml	(working copy)
+@@ -20,10 +20,10 @@
+ 		<property name="defaultCatalogItemService" ref="defaultCatalogItemService"/>
+ 		<property name="serviceLogger" ref="distributionServiceLogger" />
+ 		<property name="assemblerLogger" ref="assemblerLogger" />
+-		<!-- 
++		<!--
+ 			<property name="detailedProductFacade" ref="dstDetailedProductFacade" />
+ 		-->
+-		<!--  
++		<!--
+ 			<property name="notificationService" ref="dstNotificationService" />
+ 		-->
+ 		<property name="catalogItemRepository" ref="catalogItemRepository" />
+@@ -57,16 +57,14 @@
+ 		<property name="productAssembler" ref="productAssembler" />
+ 		<property name="exportChannelRepository" ref="exportChannelRepository" />
+ 		<property name="distributionMessageProvider" ref="distributionMessageProvider" />
+-		<property name="riskComputerOnBatchStatusChangeService" ref="riskComputerOnBatchStatusChangeService" />
+ 		<property name="bpOrderDTORepository" ref="bpOrderDTORepository" />
+ 		<property name="pricingUpdateEventService" ref="priceUpdateEventServiceProxy" />
+ 		<property name="batchPriorityComputer" ref="batchPriorityComputer" />
+-		<property name="rankingConfigurationService" ref="rankingConfigurationService" />
+ 		<property name="bpRepository" ref="bpRepository" />
+ 		<property name="handsetRepository" ref="handsetRepository" />
+ 		<property name="batchService" ref="batchService" />
+ 		<property name="redBoxReportManager" ref="redBoxReportManager" />
+-		<property name="messageDistributionDispatcherService" ref="messagingDistributionDispatchService" />		
++		<property name="messageDistributionDispatcherService" ref="messagingDistributionDispatchService" />
+ 		<property name="productMaxSizePerBatch" value="$dis{distribution.delivery.parameters.product.max.size}" />
+ 		<property name="fullProductProvisioningRequestFactory" ref="fullProductProvisioningRequestFactory"/>
+ 		<property name="ucsOrderRepository"	ref="ucsOrderRepository"/>
+@@ -80,15 +78,15 @@
+ 				<property name="readOnly" value="true" />
+ 			</bean>
+ 		</property>
+-		
++
+ 		<property name="clearanceFacade"	ref="clearanceFacade"/>
+ 		<property name="fileRepository"	ref="fileRepositoryFS"/>
+ 	</bean>
+-	
++
+ 	<bean id="redBoxReportManager" class="com.dgp.anthologic.distribution.supplychain.audit.impl.RedBoxReportManagerImpl" >
+ 		<property name="auditPriceDataRepository" ref="auditPriceDataRepository" />
+ 	</bean>
+-	
++
+ 	<bean id="distributionEventService" class="com.dgp.anthologic.distribution.services.impl.DefaultDistributionEventService" parent="abstractSoaService">
+ 		<property name="serviceLogger" ref="distributionServiceLogger" />
+ 		<property name="exportChannelService" ref="exportChannelService" />
+@@ -112,8 +110,8 @@
+ 
+ 	<bean id="distributionAuditTrailAdvancedSearchSpecificationFactory" class="com.dgp.anthologic.distribution.audittrail.DstAuditTrailAdvancedSearchSpecFactoryImpl" />
+ 
+-	
+-	<!--  
++
++	<!--
+ 		<bean id="dstDetailedProductFacade" class="com.dgp.anthologic.distribution.instruction.services.impl.AMProductFacade" >
+ 		<property name="productService" ref="productService"/>
+ 		</bean>
+@@ -129,7 +127,6 @@
+ 	<bean id="batchOperationService" class="com.dgp.anthologic.operation.batch.DefaultBatchOperationService" parent="applicationService" init-method="initialize" >
+ 		<property name="batchService"		    ref="batchService" />
+ 		<property name="batchRepository"		ref="batchRepository" />
+-		<property name="batchRiskRepository"	ref="batchRiskRepository" />
+ 		<property name="bpRepository"			ref="bpRepository" />
+ 		<property name="clearanceFacade"		ref="clearanceFacade" />
+ 		<property name="orderRepository"		ref="orderRepository" />
+@@ -173,7 +170,7 @@
+ 	<bean id="orderFactory" class="com.dgp.anthologic.distribution.order.impl.DefaultOrderFactory">
+ 		<property name="bpOrderDTORepository" ref="bpOrderDTORepository"/>
+ 	</bean>
+-	
++
+ 	<bean id="selectedProductFactory" class="com.dgp.anthologic.distribution.order.impl.DefaultSelectedProductFactory" />
+ 
+ 	<bean id="orderService" class="com.dgp.anthologic.distribution.order.DefaultOrderService">
+@@ -196,7 +193,7 @@
+ 		<property name="orderFactory" ref="orderFactory"/>
+ 		<property name="selectedProductFactory" ref="selectedProductFactory" />
+ 		<property name="productLockManager" ref="productLockManager"></property>
+-		
++
+ 		<property name="systemMaxBatchWeight" value="$dis{distribution.ordering.bulk.parameters.batch.max.weight}"/>
+ 		<property name="systemMaxNbBatchPerBatch" value="$dis{distribution.ordering.bulk.parameters.product.max.per.batch}"/>
+ 		<property name="systemNbBatchPerDay" value="$dis{distribution.ordering.bulk.parameters.batch.max.per.day}"/>
+@@ -204,9 +201,9 @@
+ 		<property name="referentialDataFacade" ref="ReferentialDataFacadeImpl" />
+ 		<property name="bpInputRepository" ref="bpInputRepository"/>
+ 		<property name="productSearchFacade" ref="productSearchFacade" />
+-		
++
+ 	</bean>
+-	
++
+ 	<bean id="BpOrderFacade" class="com.dgp.anthologic.distribution.bporder.impl.DefaultBpOrderFacade" parent="applicationService">
+ 		<property name="bpOrderRepository" ref="bpOrderRepository" />
+ 		<property name="batchRepository" ref="batchRepository" />
+@@ -218,10 +215,10 @@
+ 		<property name="batchManager" ref="batchManager" />
+ 		<property name="notificationManagementService" ref="notificationManagementService" />
+ 		<property name="catalogItemRepository" ref="catalogItemRepository" />
+-		<property name="userManagementFacade" ref="userManagementFacade" /> 
+-		<property name="exportChannelService" ref="exportChannelService" /> 
++		<property name="userManagementFacade" ref="userManagementFacade" />
++		<property name="exportChannelService" ref="exportChannelService" />
+ 		<property name="exportPluginRepository" ref="exportPluginRepository" />
+-		<property name="bpOrderLifecycleEventsNotifier" ref="bpOrderLifecycleEventsNotifier"/> 
++		<property name="bpOrderLifecycleEventsNotifier" ref="bpOrderLifecycleEventsNotifier"/>
+ 	</bean>
+ 	
+ 	<bean id="orderingValidationMonitor" parent="perfMonitorDelegate">
+@@ -235,7 +232,7 @@
+ 		<property name="batchService" ref="batchService" />
+ 		<property name="monitoringService" ref="monitoringService"/>
+ 	</bean>
+-	
++
+ 	<bean id="batchProcessDelegate" class="com.dgp.anthologic.distribution.batch.impl.DefaultBatchProcessDelegate" parent="applicationService" >
+ 		<property name="batchRepository" ref="batchRepository" />
+ 	</bean>
+@@ -244,7 +241,7 @@
+ 		<property name="batchRepository" ref="batchRepository" />
+ 		<property name="deliveryItemRepository" ref="deliveryItemRepository" />
+ 		<property name="catalogItemRepository" ref="catalogItemRepository" />
+-		<!--  	
++		<!--
+ 			<property name="notificationService" ref="dstNotificationService" />
+ 		-->
+ 		<property name="exportChannelService" ref="exportChannelService" />
+@@ -271,7 +268,7 @@
+ 		<property name="manufacturedFileExpiryDuration" ref="$dis{distribution.mnf.expiryjob.expiryDuration}"/>
+ 		<property name="productNotificationFacade" ref="productNotificationFacade" />
+ 	</bean>
+-	
++
+ 	<bean id="oscillatingBatchFlaggingRule" class="com.dgp.anthologic.distribution.batch.impl.DefaultOscillatingBatchFlaggingRule">
+ 		<property name="deltaTimeBeforeDueDateInMinutes">
+ 			<value type="java.lang.Integer">60</value>
+@@ -280,7 +277,7 @@
+ 			<value type="java.lang.Long">30</value>
+ 		</property>
+ 	</bean>
+-	
++
+ 	<bean id="batchPriorityComputer" class="com.dgp.anthologic.distribution.batch.impl.DefaultBatchPriorityComputer" parent="applicationService" />
+ 
+ 	<!--  BATCH EXECUTORS -->
+@@ -318,7 +315,7 @@
+ 				<property name="readOnly" value="true" />
+ 			</bean>
+ 		</property>
+-        </bean>                
++        </bean>
+ 	<bean id="autoRetryExecutor" class="com.dgp.anthologic.distribution.batch.executor.impl.AutoRetryExecutor" parent="executor" init-method="init" />
+ 
+ 	<!-- CATALOG MANAGER SPECIFICATIONS -->
+@@ -449,14 +446,14 @@
+ 
+ 	<!-- Sync Instruction Hold date Resolvers -->
+ 	<bean id="insertionHoldDateResolver" class="com.dgp.anthologic.distribution.instruction.holddate.InsertionHoldDateResolver">
+-		<property name="serviceLogger" ref="distributionServiceLogger" />	
++		<property name="serviceLogger" ref="distributionServiceLogger" />
+ 		<property name="productService" ref="productService"/>
+ 	</bean>
+-	
++
+ 	<bean id="updateHoldDateResolver" class="com.dgp.anthologic.distribution.instruction.holddate.UpdateHoldDateResolver">
+ 		<property name="serviceLogger" ref="distributionServiceLogger" />
+ 		<property name="productService" ref="productService" />
+-	</bean>	
++	</bean>
+ 	<bean id="cherryPickHoldDateResolver" class="com.dgp.anthologic.distribution.instruction.holddate.CherryPickHoldDateResolver">
+ 		<property name="insertionHoldDateResolver" ref="insertionHoldDateResolver"/>
+ 		<property name="updateHoldDateResolver" ref="updateHoldDateResolver"/>
+@@ -535,7 +532,7 @@
+ 	<bean id="batchManager" class="com.dgp.anthologic.distribution.batch.impl.DefaultBatchManager" parent="applicationService">
+ 		<property name="batchRepository" ref="batchRepository" />
+ 		<property name="deliveryConfigService" ref="deliveryConfigService" />
+-		<property name="bpService" ref="bpService" />	
++		<property name="bpService" ref="bpService" />
+ 		<property name="syncInstructionAuditRepository" ref="syncInstructionAuditRepository" />
+ 		<property name="batchService" ref="batchService" />
+ 		<property name="watermarkTokenManagementFacade" ref="watermarkTokenManagementFacade"/>
+@@ -583,7 +580,6 @@
+ 		<property name="selectedProductRepository" ref="selectedProductRepository" />
+ 		<property name="productService" ref="productService" />
+ 		<property name="auditTrailService" ref="distributionAuditTrailService" />
+-		<property name="riskRequestService" ref="riskComputerOnBatchStatusChangeService" />
+ 		<property name="bpRepository" ref="bpRepository"/>
+ 	</bean>
+ 
+@@ -603,7 +599,7 @@
+ 		<property name="clusterNode" ref="clusterNode"/>
+ 	</bean>
+ 
+-	<!--  
++	<!--
+ 		<bean id="dstNotificationService" class="com.dgp.anthologic.distribution.services.impl.DefaultNotificationService" parent="applicationService">
+ 		<property name="notificationFacade" ref="notificationFacade" />
+ 		</bean>
+@@ -613,7 +609,7 @@
+ 		<property name="host" value="$dis{mail.smtp.host}" />
+ 	</bean>
+ 
+-	
++
+ 	<!-- Takedown mail delivery mechanism plugin -->
+ 	<bean id="takedownNotificationDeliverMechanismPlugin" class="com.dgp.anthologic.distribution.export.impl.TakedownMailDeliveryMechanismPlugin" parent="abstractDeliveryMechanismPlugin">
+ 		<property name="distributionTemplateService" ref="templateService" />
+@@ -622,7 +618,7 @@
+ 		<property name="multipart" value="true" />
+ 		<property name="takedownMailDeliveryTemplateLocation" value="takedownMailDelivery.vm" />
+ 	</bean>
+-	
++
+ 
+ 	<!-- DeliveryNotificationPlugin -->
+ 	<bean id="abstractNotificationPlugin" class="com.dgp.anthologic.distribution.export.impl.AbstractDeliveryNotificationPlugin" abstract="true">
+@@ -676,7 +672,7 @@
+ 	</bean>
+ 
+ 	<!-- bean to remove when real version available -->
+-	<!--  
++	<!--
+ 		<bean id="stubManufacturingLineFacade" class="com.dgp.anthologic.distribution.instruction.diff.mock.StubManufacturingLineFacade"/>
+ 	-->
+ 
+@@ -686,7 +682,7 @@
+ 	</bean>
+ 
+ 	<bean id="metadataExportService" class="com.dgp.anthologic.distribution.services.impl.MetadataExportService">
+-		<property name="bpService" ref="bpService" />		
++		<property name="bpService" ref="bpService" />
+ 		<property name="priceRequestManager" ref="pmPriceRequestManager" />
+ 		<property name="syncInstructionViewRepository" ref="syncInstructionViewRepository" />
+ 		<property name="catalogItemRepository" ref="catalogItemRepository" />
+@@ -713,9 +709,9 @@
+ 			</list>
+ 		</property>
+ 	</bean>
+-	
++
+ 	<!-- UCS -->
+-	
++
+ 	<bean id="ucsService" class="com.dgp.anthologic.distribution.ucs.application.impl.DefaultUcsService">
+ 		<property name="summaryRepository" ref="summaryRepository" />
+ 		<property name="selectedOrderRepository" ref="selectedOrderRepository" />
+@@ -729,7 +725,7 @@
+ 		<property name="ucsAssetRepository" ref="ucsAssetRepository" />
+ 	</bean>
+ 
+-	
++
+ 	<bean id="ucsTechnicalService" class="com.dgp.anthologic.distribution.ucs.application.impl.DefaultUcsTechnicalService" parent="applicationService">
+ 		<!--property name="auditTrailService"			ref="distributionAuditTrailService" /-->
+ 		<!--property name="batchRepository"			ref="batchRepository" /-->
+@@ -743,17 +739,21 @@
+ 		<property name="urlHttpServer"		value="$dis{delivery.ucs.httpserver.url}" />
+ 		<property name="orderListVersion"	value="$dis{orderList.version}" />
+ 	</bean>
++<<<<<<< .mine
++
++=======
+         
+         <bean id="defaultUcsDeliveryService" class="com.dgp.anthologic.distribution.ucs.application.impl.DefaultUcsDeliveryService">
+             <property name="ucsOrderRepository"	ref="ucsOrderRepository"/>
+ 	</bean>
+ 	
++>>>>>>> .r84450
+ 	<bean id="distributionExportPluginProvider" class="com.dgp.anthologic.distribution.supplychain.utils.DefaultDistributionExportPluginProvider" parent="applicationService">
+ 		<property name="bpPlatformRepository" ref="bpPlatformRepository" />
+ 		<property name="exportChannelRepository" ref="exportChannelRepository" />
+ 		<property name="exportPluginProvider" ref="exportPluginProvider" />
+ 	</bean>
+-	
++
+ 	<bean id="defaultUcsExpirationService" class="com.dgp.anthologic.distribution.ucs.application.impl.DefaultUcsExpirationService" parent="applicationService">
+ 	    <!--property name="batchRepository"			ref="batchRepository" /-->
+ 	    <property name="ucsOrderRepository"			ref="ucsOrderRepository"/>
+@@ -762,9 +762,9 @@
+ 		<property name="notificationExpiryService" 	ref="ucsExpiryNotificationPlugin" />
+ 		<property name="auditTrailService" 			ref="distributionAuditTrailService" /-->
+ 	</bean>
+-	
++
+ 	<bean id="defaultUcsEventsService" class="com.dgp.anthologic.distribution.ucs.infrastructure.messaging.DefaultUcsEventsService" parent="applicationService" />
+-	
++
+ 	<bean id="ucsDeletionNotificationPlugin" class="com.dgp.anthologic.distribution.ucs.infrastructure.notification.UCSDeletionNotificationPlugin" parent="abstractMailDeliveryNotificationPlugin">
+ 		<property name="notificationTemplateLocation" value="ucsDeletionNotification.vm" />
+ 		<property name="notificationHTMLTemplateLocation" value="ucsDeletionNotificationHTML.vm" />
+@@ -786,7 +786,7 @@
+ 		<property name="logger" ref="distributionServiceLogger" />
+         <property name="hibernateTemplate" ref="hibernateTemplate" />
+ 	</bean>
+-        
++
+     <bean id="fileRepositoryFS" class="com.dgp.anthologic.distribution.ucs.infrastructure.persistence.fs.FileRepositoryFS">
+ 		<property name="useDedicatedRepository" value="$dis{ucs.delivery.useDedicatedRepository}" />
+ 		<property name="dscRepositoryUserId" value="$dis{dsc.repository.userId}" />
+@@ -801,11 +801,11 @@
+     	<property name="id" value="2" />
+     	<property name="name" value="ucsRepository" />
+     	<property name="description" value="Repository UCS" />
+-    	
++
+     	<property name="namingStrategy">
+     		<bean class="com.dgp.repository.model.sample.SimpleNamingStrategy" />
+     	</property>
+-    
++
+     </bean>
+ 
+     <!-- Repository Users -->
+@@ -818,26 +818,25 @@
+ 	<!-- END DeliveryNotificationPlugin -->
+ 
+ 	<!-- ENTITY BEANS -->
+-	<!--  
++	<!--
+ 	<bean  class="com.dgp.anthologic.distribution.order.Order" lazy-init="true">
+        <property name="batchRepository" ref="batchRepository"/>
+-	   <property name="catalogItemRepository" ref="catalogItemRepository"/>       
++	   <property name="catalogItemRepository" ref="catalogItemRepository"/>
+     </bean>
+ 	<bean  class="com.dgp.anthologic.distribution.batch.Batch" lazy-init="true">
+        <property name="capacitySpaceRepository" ref="capacitySpaceRepository"/>
+-		
++
+ 		</bean>
+ 		<bean  class="com.dgp.anthologic.distribution.capacity.LeaseCapacitySpace" lazy-init="true">
+ 		<property name="planningRepository" ref="planningRepository"/>
+ 		</bean>
+ 	-->
+-	
++
+ 	<!-- batch risk beans -->
+ 	<bean id="abstractServiceImpl" class="com.dgp.anthologic.distribution.shared.AbstractServiceImpl" abstract="true" >
+ 		<property name="serviceLogger" ref="distributionServiceLogger" />
+ 	</bean>
+-	<import resource="classpath:META-INF/spring/batch-risk-services.xml" />	
+-	
++
+ 	<!-- batch -->
+ 	<bean id="batchLifecycleEventsNotifier" class="com.dgp.anthologic.distribution.batch.impl.DefaultBatchLifecycleEventsNotifier" parent="abstractServiceImpl" />
+ 	<bean id="abstractBatchLifecycleEventsListenerProvider" abstract="true" class="com.dgp.anthologic.distribution.infrastructure.wiring.AbstractBatchLifecycleEventsListenerProvider" >
+@@ -849,29 +848,29 @@
+ 	<bean id="abstractBpOrderLifecycleEventsListenerProvider" abstract="true" class="com.dgp.anthologic.distribution.infrastructure.wiring.AbstractBpOrderLifecycleEventsListenerProvider" >
+ 		<property name="bpOrderLifecycleEventsNotifier" ref="bpOrderLifecycleEventsNotifier"  />
+ 	</bean>
+-	<bean id="bpOrderLifecycleEventsListenerProvider" class="com.dgp.anthologic.distribution.infrastructure.wiring.BpOrderLifecycleEventsListenerProvider" parent="abstractBpOrderLifecycleEventsListenerProvider" autowire="byType" init-method="init" />	
+-	
++	<bean id="bpOrderLifecycleEventsListenerProvider" class="com.dgp.anthologic.distribution.infrastructure.wiring.BpOrderLifecycleEventsListenerProvider" parent="abstractBpOrderLifecycleEventsListenerProvider" autowire="byType" init-method="init" />
++
+ 	<!-- BusinessPartner -->
+ 	<bean id="defaultDstBusinessPartnerService" class="com.dgp.anthologic.distribution.businesspartner.domain.service.DefaultDstBusinessPartnerService">
+ 		<property name="dstBusinessPartnerRepository" ref="dstBusinessPartnerRepositoryHibernate" />
+ 	</bean>
+-	
+-	
++
++
+ 	<bean id="priceUpdateEventServiceProxy" class="com.dgp.anthologic.distribution.pricing.infrastructure.proxy.PricingUpdateEventServiceProxy" >
+ 		<property name="pricingUpdateEventService" ref="pricingUpdateEventService" />
+ 	</bean>
+-	
++
+ 	<!-- Pricing -->
+ 	<bean id="priceRequestManagerDelegate" class="com.dgp.anthologic.distribution.pricing.infrastructure.proxy.PriceRequestManagerProxy" >
+ 		<property name="priceRequestManager" ref="pmPriceRequestManager" />
+ 	</bean>
+-	
++
+ 	<!-- Asset Management -->
+ 	<bean id="assetFacadeDelegate" class="com.dgp.anthologic.distribution.am.infrastructure.proxy.AssetFacadeProxy" >
+-		<property name="assetFacade" ref="assetFacadeImpl" />	
++		<property name="assetFacade" ref="assetFacadeImpl" />
+ 	</bean>
+-	
+-	
++
++
+ 	<bean id="orderDetailedService" class="com.dgp.anthologic.distribution.order.DefaultOrderedDetailService">
+ 	   <property name="orderedDetailDao" ref="orderedDetailDao" />
+ 	</bean>
+@@ -879,16 +878,16 @@
+ 	<bean id="productLanguageManager"  class="com.dgp.anthologic.operation.productlanguage.manager.impl.ProductLanguageManagerImpl">
+ 		<property name="productLanguageRepository" ref="languageMappingRepository" />
+ 	</bean>
+-	
++
+ 	<!-- Monitoring -->
+ 	<!-- PBAR 20100503 : commented for performance improvement. Calculation are triggered at the same time on all the nodes -->
+-	<!--  
++	<!--
+ 	<bean id="batchMonitoring" class="com.dgp.anthologic.distribution.monitoring.BatchMonitoring" init-method="initializeMonitoring">
+ 		<property name="batchRepository"	ref="batchRepository" />
+ 		<property name="monitoringService"	ref="monitoringService"/>
+ 		<property name="transactionTemplate" ref="transactionTemplate"/>
+ 	</bean>
+-	
++
+ 	<bean id="bpMonitoring" class="com.dgp.anthologic.distribution.monitoring.BpOrderMonitoring" init-method="initializeMonitoring">
+ 		<property name="bpOrderRepository"	ref="bpOrderRepository" />
+ 		<property name="monitoringService"	ref="monitoringService"/>
