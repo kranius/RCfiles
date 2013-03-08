@@ -1,0 +1,3502 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="svn.xsl"?>
+<ns2:NewReleaseMessage xmlns:ns2="http://ddex.net/xml/2011/ern-main/33" MessageSchemaVersionId="2011/ern-main/33">
+    <MessageHeader>
+        <MessageThreadId>5072</MessageThreadId>
+        <MessageId>5072_150001751565</MessageId>
+        <MessageFileName>Metadata_SYN_umgiLegacy_2_new_00602527080512_2012-05-14_12-38-17.xml</MessageFileName>
+        <MessageSender>
+            <PartyId>PA-DPIDA-2010032301-A</PartyId>
+            <PartyName>
+                <FullName>Digiplug</FullName>
+            </PartyName>
+        </MessageSender>
+        <SentOnBehalfOf>
+            <PartyId>PA-DPIDA-2012031302-R</PartyId>
+            <PartyName>
+                <FullName>Universal Music Group International</FullName>
+            </PartyName>
+        </SentOnBehalfOf>
+        <MessageRecipient>
+            <PartyId>123_bob_123</PartyId>
+            <PartyName>
+                <FullName>SYN_umgiLegacy_2</FullName>
+            </PartyName>
+        </MessageRecipient>
+        <MessageCreatedDateTime>2012-05-14T12:38:17</MessageCreatedDateTime>
+        <MessageControlType>TestMessage</MessageControlType>
+    </MessageHeader>
+    <UpdateIndicator>OriginalMessage</UpdateIndicator>
+    <ResourceList>
+        <SoundRecording>
+            <SoundRecordingId>
+                <ISRC>GBUM70901307</ISRC>
+            </SoundRecordingId>
+            <ResourceReference>A500006610522654819</ResourceReference>
+            <ReferenceTitle>
+                <TitleText>Underlying Lies</TitleText>
+            </ReferenceTitle>
+            <IsBonusResource>false</IsBonusResource>
+            <Duration>PT5M26.000S</Duration>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>GB</TerritoryCode>
+                <Title>
+                    <TitleText>Underlying Lies</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Scott Matthews</FullName>
+                        <KeyName>Matthews</KeyName>
+                        <NamesAfterKeyName>Scott</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <PLine>
+                    <PLineText>(P) 2009 San Remo Records Limited, Under Exclusive Licence to Universal-Island Records</PLineText>
+                </PLine>
+                <Genre>
+                    <GenreText>Alternative</GenreText>
+                </Genre>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T94051920GB</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="100">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">64</BitRate>
+                    <NumberOfChannels>2</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">22050</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_audtrk_00602527080512_01_001_100.mp3</FileName>
+                        <HashSum>
+                            <HashSum>2c33e834016b6da99da7617b450219dc</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+        </SoundRecording>
+        <SoundRecording>
+            <SoundRecordingId>
+                <ISRC>GBUM70901308</ISRC>
+            </SoundRecordingId>
+            <ResourceReference>A500006610522654811</ResourceReference>
+            <ReferenceTitle>
+                <TitleText>Jagged Melody</TitleText>
+            </ReferenceTitle>
+            <IsBonusResource>false</IsBonusResource>
+            <Duration>PT4M15.000S</Duration>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>GB</TerritoryCode>
+                <Title>
+                    <TitleText>Jagged Melody</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Scott Matthews</FullName>
+                        <KeyName>Matthews</KeyName>
+                        <NamesAfterKeyName>Scott</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <PLine>
+                    <PLineText>(P) 2009 San Remo Records Limited, Under Exclusive Licence to Universal-Island Records</PLineText>
+                </PLine>
+                <Genre>
+                    <GenreText>Alternative</GenreText>
+                </Genre>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T94051915GB</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="100">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">64</BitRate>
+                    <NumberOfChannels>2</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">22050</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_audtrk_00602527080512_01_002_100.mp3</FileName>
+                        <HashSum>
+                            <HashSum>5d6439cff87419d22a4e8578af369aa0</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+        </SoundRecording>
+        <SoundRecording>
+            <SoundRecordingId>
+                <ISRC>GBUM70901314</ISRC>
+            </SoundRecordingId>
+            <ResourceReference>A500006610522654812</ResourceReference>
+            <ReferenceTitle>
+                <TitleText>Suddenly You Figure Out</TitleText>
+            </ReferenceTitle>
+            <IsBonusResource>false</IsBonusResource>
+            <Duration>PT4M48.000S</Duration>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>GB</TerritoryCode>
+                <Title>
+                    <TitleText>Suddenly You Figure Out</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Scott Matthews</FullName>
+                        <KeyName>Matthews</KeyName>
+                        <NamesAfterKeyName>Scott</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <PLine>
+                    <PLineText>(P) 2009 San Remo Records Limited, Under Exclusive Licence to Universal-Island Records</PLineText>
+                </PLine>
+                <Genre>
+                    <GenreText>Alternative</GenreText>
+                </Genre>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T94051916GB</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="100">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">64</BitRate>
+                    <NumberOfChannels>2</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">22050</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_audtrk_00602527080512_01_003_100.mp3</FileName>
+                        <HashSum>
+                            <HashSum>734b12958d28988295d671490b132ff1</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+        </SoundRecording>
+        <SoundRecording>
+            <SoundRecordingId>
+                <ISRC>GBUM70901313</ISRC>
+            </SoundRecordingId>
+            <ResourceReference>A500006610522654817</ResourceReference>
+            <ReferenceTitle>
+                <TitleText>Fractured</TitleText>
+            </ReferenceTitle>
+            <IsBonusResource>false</IsBonusResource>
+            <Duration>PT4M3.000S</Duration>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>GB</TerritoryCode>
+                <Title>
+                    <TitleText>Fractured</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Scott Matthews</FullName>
+                        <KeyName>Matthews</KeyName>
+                        <NamesAfterKeyName>Scott</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <PLine>
+                    <PLineText>(P) 2009 San Remo Records Limited, Under Exclusive Licence to Universal-Island Records</PLineText>
+                </PLine>
+                <Genre>
+                    <GenreText>Alternative</GenreText>
+                </Genre>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T94051918GB</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="100">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">64</BitRate>
+                    <NumberOfChannels>2</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">22050</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_audtrk_00602527080512_01_004_100.mp3</FileName>
+                        <HashSum>
+                            <HashSum>9fcde216cc9c8d4f948f22d7d38d47ea</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+        </SoundRecording>
+        <SoundRecording>
+            <SoundRecordingId>
+                <ISRC>GBUM70901908</ISRC>
+            </SoundRecordingId>
+            <ResourceReference>A500006610522654810</ResourceReference>
+            <ReferenceTitle>
+                <TitleText>12 Harps</TitleText>
+            </ReferenceTitle>
+            <IsBonusResource>false</IsBonusResource>
+            <Duration>PT5M1.000S</Duration>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>GB</TerritoryCode>
+                <Title>
+                    <TitleText>12 Harps</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Robert Plant</FullName>
+                        <KeyName>Plant</KeyName>
+                        <NamesAfterKeyName>Robert</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Scott Matthews</FullName>
+                        <KeyName>Matthews</KeyName>
+                        <NamesAfterKeyName>Scott</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <PLine>
+                    <PLineText>(P) 2009 San Remo Records Limited, Under Exclusive Licence to Universal-Island Records</PLineText>
+                </PLine>
+                <Genre>
+                    <GenreText>Alternative</GenreText>
+                </Genre>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T94051914GB</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="100">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">64</BitRate>
+                    <NumberOfChannels>2</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">22050</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_audtrk_00602527080512_01_005_100.mp3</FileName>
+                        <HashSum>
+                            <HashSum>968c7fac40a64aed0f8bf365e9a98f0e</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+        </SoundRecording>
+        <SoundRecording>
+            <SoundRecordingId>
+                <ISRC>GBUM70901312</ISRC>
+            </SoundRecordingId>
+            <ResourceReference>A500006610522654818</ResourceReference>
+            <ReferenceTitle>
+                <TitleText>Speeding Slowly</TitleText>
+            </ReferenceTitle>
+            <IsBonusResource>false</IsBonusResource>
+            <Duration>PT4M2.000S</Duration>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>GB</TerritoryCode>
+                <Title>
+                    <TitleText>Speeding Slowly</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Scott Matthews</FullName>
+                        <KeyName>Matthews</KeyName>
+                        <NamesAfterKeyName>Scott</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <PLine>
+                    <PLineText>(P) 2009 San Remo Records Limited, Under Exclusive Licence to Universal-Island Records</PLineText>
+                </PLine>
+                <Genre>
+                    <GenreText>Alternative</GenreText>
+                </Genre>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T94051919GB</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="100">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">64</BitRate>
+                    <NumberOfChannels>2</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">22050</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_audtrk_00602527080512_01_006_100.mp3</FileName>
+                        <HashSum>
+                            <HashSum>a1183f5953d0e832d8fc4e0580ccb4ef</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+        </SoundRecording>
+        <SoundRecording>
+            <SoundRecordingId>
+                <ISRC>GBUM70901309</ISRC>
+            </SoundRecordingId>
+            <ResourceReference>A500006610522655611</ResourceReference>
+            <ReferenceTitle>
+                <TitleText>Into The Firing Line</TitleText>
+            </ReferenceTitle>
+            <IsBonusResource>false</IsBonusResource>
+            <Duration>PT3M42.000S</Duration>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>GB</TerritoryCode>
+                <Title>
+                    <TitleText>Into The Firing Line</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Scott Matthews</FullName>
+                        <KeyName>Matthews</KeyName>
+                        <NamesAfterKeyName>Scott</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <PLine>
+                    <PLineText>(P) 2009 San Remo Records Limited, Under Exclusive Licence to Universal-Island Records</PLineText>
+                </PLine>
+                <Genre>
+                    <GenreText>Alternative</GenreText>
+                </Genre>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T94051922GB</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="100">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">64</BitRate>
+                    <NumberOfChannels>2</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">22050</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_audtrk_00602527080512_01_007_100.mp3</FileName>
+                        <HashSum>
+                            <HashSum>b046130b73b503e9ef14832bdba1b994</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+        </SoundRecording>
+        <SoundRecording>
+            <SoundRecordingId>
+                <ISRC>GBUM70901316</ISRC>
+            </SoundRecordingId>
+            <ResourceReference>A500006610522655610</ResourceReference>
+            <ReferenceTitle>
+                <TitleText>Up On The Hill</TitleText>
+            </ReferenceTitle>
+            <IsBonusResource>false</IsBonusResource>
+            <Duration>PT5M35.000S</Duration>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>GB</TerritoryCode>
+                <Title>
+                    <TitleText>Up On The Hill</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Scott Matthews</FullName>
+                        <KeyName>Matthews</KeyName>
+                        <NamesAfterKeyName>Scott</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <PLine>
+                    <PLineText>(P) 2009 San Remo Records Limited, Under Exclusive Licence to Universal-Island Records</PLineText>
+                </PLine>
+                <Genre>
+                    <GenreText>Alternative</GenreText>
+                </Genre>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T94051921GB</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="100">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">64</BitRate>
+                    <NumberOfChannels>2</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">22050</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_audtrk_00602527080512_01_008_100.mp3</FileName>
+                        <HashSum>
+                            <HashSum>a29cdb2e0c56d02e46d6ba5d1260a7d7</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+        </SoundRecording>
+        <SoundRecording>
+            <SoundRecordingId>
+                <ISRC>GBUM70901315</ISRC>
+            </SoundRecordingId>
+            <ResourceReference>A500006610522652579</ResourceReference>
+            <ReferenceTitle>
+                <TitleText>Elsewhere</TitleText>
+            </ReferenceTitle>
+            <IsBonusResource>false</IsBonusResource>
+            <Duration>PT5M2.000S</Duration>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>GB</TerritoryCode>
+                <Title>
+                    <TitleText>Elsewhere</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Scott Matthews</FullName>
+                        <KeyName>Matthews</KeyName>
+                        <NamesAfterKeyName>Scott</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <PLine>
+                    <PLineText>(P) 2009 San Remo Records Limited, Under Exclusive Licence to Universal-Island Records</PLineText>
+                </PLine>
+                <Genre>
+                    <GenreText>Alternative</GenreText>
+                </Genre>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T94051913GB</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="100">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">64</BitRate>
+                    <NumberOfChannels>2</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">22050</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_audtrk_00602527080512_01_009_100.mp3</FileName>
+                        <HashSum>
+                            <HashSum>80a4b0fc7f640e808aa89ac37b518bc7</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+        </SoundRecording>
+        <SoundRecording>
+            <SoundRecordingId>
+                <ISRC>GBUM70901909</ISRC>
+            </SoundRecordingId>
+            <ResourceReference>A500006610522652578</ResourceReference>
+            <ReferenceTitle>
+                <TitleText>Fades In Vain</TitleText>
+            </ReferenceTitle>
+            <IsBonusResource>false</IsBonusResource>
+            <Duration>PT7M3.000S</Duration>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>GB</TerritoryCode>
+                <Title>
+                    <TitleText>Fades In Vain</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Scott Matthews</FullName>
+                        <KeyName>Matthews</KeyName>
+                        <NamesAfterKeyName>Scott</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <PLine>
+                    <PLineText>(P) 2009 San Remo Records Limited, Under Exclusive Licence to Universal-Island Records</PLineText>
+                </PLine>
+                <Genre>
+                    <GenreText>Alternative</GenreText>
+                </Genre>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T94051912GB</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="100">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">64</BitRate>
+                    <NumberOfChannels>2</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">22050</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_audtrk_00602527080512_01_010_100.mp3</FileName>
+                        <HashSum>
+                            <HashSum>04278d0b7479a11a2aab8bddc5eb98b9</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+        </SoundRecording>
+        <SoundRecording>
+            <SoundRecordingId>
+                <ISRC>GBUM70901318</ISRC>
+            </SoundRecordingId>
+            <ResourceReference>A500006610522654813</ResourceReference>
+            <ReferenceTitle>
+                <TitleText>Nothing's Quite Right Here</TitleText>
+            </ReferenceTitle>
+            <IsBonusResource>false</IsBonusResource>
+            <Duration>PT3M24.000S</Duration>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>GB</TerritoryCode>
+                <Title>
+                    <TitleText>Nothing's Quite Right Here</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Scott Matthews</FullName>
+                        <KeyName>Matthews</KeyName>
+                        <NamesAfterKeyName>Scott</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <PLine>
+                    <PLineText>(P) 2009 San Remo Records Limited, Under Exclusive Licence to Universal-Island Records</PLineText>
+                </PLine>
+                <Genre>
+                    <GenreText>Alternative</GenreText>
+                </Genre>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T94051917GB</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="100">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">64</BitRate>
+                    <NumberOfChannels>2</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">22050</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_audtrk_00602527080512_01_011_100.mp3</FileName>
+                        <HashSum>
+                            <HashSum>58660bd4ad6b37948b8fdb551f379417</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+        </SoundRecording>
+        <SoundRecording>
+            <SoundRecordingId>
+                <ISRC>GBUM70905162</ISRC>
+            </SoundRecordingId>
+            <ResourceReference>A500006610522655613</ResourceReference>
+            <ReferenceTitle>
+                <TitleText>Is This Love</TitleText>
+            </ReferenceTitle>
+            <IsBonusResource>false</IsBonusResource>
+            <Duration>PT4M41.000S</Duration>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>GB</TerritoryCode>
+                <Title>
+                    <TitleText>Is This Love</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Scott Matthews</FullName>
+                        <KeyName>Matthews</KeyName>
+                        <NamesAfterKeyName>Scott</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Blue Mountain Music Ltd.</FullName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>MusicPublisher</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <PLine>
+                    <PLineText>(P) 2009 San Remo under exclusive license to Universal Island Records Ltd</PLineText>
+                </PLine>
+                <Genre>
+                    <GenreText>Alternative</GenreText>
+                </Genre>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T94051923GB</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="100">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">64</BitRate>
+                    <NumberOfChannels>2</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">22050</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_audtrk_00602527080512_01_012_100.mp3</FileName>
+                        <HashSum>
+                            <HashSum>167ec256df3a2eb50cd3c89e2a948f0b</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+        </SoundRecording>
+        <Video>
+            <VideoId>
+                <ISRC>GBUV70900839</ISRC>
+            </VideoId>
+            <ResourceReference>A500006610522654814</ResourceReference>
+            <ReferenceTitle>
+                <TitleText>Fractured</TitleText>
+            </ReferenceTitle>
+            <IsBonusResource>false</IsBonusResource>
+            <Duration>PT4M8.000S</Duration>
+            <VideoDetailsByTerritory>
+                <TerritoryCode>GB</TerritoryCode>
+                <Title>
+                    <TitleText>Fractured</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Scott Matthews</FullName>
+                        <KeyName>Matthews</KeyName>
+                        <NamesAfterKeyName>Scott</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Nick Bartlett</FullName>
+                        <KeyName>Bartlett</KeyName>
+                        <NamesAfterKeyName>Nick</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Pheobe Lloyd</FullName>
+                        <KeyName>Lloyd</KeyName>
+                        <NamesAfterKeyName>Pheobe</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <PLine>
+                    <PLineText>(P) 2009 Universal Island Records Ltd. A Universal Music Company.</PLineText>
+                </PLine>
+                <Genre>
+                    <GenreText>Alternative</GenreText>
+                </Genre>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <CLine>
+                    <CLineText>(C) 2009 Universal Island Records Ltd. A Universal Music Company.</CLineText>
+                </CLine>
+                <TechnicalVideoDetails>
+                    <TechnicalResourceDetailsReference>T6869416GB</TechnicalResourceDetailsReference>
+                    <VideoCodecType>Unknown</VideoCodecType>
+                    <VideoBitRate UnitOfMeasure="kbps">7931.083</VideoBitRate>
+                    <FrameRate UnitOfMeasure="Hz(interlaced)">25.0</FrameRate>
+                    <ImageHeight UnitOfMeasure="Pixel">576</ImageHeight>
+                    <ImageWidth UnitOfMeasure="Pixel">720</ImageWidth>
+                    <AspectRatio>1.25</AspectRatio>
+                    <AudioCodecType UserDefinedValue="2502">Unknown</AudioCodecType>
+                    <AudioBitRate UnitOfMeasure="kbps">384</AudioBitRate>
+                    <NumberOfAudioChannels>2</NumberOfAudioChannels>
+                    <AudioSamplingRate UnitOfMeasure="Hz">48000</AudioSamplingRate>
+                    <Duration>248</Duration>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_vidtrk_00602527080512_01_013_2502.mpg</FileName>
+                        <HashSum>
+                            <HashSum>f3431285c469403d564bbbb0edf061d3</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalVideoDetails>
+                <TechnicalVideoDetails>
+                    <TechnicalResourceDetailsReference>T5991010GB</TechnicalResourceDetailsReference>
+                    <ImageHeight UnitOfMeasure="Pixel">480</ImageHeight>
+                    <ImageWidth UnitOfMeasure="Pixel">640</ImageWidth>
+                    <AspectRatio>1.33</AspectRatio>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_vidtrk_00602527080512_01_013_null.jpg</FileName>
+                        <HashSum>
+                            <HashSum>741936b287d4b79c8b2e80491346cd75</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalVideoDetails>
+            </VideoDetailsByTerritory>
+        </Video>
+        <Image>
+            <ImageId>
+                <ProprietaryId Namespace="PA-DPIDA-2012031302-R">09UMGIM06363</ProprietaryId>
+            </ImageId>
+            <ResourceReference>A500006610522655612</ResourceReference>
+            <Title>
+                <TitleText>Elsewhere cover art</TitleText>
+            </Title>
+            <ImageDetailsByTerritory>
+                <TerritoryCode>GB</TerritoryCode>
+                <CLine>
+                    <CLineText>(C) 2009 Universal Island Records Ltd. A Universal Music Company.</CLineText>
+                </CLine>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+            </ImageDetailsByTerritory>
+        </Image>
+        <Text>
+            <TextType>NonInteractiveBooklet</TextType>
+            <TextId>
+                <ProprietaryId Namespace="PA-DPIDA-2012031302-R">09UMGIM11958</ProprietaryId>
+            </TextId>
+            <ResourceReference>A500006610522654816</ResourceReference>
+            <Title>
+                <TitleText>Elsewhere</TitleText>
+                <SubTitle>PDF Booklet</SubTitle>
+            </Title>
+            <TextDetailsByTerritory>
+                <TerritoryCode>GB</TerritoryCode>
+                <ResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Scott Matthews</FullName>
+                        <KeyName>Matthews</KeyName>
+                        <NamesAfterKeyName>Scott</NamesAfterKeyName>
+                    </PartyName>
+                    <ResourceContributorRole>MainArtist</ResourceContributorRole>
+                </ResourceContributor>
+                <CLine>
+                    <CLineText>(C) 2009 Universal Island Records Ltd. A Universal Music Company.</CLineText>
+                </CLine>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalTextDetails>
+                    <TechnicalResourceDetailsReference>T8356772GB</TechnicalResourceDetailsReference>
+                    <File>
+                        <FileName>UMG_ipackt_00602527080512_8356772.pdf</FileName>
+                        <HashSum>
+                            <HashSum>00893e9db07eb9416bd30bbe452ee8d9</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalTextDetails>
+            </TextDetailsByTerritory>
+        </Text>
+    </ResourceList>
+    <ReleaseList>
+        <Release>
+            <ReleaseId>
+                <ICPN IsEan="false">00602527080512</ICPN>
+            </ReleaseId>
+            <ReleaseReference>R6E4B32F959DC0DE5E040020A04021898</ReleaseReference>
+            <ReferenceTitle>
+                <TitleText>Elsewhere</TitleText>
+                <SubTitle>iTunes Version</SubTitle>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A500006610522654819</ReleaseResourceReference>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A500006610522654811</ReleaseResourceReference>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A500006610522654812</ReleaseResourceReference>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A500006610522654817</ReleaseResourceReference>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A500006610522654810</ReleaseResourceReference>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A500006610522654818</ReleaseResourceReference>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A500006610522655611</ReleaseResourceReference>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A500006610522655610</ReleaseResourceReference>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A500006610522652579</ReleaseResourceReference>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A500006610522652578</ReleaseResourceReference>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A500006610522654813</ReleaseResourceReference>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A500006610522655613</ReleaseResourceReference>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A500006610522654814</ReleaseResourceReference>
+                <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A500006610522654816</ReleaseResourceReference>
+                <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A500006610522655612</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType UserDefinedValue="BundleAlbumWithBooklet">UserDefined</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>GB</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Island Records</LabelName>
+                <Title>
+                    <TitleText>Elsewhere</TitleText>
+                    <SubTitle>iTunes Version</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Scott Matthews</FullName>
+                        <KeyName>Matthews</KeyName>
+                        <NamesAfterKeyName>Scott</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroup>
+                        <SequenceNumber>1</SequenceNumber>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>1</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A500006610522654819</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>2</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A500006610522654811</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>3</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A500006610522654812</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>4</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A500006610522654817</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>5</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A500006610522654810</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>6</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A500006610522654818</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>7</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A500006610522655611</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>8</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A500006610522655610</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>9</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A500006610522652579</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>10</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A500006610522652578</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>11</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A500006610522654813</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>12</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A500006610522655613</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>13</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A500006610522654814</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                    </ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A500006610522654816</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A500006610522655612</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Alternative</GenreText>
+                </Genre>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT1H1M10.000S</Duration>
+            <PLine>
+                <PLineText>(P) 2009 San Remo under exclusive license to Universal Island Records Ltd</PLineText>
+            </PLine>
+            <CLine>
+                <CLineText>(C) 2009 Universal Island Records Ltd. A Universal Music Company.</CLineText>
+            </CLine>
+        </Release>
+        <Release>
+            <ReleaseId>
+                <ProprietaryId Namespace="PA-DPIDA-2012031302-R">00602527080512_GBUM70901307_01_001</ProprietaryId>
+            </ReleaseId>
+            <ReleaseReference>R500006610522654819</ReleaseReference>
+            <ReferenceTitle>
+                <TitleText>Underlying Lies</TitleText>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A500006610522654819</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>TrackRelease</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>GB</TerritoryCode>
+                <Title>
+                    <TitleText>Underlying Lies</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Scott Matthews</FullName>
+                        <KeyName>Matthews</KeyName>
+                        <NamesAfterKeyName>Scott</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A500006610522654819</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Alternative</GenreText>
+                </Genre>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT5M26.000S</Duration>
+            <PLine>
+                <PLineText>(P) 2009 San Remo Records Limited, Under Exclusive Licence to Universal-Island Records</PLineText>
+            </PLine>
+        </Release>
+        <Release>
+            <ReleaseId>
+                <ProprietaryId Namespace="PA-DPIDA-2012031302-R">00602527080512_GBUM70901308_01_002</ProprietaryId>
+            </ReleaseId>
+            <ReleaseReference>R500006610522654811</ReleaseReference>
+            <ReferenceTitle>
+                <TitleText>Jagged Melody</TitleText>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A500006610522654811</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>TrackRelease</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>GB</TerritoryCode>
+                <Title>
+                    <TitleText>Jagged Melody</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Scott Matthews</FullName>
+                        <KeyName>Matthews</KeyName>
+                        <NamesAfterKeyName>Scott</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A500006610522654811</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Alternative</GenreText>
+                </Genre>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT4M15.000S</Duration>
+            <PLine>
+                <PLineText>(P) 2009 San Remo Records Limited, Under Exclusive Licence to Universal-Island Records</PLineText>
+            </PLine>
+        </Release>
+        <Release>
+            <ReleaseId>
+                <ProprietaryId Namespace="PA-DPIDA-2012031302-R">00602527080512_GBUM70901314_01_003</ProprietaryId>
+            </ReleaseId>
+            <ReleaseReference>R500006610522654812</ReleaseReference>
+            <ReferenceTitle>
+                <TitleText>Suddenly You Figure Out</TitleText>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A500006610522654812</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>TrackRelease</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>GB</TerritoryCode>
+                <Title>
+                    <TitleText>Suddenly You Figure Out</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Scott Matthews</FullName>
+                        <KeyName>Matthews</KeyName>
+                        <NamesAfterKeyName>Scott</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A500006610522654812</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Alternative</GenreText>
+                </Genre>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT4M48.000S</Duration>
+            <PLine>
+                <PLineText>(P) 2009 San Remo Records Limited, Under Exclusive Licence to Universal-Island Records</PLineText>
+            </PLine>
+        </Release>
+        <Release>
+            <ReleaseId>
+                <ProprietaryId Namespace="PA-DPIDA-2012031302-R">00602527080512_GBUM70901313_01_004</ProprietaryId>
+            </ReleaseId>
+            <ReleaseReference>R500006610522654817</ReleaseReference>
+            <ReferenceTitle>
+                <TitleText>Fractured</TitleText>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A500006610522654817</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>TrackRelease</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>GB</TerritoryCode>
+                <Title>
+                    <TitleText>Fractured</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Scott Matthews</FullName>
+                        <KeyName>Matthews</KeyName>
+                        <NamesAfterKeyName>Scott</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A500006610522654817</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Alternative</GenreText>
+                </Genre>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT4M3.000S</Duration>
+            <PLine>
+                <PLineText>(P) 2009 San Remo Records Limited, Under Exclusive Licence to Universal-Island Records</PLineText>
+            </PLine>
+        </Release>
+        <Release>
+            <ReleaseId>
+                <ProprietaryId Namespace="PA-DPIDA-2012031302-R">00602527080512_GBUM70901908_01_005</ProprietaryId>
+            </ReleaseId>
+            <ReleaseReference>R500006610522654810</ReleaseReference>
+            <ReferenceTitle>
+                <TitleText>12 Harps</TitleText>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A500006610522654810</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>TrackRelease</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>GB</TerritoryCode>
+                <Title>
+                    <TitleText>12 Harps</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Robert Plant</FullName>
+                        <KeyName>Plant</KeyName>
+                        <NamesAfterKeyName>Robert</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Scott Matthews</FullName>
+                        <KeyName>Matthews</KeyName>
+                        <NamesAfterKeyName>Scott</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A500006610522654810</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Alternative</GenreText>
+                </Genre>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT5M1.000S</Duration>
+            <PLine>
+                <PLineText>(P) 2009 San Remo Records Limited, Under Exclusive Licence to Universal-Island Records</PLineText>
+            </PLine>
+        </Release>
+        <Release>
+            <ReleaseId>
+                <ProprietaryId Namespace="PA-DPIDA-2012031302-R">00602527080512_GBUM70901312_01_006</ProprietaryId>
+            </ReleaseId>
+            <ReleaseReference>R500006610522654818</ReleaseReference>
+            <ReferenceTitle>
+                <TitleText>Speeding Slowly</TitleText>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A500006610522654818</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>TrackRelease</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>GB</TerritoryCode>
+                <Title>
+                    <TitleText>Speeding Slowly</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Scott Matthews</FullName>
+                        <KeyName>Matthews</KeyName>
+                        <NamesAfterKeyName>Scott</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A500006610522654818</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Alternative</GenreText>
+                </Genre>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT4M2.000S</Duration>
+            <PLine>
+                <PLineText>(P) 2009 San Remo Records Limited, Under Exclusive Licence to Universal-Island Records</PLineText>
+            </PLine>
+        </Release>
+        <Release>
+            <ReleaseId>
+                <ProprietaryId Namespace="PA-DPIDA-2012031302-R">00602527080512_GBUM70901309_01_007</ProprietaryId>
+            </ReleaseId>
+            <ReleaseReference>R500006610522655611</ReleaseReference>
+            <ReferenceTitle>
+                <TitleText>Into The Firing Line</TitleText>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A500006610522655611</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>TrackRelease</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>GB</TerritoryCode>
+                <Title>
+                    <TitleText>Into The Firing Line</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Scott Matthews</FullName>
+                        <KeyName>Matthews</KeyName>
+                        <NamesAfterKeyName>Scott</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A500006610522655611</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Alternative</GenreText>
+                </Genre>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT3M42.000S</Duration>
+            <PLine>
+                <PLineText>(P) 2009 San Remo Records Limited, Under Exclusive Licence to Universal-Island Records</PLineText>
+            </PLine>
+        </Release>
+        <Release>
+            <ReleaseId>
+                <ProprietaryId Namespace="PA-DPIDA-2012031302-R">00602527080512_GBUM70901316_01_008</ProprietaryId>
+            </ReleaseId>
+            <ReleaseReference>R500006610522655610</ReleaseReference>
+            <ReferenceTitle>
+                <TitleText>Up On The Hill</TitleText>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A500006610522655610</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>TrackRelease</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>GB</TerritoryCode>
+                <Title>
+                    <TitleText>Up On The Hill</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Scott Matthews</FullName>
+                        <KeyName>Matthews</KeyName>
+                        <NamesAfterKeyName>Scott</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A500006610522655610</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Alternative</GenreText>
+                </Genre>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT5M35.000S</Duration>
+            <PLine>
+                <PLineText>(P) 2009 San Remo Records Limited, Under Exclusive Licence to Universal-Island Records</PLineText>
+            </PLine>
+        </Release>
+        <Release>
+            <ReleaseId>
+                <ProprietaryId Namespace="PA-DPIDA-2012031302-R">00602527080512_GBUM70901315_01_009</ProprietaryId>
+            </ReleaseId>
+            <ReleaseReference>R500006610522652579</ReleaseReference>
+            <ReferenceTitle>
+                <TitleText>Elsewhere</TitleText>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A500006610522652579</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>TrackRelease</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>GB</TerritoryCode>
+                <Title>
+                    <TitleText>Elsewhere</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Scott Matthews</FullName>
+                        <KeyName>Matthews</KeyName>
+                        <NamesAfterKeyName>Scott</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A500006610522652579</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Alternative</GenreText>
+                </Genre>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT5M2.000S</Duration>
+            <PLine>
+                <PLineText>(P) 2009 San Remo Records Limited, Under Exclusive Licence to Universal-Island Records</PLineText>
+            </PLine>
+        </Release>
+        <Release>
+            <ReleaseId>
+                <ProprietaryId Namespace="PA-DPIDA-2012031302-R">00602527080512_GBUM70901909_01_010</ProprietaryId>
+            </ReleaseId>
+            <ReleaseReference>R500006610522652578</ReleaseReference>
+            <ReferenceTitle>
+                <TitleText>Fades In Vain</TitleText>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A500006610522652578</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>TrackRelease</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>GB</TerritoryCode>
+                <Title>
+                    <TitleText>Fades In Vain</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Scott Matthews</FullName>
+                        <KeyName>Matthews</KeyName>
+                        <NamesAfterKeyName>Scott</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A500006610522652578</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Alternative</GenreText>
+                </Genre>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT7M3.000S</Duration>
+            <PLine>
+                <PLineText>(P) 2009 San Remo Records Limited, Under Exclusive Licence to Universal-Island Records</PLineText>
+            </PLine>
+        </Release>
+        <Release>
+            <ReleaseId>
+                <ProprietaryId Namespace="PA-DPIDA-2012031302-R">00602527080512_GBUM70901318_01_011</ProprietaryId>
+            </ReleaseId>
+            <ReleaseReference>R500006610522654813</ReleaseReference>
+            <ReferenceTitle>
+                <TitleText>Nothing's Quite Right Here</TitleText>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A500006610522654813</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>TrackRelease</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>GB</TerritoryCode>
+                <Title>
+                    <TitleText>Nothing's Quite Right Here</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Scott Matthews</FullName>
+                        <KeyName>Matthews</KeyName>
+                        <NamesAfterKeyName>Scott</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A500006610522654813</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Alternative</GenreText>
+                </Genre>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT3M24.000S</Duration>
+            <PLine>
+                <PLineText>(P) 2009 San Remo Records Limited, Under Exclusive Licence to Universal-Island Records</PLineText>
+            </PLine>
+        </Release>
+        <Release>
+            <ReleaseId>
+                <ProprietaryId Namespace="PA-DPIDA-2012031302-R">00602527080512_GBUM70905162_01_012</ProprietaryId>
+            </ReleaseId>
+            <ReleaseReference>R500006610522655613</ReleaseReference>
+            <ReferenceTitle>
+                <TitleText>Is This Love</TitleText>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A500006610522655613</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>TrackRelease</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>GB</TerritoryCode>
+                <Title>
+                    <TitleText>Is This Love</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Scott Matthews</FullName>
+                        <KeyName>Matthews</KeyName>
+                        <NamesAfterKeyName>Scott</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Bob Marley</FullName>
+                        <KeyName>Marley</KeyName>
+                        <NamesAfterKeyName>Bob</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A500006610522655613</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Alternative</GenreText>
+                </Genre>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT4M41.000S</Duration>
+            <PLine>
+                <PLineText>(P) 2009 San Remo under exclusive license to Universal Island Records Ltd</PLineText>
+            </PLine>
+        </Release>
+        <Release>
+            <ReleaseId>
+                <ProprietaryId Namespace="PA-DPIDA-2012031302-R">00602527080512_GBUV70900839_01_013</ProprietaryId>
+            </ReleaseId>
+            <ReleaseReference>R500006610522654814</ReleaseReference>
+            <ReferenceTitle>
+                <TitleText>Fractured</TitleText>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A500006610522654814</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>VideoTrackRelease</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>GB</TerritoryCode>
+                <Title>
+                    <TitleText>Fractured</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Scott Matthews</FullName>
+                        <KeyName>Matthews</KeyName>
+                        <NamesAfterKeyName>Scott</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Nick Bartlett</FullName>
+                        <KeyName>Bartlett</KeyName>
+                        <NamesAfterKeyName>Nick</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Pheobe Lloyd</FullName>
+                        <KeyName>Lloyd</KeyName>
+                        <NamesAfterKeyName>Pheobe</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A500006610522654814</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Alternative</GenreText>
+                </Genre>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT4M8.000S</Duration>
+            <PLine>
+                <PLineText>(P) 2009 Universal Island Records Ltd. A Universal Music Company.</PLineText>
+            </PLine>
+            <CLine>
+                <CLineText>(C) 2009 Universal Island Records Ltd. A Universal Music Company.</CLineText>
+            </CLine>
+        </Release>
+    </ReleaseList>
+    <DealList>
+        <ReleaseDeal>
+            <DealReleaseReference>R6E4B32F959DC0DE5E040020A04021898</DealReleaseReference>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>ConditionalDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TPU</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TPU</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>ConditionalDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TPU</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>ConditionalDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TPU</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TPU</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TPU</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <EffectiveDate>2012-05-14</EffectiveDate>
+        </ReleaseDeal>
+        <ReleaseDeal>
+            <DealReleaseReference>R500006610522654819</DealReleaseReference>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>ConditionalDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>Stream</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>Stream</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>ConditionalDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>ConditionalDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>Stream</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <EffectiveDate>2012-05-14</EffectiveDate>
+        </ReleaseDeal>
+        <ReleaseDeal>
+            <DealReleaseReference>R500006610522654811</DealReleaseReference>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>ConditionalDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>Stream</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>Stream</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>ConditionalDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>ConditionalDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>Stream</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <EffectiveDate>2012-05-14</EffectiveDate>
+        </ReleaseDeal>
+        <ReleaseDeal>
+            <DealReleaseReference>R500006610522654812</DealReleaseReference>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>ConditionalDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>Stream</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>Stream</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>ConditionalDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>ConditionalDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>Stream</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <EffectiveDate>2012-05-14</EffectiveDate>
+        </ReleaseDeal>
+        <ReleaseDeal>
+            <DealReleaseReference>R500006610522654817</DealReleaseReference>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>ConditionalDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>Stream</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>Stream</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>ConditionalDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>ConditionalDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>Stream</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <EffectiveDate>2012-05-14</EffectiveDate>
+        </ReleaseDeal>
+        <ReleaseDeal>
+            <DealReleaseReference>R500006610522654810</DealReleaseReference>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>ConditionalDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>Stream</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>Stream</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>ConditionalDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>ConditionalDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>Stream</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <EffectiveDate>2012-05-14</EffectiveDate>
+        </ReleaseDeal>
+        <ReleaseDeal>
+            <DealReleaseReference>R500006610522654818</DealReleaseReference>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>ConditionalDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>Stream</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>Stream</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>ConditionalDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>ConditionalDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>Stream</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <EffectiveDate>2012-05-14</EffectiveDate>
+        </ReleaseDeal>
+        <ReleaseDeal>
+            <DealReleaseReference>R500006610522655611</DealReleaseReference>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>ConditionalDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>Stream</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>Stream</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>ConditionalDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>ConditionalDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>Stream</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <EffectiveDate>2012-05-14</EffectiveDate>
+        </ReleaseDeal>
+        <ReleaseDeal>
+            <DealReleaseReference>R500006610522655610</DealReleaseReference>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>ConditionalDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>Stream</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>Stream</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>ConditionalDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>ConditionalDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>Stream</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <EffectiveDate>2012-05-14</EffectiveDate>
+        </ReleaseDeal>
+        <ReleaseDeal>
+            <DealReleaseReference>R500006610522652579</DealReleaseReference>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>ConditionalDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>Stream</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>Stream</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>ConditionalDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>ConditionalDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>Stream</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <EffectiveDate>2012-05-14</EffectiveDate>
+        </ReleaseDeal>
+        <ReleaseDeal>
+            <DealReleaseReference>R500006610522652578</DealReleaseReference>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>ConditionalDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>Stream</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>Stream</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>ConditionalDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>ConditionalDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>Stream</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <EffectiveDate>2012-05-14</EffectiveDate>
+        </ReleaseDeal>
+        <ReleaseDeal>
+            <DealReleaseReference>R500006610522654813</DealReleaseReference>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>ConditionalDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>Stream</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>Stream</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>ConditionalDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>ConditionalDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>Stream</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <EffectiveDate>2012-05-14</EffectiveDate>
+        </ReleaseDeal>
+        <ReleaseDeal>
+            <DealReleaseReference>R500006610522655613</DealReleaseReference>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>ConditionalDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>Stream</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>Stream</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>ConditionalDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>ConditionalDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>Stream</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <EffectiveDate>2012-05-14</EffectiveDate>
+        </ReleaseDeal>
+        <ReleaseDeal>
+            <DealReleaseReference>R500006610522654814</DealReleaseReference>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>ConditionalDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">UNPRICED</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>Stream</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">UNPRICED</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>Stream</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">UNPRICED</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">UNPRICED</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>ConditionalDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">UNPRICED</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>ConditionalDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">UNPRICED</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">UNPRICED</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">UNPRICED</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>Stream</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PA-DPIDA-2012031302-R">UNPRICED</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-05-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <EffectiveDate>2012-05-14</EffectiveDate>
+        </ReleaseDeal>
+    </DealList>
+</ns2:NewReleaseMessage>

@@ -1,0 +1,3123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ern:NewReleaseMessage xmlns:ern="http://ddex.net/xml/ern/35" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" LanguageAndScriptCode="en" MessageSchemaVersionId="ern/35" xs:schemaLocation="http://ddex.net/xml/ern/35 http://ddex.net/xml/ern/35/release-notification.xsd">
+    <MessageHeader>
+        <MessageThreadId>3000013020057</MessageThreadId>
+        <MessageId>3000013020057_27524306904</MessageId>
+        <MessageFileName>UMG_Metadata_SYN_umgi_MobDDEX_1_update_00602527666235_2012-12-18_20-11-21.xml</MessageFileName>
+        <MessageSender>
+            <PartyId>PADPIDA2010032301A</PartyId>
+            <PartyName>
+                <FullName>Digiplug</FullName>
+            </PartyName>
+        </MessageSender>
+        <SentOnBehalfOf>
+            <PartyId>PADPIDA2012031302R</PartyId>
+            <PartyName>
+                <FullName>Universal Music Group International</FullName>
+            </PartyName>
+        </SentOnBehalfOf>
+        <MessageRecipient>
+            <PartyId>123456</PartyId>
+            <PartyName>
+                <FullName>SYN_umgi_MobDDEX_1</FullName>
+            </PartyName>
+        </MessageRecipient>
+        <MessageCreatedDateTime>2012-12-18T20:11:21</MessageCreatedDateTime>
+        <MessageControlType>LiveMessage</MessageControlType>
+    </MessageHeader>
+    <UpdateIndicator>UpdateMessage</UpdateIndicator>
+    <IsBackfill>false</IsBackfill>
+    <ResourceList>
+        <Video>
+            <VideoId>
+                <ISRC>USUV70901803</ISRC>
+            </VideoId>
+            <ResourceReference>A29256636099</ResourceReference>
+            <ReferenceTitle>
+                <TitleText>One Time</TitleText>
+                <SubTitle>Closed Captioned, w/ Logo Blur Edit</SubTitle>
+            </ReferenceTitle>
+            <IsBonusResource>false</IsBonusResource>
+            <Duration>PT4M1.000S</Duration>
+            <VideoDetailsByTerritory>
+                <TerritoryCode>JP</TerritoryCode>
+                <TerritoryCode>BR</TerritoryCode>
+                <TerritoryCode>DE</TerritoryCode>
+                <Title>
+                    <TitleText>One Time</TitleText>
+                    <SubTitle>Closed Captioned, w/ Logo Blur Edit</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Justin Bieber</FullName>
+                        <KeyName>Bieber</KeyName>
+                        <NamesAfterKeyName>Justin</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>JB &amp; Corron</FullName>
+                        <KeyName>JB &amp; Corron</KeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>C. &quot;Tricky&quot; Stewart</FullName>
+                        <KeyName>Stewart</KeyName>
+                        <NamesAfterKeyName>C. &quot;Tricky&quot;</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Kuk Harrell</FullName>
+                        <KeyName>Harrell</KeyName>
+                        <NamesAfterKeyName>Kuk</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="5">
+                    <PartyName>
+                        <FullName>Andrew Listermann</FullName>
+                        <KeyName>Listermann</KeyName>
+                        <NamesAfterKeyName>Andrew</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="6">
+                    <PartyName>
+                        <FullName>Vashtie</FullName>
+                        <KeyName>Vashtie</KeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Christopher Stewart</FullName>
+                        <KeyName>Stewart</KeyName>
+                        <NamesAfterKeyName>Christopher</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Author</IndirectResourceContributorRole>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="2">
+                    <PartyName>
+                        <FullName>James Bunton</FullName>
+                        <KeyName>Bunton</KeyName>
+                        <NamesAfterKeyName>James</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                    <IndirectResourceContributorRole>Author</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Corron Cole</FullName>
+                        <KeyName>Cole</KeyName>
+                        <NamesAfterKeyName>Corron</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Author</IndirectResourceContributorRole>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Thabiso Nkhereanye</FullName>
+                        <KeyName>Nkhereanye</KeyName>
+                        <NamesAfterKeyName>Thabiso</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Author</IndirectResourceContributorRole>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <PLine>
+                    <PLineText>(P) 2009 The Island Def Jam Music Group</PLineText>
+                </PLine>
+                <Genre>
+                    <GenreText>Pop</GenreText>
+                </Genre>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <CLine>
+                    <CLineText>(C) 2009 The Island Def Jam Music Group</CLineText>
+                </CLine>
+            </VideoDetailsByTerritory>
+        </Video>
+        <Video>
+            <VideoId>
+                <ISRC>USUV70902899</ISRC>
+            </VideoId>
+            <ResourceReference>A29256636097</ResourceReference>
+            <ReferenceTitle>
+                <TitleText>One Less Lonely Girl</TitleText>
+                <SubTitle>Online Version</SubTitle>
+            </ReferenceTitle>
+            <IsBonusResource>false</IsBonusResource>
+            <Duration>PT3M54.000S</Duration>
+            <VideoDetailsByTerritory>
+                <TerritoryCode>JP</TerritoryCode>
+                <TerritoryCode>BR</TerritoryCode>
+                <TerritoryCode>DE</TerritoryCode>
+                <Title>
+                    <TitleText>One Less Lonely Girl</TitleText>
+                    <SubTitle>Online Version</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Justin Bieber</FullName>
+                        <KeyName>Bieber</KeyName>
+                        <NamesAfterKeyName>Justin</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Ezekiel Lewis</FullName>
+                        <KeyName>Lewis</KeyName>
+                        <NamesAfterKeyName>Ezekiel</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Balewa Muhammad</FullName>
+                        <KeyName>Muhammad</KeyName>
+                        <NamesAfterKeyName>Balewa</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Sean Hamilton</FullName>
+                        <KeyName>Hamilton</KeyName>
+                        <NamesAfterKeyName>Sean</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="5">
+                    <PartyName>
+                        <FullName>Hyuk Shin</FullName>
+                        <KeyName>Shin</KeyName>
+                        <NamesAfterKeyName>Hyuk</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="6">
+                    <PartyName>
+                        <FullName>Tameron Hodges</FullName>
+                        <KeyName>Hodges</KeyName>
+                        <NamesAfterKeyName>Tameron</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="7">
+                    <PartyName>
+                        <FullName>Roman White</FullName>
+                        <KeyName>White</KeyName>
+                        <NamesAfterKeyName>Roman</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Ezekiel Lewis</FullName>
+                        <KeyName>Lewis</KeyName>
+                        <NamesAfterKeyName>Ezekiel</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Author</IndirectResourceContributorRole>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Balewa Muhammad</FullName>
+                        <KeyName>Muhammad</KeyName>
+                        <NamesAfterKeyName>Balewa</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                    <IndirectResourceContributorRole>Author</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Sean Hamilton</FullName>
+                        <KeyName>Hamilton</KeyName>
+                        <NamesAfterKeyName>Sean</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Author</IndirectResourceContributorRole>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Hyuk Shin</FullName>
+                        <KeyName>Shin</KeyName>
+                        <NamesAfterKeyName>Hyuk</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                    <IndirectResourceContributorRole>Author</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <PLine>
+                    <PLineText>(P) 2009 The Island Def Jam Music Group</PLineText>
+                </PLine>
+                <Genre>
+                    <GenreText>Pop</GenreText>
+                </Genre>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <CLine>
+                    <CLineText>(C) 2009 The Island Def Jam Music Group</CLineText>
+                </CLine>
+            </VideoDetailsByTerritory>
+        </Video>
+        <Video>
+            <VideoId>
+                <ISRC>USUV71000127</ISRC>
+            </VideoId>
+            <ResourceReference>A29256636091</ResourceReference>
+            <ReferenceTitle>
+                <TitleText>Baby</TitleText>
+                <SubTitle>Closed-Captioned</SubTitle>
+            </ReferenceTitle>
+            <IsBonusResource>false</IsBonusResource>
+            <Duration>PT3M39.000S</Duration>
+            <VideoDetailsByTerritory>
+                <TerritoryCode>JP</TerritoryCode>
+                <TerritoryCode>BR</TerritoryCode>
+                <TerritoryCode>DE</TerritoryCode>
+                <Title>
+                    <TitleText>Baby</TitleText>
+                    <SubTitle>Closed-Captioned</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Justin Bieber</FullName>
+                        <KeyName>Bieber</KeyName>
+                        <NamesAfterKeyName>Justin</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Ludacris</FullName>
+                        <KeyName>Ludacris</KeyName>
+                    </PartyName>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>C. &quot;Tricky&quot; Stewart</FullName>
+                        <KeyName>Stewart</KeyName>
+                        <NamesAfterKeyName>C. &quot;Tricky&quot;</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Terius Nash</FullName>
+                        <KeyName>Nash</KeyName>
+                        <NamesAfterKeyName>Terius</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="5">
+                    <PartyName>
+                        <FullName>Ray Kay</FullName>
+                        <KeyName>Kay</KeyName>
+                        <NamesAfterKeyName>Ray</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="6">
+                    <PartyName>
+                        <FullName>Steven Johnson</FullName>
+                        <KeyName>Johnson</KeyName>
+                        <NamesAfterKeyName>Steven</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="7">
+                    <PartyName>
+                        <FullName>Nicole Acacio</FullName>
+                        <KeyName>Acacio</KeyName>
+                        <NamesAfterKeyName>Nicole</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Terius Nash</FullName>
+                        <KeyName>Nash</KeyName>
+                        <NamesAfterKeyName>Terius</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                    <IndirectResourceContributorRole>Author</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Christopher Stewart</FullName>
+                        <KeyName>Stewart</KeyName>
+                        <NamesAfterKeyName>Christopher</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Author</IndirectResourceContributorRole>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Christopher Bridges</FullName>
+                        <KeyName>Bridges</KeyName>
+                        <NamesAfterKeyName>Christopher</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                    <IndirectResourceContributorRole>Author</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Justin Bieber</FullName>
+                        <KeyName>Bieber</KeyName>
+                        <NamesAfterKeyName>Justin</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                    <IndirectResourceContributorRole>Author</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="5">
+                    <PartyName>
+                        <FullName>Christina Milian</FullName>
+                        <KeyName>Milian</KeyName>
+                        <NamesAfterKeyName>Christina</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Author</IndirectResourceContributorRole>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <PLine>
+                    <PLineText>(P) 2010 The Island Def Jam Music Group</PLineText>
+                </PLine>
+                <Genre>
+                    <GenreText>Pop</GenreText>
+                </Genre>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <CLine>
+                    <CLineText>(C) 2010 The Island Def Jam Music Group</CLineText>
+                </CLine>
+            </VideoDetailsByTerritory>
+        </Video>
+        <Video>
+            <VideoId>
+                <ISRC>USUV71000025</ISRC>
+            </VideoId>
+            <ResourceReference>A29256636095</ResourceReference>
+            <ReferenceTitle>
+                <TitleText>Never Let You Go</TitleText>
+                <SubTitle>Closed-Captioned</SubTitle>
+            </ReferenceTitle>
+            <IsBonusResource>false</IsBonusResource>
+            <Duration>PT4M31.000S</Duration>
+            <VideoDetailsByTerritory>
+                <TerritoryCode>JP</TerritoryCode>
+                <TerritoryCode>BR</TerritoryCode>
+                <TerritoryCode>DE</TerritoryCode>
+                <Title>
+                    <TitleText>Never Let You Go</TitleText>
+                    <SubTitle>Closed-Captioned</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Justin Bieber</FullName>
+                        <KeyName>Bieber</KeyName>
+                        <NamesAfterKeyName>Justin</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Bryan-Michael Cox</FullName>
+                        <KeyName>Cox</KeyName>
+                        <NamesAfterKeyName>Bryan-Michael</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Andrew Listermann</FullName>
+                        <KeyName>Listermann</KeyName>
+                        <NamesAfterKeyName>Andrew</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Colin Tilley</FullName>
+                        <KeyName>Tilley</KeyName>
+                        <NamesAfterKeyName>Colin</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Johnta Austin</FullName>
+                        <KeyName>Austin</KeyName>
+                        <NamesAfterKeyName>Johnta</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                    <IndirectResourceContributorRole>Author</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Bryan-Michael Cox</FullName>
+                        <KeyName>Cox</KeyName>
+                        <NamesAfterKeyName>Bryan-Michael</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Author</IndirectResourceContributorRole>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Justin Bieber</FullName>
+                        <KeyName>Bieber</KeyName>
+                        <NamesAfterKeyName>Justin</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                    <IndirectResourceContributorRole>Author</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <PLine>
+                    <PLineText>(P) 2010 The Island Def Jam Music Group</PLineText>
+                </PLine>
+                <Genre>
+                    <GenreText>Pop</GenreText>
+                </Genre>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <CLine>
+                    <CLineText>(C) 2010 The Island Def Jam Music Group</CLineText>
+                </CLine>
+            </VideoDetailsByTerritory>
+        </Video>
+        <Video>
+            <VideoId>
+                <ISRC>USUV71001253</ISRC>
+            </VideoId>
+            <ResourceReference>A29256636093</ResourceReference>
+            <ReferenceTitle>
+                <TitleText>Somebody To Love Remix</TitleText>
+                <SubTitle>Revised; Closed-Captioned</SubTitle>
+            </ReferenceTitle>
+            <IsBonusResource>false</IsBonusResource>
+            <Duration>PT3M38.000S</Duration>
+            <VideoDetailsByTerritory>
+                <TerritoryCode>JP</TerritoryCode>
+                <TerritoryCode>BR</TerritoryCode>
+                <TerritoryCode>DE</TerritoryCode>
+                <Title>
+                    <TitleText>Somebody To Love Remix</TitleText>
+                    <SubTitle>Revised; Closed-Captioned</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Justin Bieber</FullName>
+                        <KeyName>Bieber</KeyName>
+                        <NamesAfterKeyName>Justin</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Usher</FullName>
+                        <KeyName>Usher</KeyName>
+                    </PartyName>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Stereotypes</FullName>
+                        <KeyName>Stereotypes</KeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Jennifer Heath</FullName>
+                        <KeyName>Heath</KeyName>
+                        <NamesAfterKeyName>Jennifer</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="5">
+                    <PartyName>
+                        <FullName>Dave Meyers</FullName>
+                        <KeyName>Meyers</KeyName>
+                        <NamesAfterKeyName>Dave</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="6">
+                    <PartyName>
+                        <FullName>Mike Drinkwater</FullName>
+                        <KeyName>Drinkwater</KeyName>
+                        <NamesAfterKeyName>Mike</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Jonathan Yip</FullName>
+                        <KeyName>Yip</KeyName>
+                        <NamesAfterKeyName>Jonathan</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Author</IndirectResourceContributorRole>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Jeremy Reeves</FullName>
+                        <KeyName>Reeves</KeyName>
+                        <NamesAfterKeyName>Jeremy</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                    <IndirectResourceContributorRole>Author</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Ray Romulus</FullName>
+                        <KeyName>Romulus</KeyName>
+                        <NamesAfterKeyName>Ray</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Author</IndirectResourceContributorRole>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Heather Bright</FullName>
+                        <KeyName>Bright</KeyName>
+                        <NamesAfterKeyName>Heather</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                    <IndirectResourceContributorRole>Author</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="5">
+                    <PartyName>
+                        <FullName>Justin Bieber</FullName>
+                        <KeyName>Bieber</KeyName>
+                        <NamesAfterKeyName>Justin</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                    <IndirectResourceContributorRole>Author</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <PLine>
+                    <PLineText>(P) 2010 The Island Def Jam Music Group</PLineText>
+                </PLine>
+                <Genre>
+                    <GenreText>Pop</GenreText>
+                </Genre>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <CLine>
+                    <CLineText>(C) 2010 The Island Def Jam Music Group</CLineText>
+                </CLine>
+            </VideoDetailsByTerritory>
+        </Video>
+        <Video>
+            <VideoId>
+                <ISRC>USUV71001751</ISRC>
+            </VideoId>
+            <ResourceReference>A29256636090</ResourceReference>
+            <ReferenceTitle>
+                <TitleText>U Smile</TitleText>
+                <SubTitle>Closed-Captioned</SubTitle>
+            </ReferenceTitle>
+            <IsBonusResource>false</IsBonusResource>
+            <Duration>PT4M40.000S</Duration>
+            <VideoDetailsByTerritory>
+                <TerritoryCode>JP</TerritoryCode>
+                <TerritoryCode>BR</TerritoryCode>
+                <TerritoryCode>DE</TerritoryCode>
+                <Title>
+                    <TitleText>U Smile</TitleText>
+                    <SubTitle>Closed-Captioned</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Justin Bieber</FullName>
+                        <KeyName>Bieber</KeyName>
+                        <NamesAfterKeyName>Justin</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Jerry Duplessis</FullName>
+                        <KeyName>Duplessis</KeyName>
+                        <NamesAfterKeyName>Jerry</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Arden Altino</FullName>
+                        <KeyName>Altino</KeyName>
+                        <NamesAfterKeyName>Arden</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Colin Tilley</FullName>
+                        <KeyName>Tilley</KeyName>
+                        <NamesAfterKeyName>Colin</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="5">
+                    <PartyName>
+                        <FullName>Andrew Listermann</FullName>
+                        <KeyName>Listermann</KeyName>
+                        <NamesAfterKeyName>Andrew</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Jerry Duplessis</FullName>
+                        <KeyName>Duplessis</KeyName>
+                        <NamesAfterKeyName>Jerry</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Author</IndirectResourceContributorRole>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Arden Altino</FullName>
+                        <KeyName>Altino</KeyName>
+                        <NamesAfterKeyName>Arden</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                    <IndirectResourceContributorRole>Author</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Dan Rigo</FullName>
+                        <KeyName>Rigo</KeyName>
+                        <NamesAfterKeyName>Dan</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Author</IndirectResourceContributorRole>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Justin Bieber</FullName>
+                        <KeyName>Bieber</KeyName>
+                        <NamesAfterKeyName>Justin</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                    <IndirectResourceContributorRole>Author</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <PLine>
+                    <PLineText>(P) 2010 The Island Def Jam Music Group</PLineText>
+                </PLine>
+                <Genre>
+                    <GenreText>Pop</GenreText>
+                </Genre>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <CLine>
+                    <CLineText>(C) 2010 The Island Def Jam Music Group</CLineText>
+                </CLine>
+            </VideoDetailsByTerritory>
+        </Video>
+        <Video>
+            <VideoId>
+                <ISRC>USUV71002691</ISRC>
+            </VideoId>
+            <ResourceReference>A29256636111</ResourceReference>
+            <ReferenceTitle>
+                <TitleText>Pray</TitleText>
+                <SubTitle>Closed-Captioned</SubTitle>
+            </ReferenceTitle>
+            <IsBonusResource>false</IsBonusResource>
+            <Duration>PT3M33.000S</Duration>
+            <VideoDetailsByTerritory>
+                <TerritoryCode>JP</TerritoryCode>
+                <TerritoryCode>BR</TerritoryCode>
+                <TerritoryCode>DE</TerritoryCode>
+                <Title>
+                    <TitleText>Pray</TitleText>
+                    <SubTitle>Closed-Captioned</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Justin Bieber</FullName>
+                        <KeyName>Bieber</KeyName>
+                        <NamesAfterKeyName>Justin</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>The Messengers</FullName>
+                        <KeyName>The Messengers</KeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Alfredo Flores</FullName>
+                        <KeyName>Flores</KeyName>
+                        <NamesAfterKeyName>Alfredo</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Roy LaManna</FullName>
+                        <KeyName>LaManna</KeyName>
+                        <NamesAfterKeyName>Roy</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="5">
+                    <PartyName>
+                        <FullName>Scott &quot;Scooter&quot; Braun</FullName>
+                        <KeyName>&quot;Scooter&quot; Braun</KeyName>
+                        <NamesAfterKeyName>Scott</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Nasri Atweh</FullName>
+                        <KeyName>Atweh</KeyName>
+                        <NamesAfterKeyName>Nasri</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Author</IndirectResourceContributorRole>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Adam Messinger</FullName>
+                        <KeyName>Messinger</KeyName>
+                        <NamesAfterKeyName>Adam</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                    <IndirectResourceContributorRole>Author</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="3">
+                    <PartyName>
+                        <FullName>O. Martinez</FullName>
+                        <KeyName>Martinez</KeyName>
+                        <NamesAfterKeyName>O.</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Author</IndirectResourceContributorRole>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Justin Bieber</FullName>
+                        <KeyName>Bieber</KeyName>
+                        <NamesAfterKeyName>Justin</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                    <IndirectResourceContributorRole>Author</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <PLine>
+                    <PLineText>(P) 2010 The Island Def Jam Music Group</PLineText>
+                </PLine>
+                <Genre>
+                    <GenreText>Pop</GenreText>
+                </Genre>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <CLine>
+                    <CLineText>(C) 2010 The Island Def Jam Music Group</CLineText>
+                </CLine>
+            </VideoDetailsByTerritory>
+        </Video>
+        <Image>
+            <ImageId>
+                <ProprietaryId Namespace="PADPIDA2012031302R">11UMGIM03929</ProprietaryId>
+            </ImageId>
+            <ResourceReference>A29256592058</ResourceReference>
+            <Title>
+                <TitleText>Bundle Of Bieber</TitleText>
+            </Title>
+            <ImageDetailsByTerritory>
+                <TerritoryCode>JP</TerritoryCode>
+                <TerritoryCode>BR</TerritoryCode>
+                <TerritoryCode>DE</TerritoryCode>
+                <CLine>
+                    <CLineText>(C) 2010 The Island Def Jam Music Group</CLineText>
+                </CLine>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+            </ImageDetailsByTerritory>
+        </Image>
+    </ResourceList>
+    <ReleaseList>
+        <Release>
+            <ReleaseId>
+                <ICPN IsEan="false">00602527666235</ICPN>
+            </ReleaseId>
+            <ReleaseReference>R9C5830EFC8C634C0E040390A05021584</ReleaseReference>
+            <ReferenceTitle>
+                <TitleText>Bundle Of Bieber</TitleText>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A29256636099</ReleaseResourceReference>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A29256636097</ReleaseResourceReference>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A29256636091</ReleaseResourceReference>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A29256636095</ReleaseResourceReference>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A29256636093</ReleaseResourceReference>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A29256636090</ReleaseResourceReference>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A29256636111</ReleaseResourceReference>
+                <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A29256592058</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>VideoAlbum</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>JP</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music LLC</LabelName>
+                <Title>
+                    <TitleText>Bundle Of Bieber</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Justin Bieber</FullName>
+                        <KeyName>Bieber</KeyName>
+                        <NamesAfterKeyName>Justin</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroup>
+                        <SequenceNumber>1</SequenceNumber>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>1</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A29256636099</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>2</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A29256636097</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>3</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A29256636091</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>4</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A29256636095</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>5</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A29256636093</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>6</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A29256636090</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>7</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A29256636111</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                    </ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A29256592058</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Pop</GenreText>
+                </Genre>
+                <ReleaseDate>2011-05-04</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>BR</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music International Ltda.</LabelName>
+                <Title>
+                    <TitleText>Bundle Of Bieber</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Justin Bieber</FullName>
+                        <KeyName>Bieber</KeyName>
+                        <NamesAfterKeyName>Justin</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroup>
+                        <SequenceNumber>1</SequenceNumber>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>1</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A29256636099</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>2</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A29256636097</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>3</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A29256636091</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>4</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A29256636095</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>5</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A29256636093</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>6</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A29256636090</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>7</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A29256636111</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                    </ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A29256592058</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Pop</GenreText>
+                </Genre>
+                <ReleaseDate>2011-02-28</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>DE</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Def Jam Recordings</LabelName>
+                <Title>
+                    <TitleText>Bundle Of Bieber</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Justin Bieber</FullName>
+                        <KeyName>Bieber</KeyName>
+                        <NamesAfterKeyName>Justin</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroup>
+                        <SequenceNumber>1</SequenceNumber>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>1</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A29256636099</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>2</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A29256636097</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>3</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A29256636091</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>4</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A29256636095</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>5</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A29256636093</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>6</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A29256636090</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>7</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A29256636111</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                    </ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A29256592058</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Pop</GenreText>
+                </Genre>
+                <ReleaseDate>2011-02-28</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT27M56.000S</Duration>
+            <PLine>
+                <PLineText>(P) 2011 The Island Def Jam Music Group</PLineText>
+            </PLine>
+            <CLine>
+                <CLineText>(C) 2011 The Island Def Jam Music Group</CLineText>
+            </CLine>
+        </Release>
+        <Release>
+            <ReleaseId>
+                <ProprietaryId Namespace="PADPIDA2012031302R">00602527666235_USUV70901803_01_001</ProprietaryId>
+            </ReleaseId>
+            <ReleaseReference>R29256636099</ReleaseReference>
+            <ReferenceTitle>
+                <TitleText>One Time</TitleText>
+                <SubTitle>Closed Captioned, w/ Logo Blur Edit</SubTitle>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A29256636099</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>VideoTrackRelease</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>JP</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <Title>
+                    <TitleText>One Time</TitleText>
+                    <SubTitle>Closed Captioned, w/ Logo Blur Edit</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Justin Bieber</FullName>
+                        <KeyName>Bieber</KeyName>
+                        <NamesAfterKeyName>Justin</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Christopher Stewart</FullName>
+                        <KeyName>Stewart</KeyName>
+                        <NamesAfterKeyName>Christopher</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Author</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>James Bunton</FullName>
+                        <KeyName>Bunton</KeyName>
+                        <NamesAfterKeyName>James</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                    <ArtistRole>Author</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Corron Cole</FullName>
+                        <KeyName>Cole</KeyName>
+                        <NamesAfterKeyName>Corron</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Author</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="5">
+                    <PartyName>
+                        <FullName>Thabiso Nkhereanye</FullName>
+                        <KeyName>Nkhereanye</KeyName>
+                        <NamesAfterKeyName>Thabiso</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Author</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="6">
+                    <PartyName>
+                        <FullName>JB &amp; Corron</FullName>
+                        <KeyName>JB &amp; Corron</KeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="7">
+                    <PartyName>
+                        <FullName>C. &quot;Tricky&quot; Stewart</FullName>
+                        <KeyName>Stewart</KeyName>
+                        <NamesAfterKeyName>C. &quot;Tricky&quot;</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="8">
+                    <PartyName>
+                        <FullName>Kuk Harrell</FullName>
+                        <KeyName>Harrell</KeyName>
+                        <NamesAfterKeyName>Kuk</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="9">
+                    <PartyName>
+                        <FullName>Andrew Listermann</FullName>
+                        <KeyName>Listermann</KeyName>
+                        <NamesAfterKeyName>Andrew</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="10">
+                    <PartyName>
+                        <FullName>Vashtie</FullName>
+                        <KeyName>Vashtie</KeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A29256636099</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Pop</GenreText>
+                </Genre>
+                <ReleaseDate>2011-05-04</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>BR</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <Title>
+                    <TitleText>One Time</TitleText>
+                    <SubTitle>Closed Captioned, w/ Logo Blur Edit</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Justin Bieber</FullName>
+                        <KeyName>Bieber</KeyName>
+                        <NamesAfterKeyName>Justin</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Christopher Stewart</FullName>
+                        <KeyName>Stewart</KeyName>
+                        <NamesAfterKeyName>Christopher</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                    <ArtistRole>Author</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>James Bunton</FullName>
+                        <KeyName>Bunton</KeyName>
+                        <NamesAfterKeyName>James</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Author</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Corron Cole</FullName>
+                        <KeyName>Cole</KeyName>
+                        <NamesAfterKeyName>Corron</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                    <ArtistRole>Author</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="5">
+                    <PartyName>
+                        <FullName>Thabiso Nkhereanye</FullName>
+                        <KeyName>Nkhereanye</KeyName>
+                        <NamesAfterKeyName>Thabiso</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Author</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="6">
+                    <PartyName>
+                        <FullName>JB &amp; Corron</FullName>
+                        <KeyName>JB &amp; Corron</KeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="7">
+                    <PartyName>
+                        <FullName>C. &quot;Tricky&quot; Stewart</FullName>
+                        <KeyName>Stewart</KeyName>
+                        <NamesAfterKeyName>C. &quot;Tricky&quot;</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="8">
+                    <PartyName>
+                        <FullName>Kuk Harrell</FullName>
+                        <KeyName>Harrell</KeyName>
+                        <NamesAfterKeyName>Kuk</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="9">
+                    <PartyName>
+                        <FullName>Andrew Listermann</FullName>
+                        <KeyName>Listermann</KeyName>
+                        <NamesAfterKeyName>Andrew</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="10">
+                    <PartyName>
+                        <FullName>Vashtie</FullName>
+                        <KeyName>Vashtie</KeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A29256636099</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Pop</GenreText>
+                </Genre>
+                <ReleaseDate>2011-02-28</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>DE</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Def Jam Recordings</LabelName>
+                <Title>
+                    <TitleText>One Time</TitleText>
+                    <SubTitle>Closed Captioned, w/ Logo Blur Edit</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Justin Bieber</FullName>
+                        <KeyName>Bieber</KeyName>
+                        <NamesAfterKeyName>Justin</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Christopher Stewart</FullName>
+                        <KeyName>Stewart</KeyName>
+                        <NamesAfterKeyName>Christopher</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Author</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>James Bunton</FullName>
+                        <KeyName>Bunton</KeyName>
+                        <NamesAfterKeyName>James</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                    <ArtistRole>Author</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Corron Cole</FullName>
+                        <KeyName>Cole</KeyName>
+                        <NamesAfterKeyName>Corron</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                    <ArtistRole>Author</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="5">
+                    <PartyName>
+                        <FullName>Thabiso Nkhereanye</FullName>
+                        <KeyName>Nkhereanye</KeyName>
+                        <NamesAfterKeyName>Thabiso</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                    <ArtistRole>Author</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="6">
+                    <PartyName>
+                        <FullName>JB &amp; Corron</FullName>
+                        <KeyName>JB &amp; Corron</KeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="7">
+                    <PartyName>
+                        <FullName>C. &quot;Tricky&quot; Stewart</FullName>
+                        <KeyName>Stewart</KeyName>
+                        <NamesAfterKeyName>C. &quot;Tricky&quot;</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="8">
+                    <PartyName>
+                        <FullName>Kuk Harrell</FullName>
+                        <KeyName>Harrell</KeyName>
+                        <NamesAfterKeyName>Kuk</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="9">
+                    <PartyName>
+                        <FullName>Andrew Listermann</FullName>
+                        <KeyName>Listermann</KeyName>
+                        <NamesAfterKeyName>Andrew</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="10">
+                    <PartyName>
+                        <FullName>Vashtie</FullName>
+                        <KeyName>Vashtie</KeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A29256636099</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Pop</GenreText>
+                </Genre>
+                <ReleaseDate>2011-02-28</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT4M1.000S</Duration>
+            <PLine>
+                <PLineText>(P) 2009 The Island Def Jam Music Group</PLineText>
+            </PLine>
+            <CLine>
+                <CLineText>(C) 2009 The Island Def Jam Music Group</CLineText>
+            </CLine>
+        </Release>
+        <Release>
+            <ReleaseId>
+                <ProprietaryId Namespace="PADPIDA2012031302R">00602527666235_USUV70902899_01_002</ProprietaryId>
+            </ReleaseId>
+            <ReleaseReference>R29256636097</ReleaseReference>
+            <ReferenceTitle>
+                <TitleText>One Less Lonely Girl</TitleText>
+                <SubTitle>Online Version</SubTitle>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A29256636097</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>VideoTrackRelease</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>JP</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Def Jam Recordings</LabelName>
+                <Title>
+                    <TitleText>One Less Lonely Girl</TitleText>
+                    <SubTitle>Online Version</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Justin Bieber</FullName>
+                        <KeyName>Bieber</KeyName>
+                        <NamesAfterKeyName>Justin</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Ezekiel Lewis</FullName>
+                        <KeyName>Lewis</KeyName>
+                        <NamesAfterKeyName>Ezekiel</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Author</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Balewa Muhammad</FullName>
+                        <KeyName>Muhammad</KeyName>
+                        <NamesAfterKeyName>Balewa</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>Author</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Sean Hamilton</FullName>
+                        <KeyName>Hamilton</KeyName>
+                        <NamesAfterKeyName>Sean</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Author</ArtistRole>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="5">
+                    <PartyName>
+                        <FullName>Hyuk Shin</FullName>
+                        <KeyName>Shin</KeyName>
+                        <NamesAfterKeyName>Hyuk</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                    <ArtistRole>Author</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="6">
+                    <PartyName>
+                        <FullName>Tameron Hodges</FullName>
+                        <KeyName>Hodges</KeyName>
+                        <NamesAfterKeyName>Tameron</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="7">
+                    <PartyName>
+                        <FullName>Roman White</FullName>
+                        <KeyName>White</KeyName>
+                        <NamesAfterKeyName>Roman</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A29256636097</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Pop</GenreText>
+                </Genre>
+                <ReleaseDate>2011-05-04</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>BR</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <Title>
+                    <TitleText>One Less Lonely Girl</TitleText>
+                    <SubTitle>Online Version</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Justin Bieber</FullName>
+                        <KeyName>Bieber</KeyName>
+                        <NamesAfterKeyName>Justin</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Ezekiel Lewis</FullName>
+                        <KeyName>Lewis</KeyName>
+                        <NamesAfterKeyName>Ezekiel</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Author</ArtistRole>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Balewa Muhammad</FullName>
+                        <KeyName>Muhammad</KeyName>
+                        <NamesAfterKeyName>Balewa</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Author</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Sean Hamilton</FullName>
+                        <KeyName>Hamilton</KeyName>
+                        <NamesAfterKeyName>Sean</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Author</ArtistRole>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="5">
+                    <PartyName>
+                        <FullName>Hyuk Shin</FullName>
+                        <KeyName>Shin</KeyName>
+                        <NamesAfterKeyName>Hyuk</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                    <ArtistRole>Author</ArtistRole>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="6">
+                    <PartyName>
+                        <FullName>Tameron Hodges</FullName>
+                        <KeyName>Hodges</KeyName>
+                        <NamesAfterKeyName>Tameron</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="7">
+                    <PartyName>
+                        <FullName>Roman White</FullName>
+                        <KeyName>White</KeyName>
+                        <NamesAfterKeyName>Roman</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A29256636097</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Pop</GenreText>
+                </Genre>
+                <ReleaseDate>2011-02-28</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>DE</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Def Jam Recordings</LabelName>
+                <Title>
+                    <TitleText>One Less Lonely Girl</TitleText>
+                    <SubTitle>Online Version</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Justin Bieber</FullName>
+                        <KeyName>Bieber</KeyName>
+                        <NamesAfterKeyName>Justin</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Ezekiel Lewis</FullName>
+                        <KeyName>Lewis</KeyName>
+                        <NamesAfterKeyName>Ezekiel</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Author</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Balewa Muhammad</FullName>
+                        <KeyName>Muhammad</KeyName>
+                        <NamesAfterKeyName>Balewa</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>Author</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Sean Hamilton</FullName>
+                        <KeyName>Hamilton</KeyName>
+                        <NamesAfterKeyName>Sean</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                    <ArtistRole>Author</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="5">
+                    <PartyName>
+                        <FullName>Hyuk Shin</FullName>
+                        <KeyName>Shin</KeyName>
+                        <NamesAfterKeyName>Hyuk</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                    <ArtistRole>Author</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="6">
+                    <PartyName>
+                        <FullName>Tameron Hodges</FullName>
+                        <KeyName>Hodges</KeyName>
+                        <NamesAfterKeyName>Tameron</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="7">
+                    <PartyName>
+                        <FullName>Roman White</FullName>
+                        <KeyName>White</KeyName>
+                        <NamesAfterKeyName>Roman</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A29256636097</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Pop</GenreText>
+                </Genre>
+                <ReleaseDate>2011-02-28</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT3M54.000S</Duration>
+            <PLine>
+                <PLineText>(P) 2009 The Island Def Jam Music Group</PLineText>
+            </PLine>
+            <CLine>
+                <CLineText>(C) 2009 The Island Def Jam Music Group</CLineText>
+            </CLine>
+        </Release>
+        <Release>
+            <ReleaseId>
+                <ProprietaryId Namespace="PADPIDA2012031302R">00602527666235_USUV71000127_01_003</ProprietaryId>
+            </ReleaseId>
+            <ReleaseReference>R29256636091</ReleaseReference>
+            <ReferenceTitle>
+                <TitleText>Baby</TitleText>
+                <SubTitle>Closed-Captioned</SubTitle>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A29256636091</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>VideoTrackRelease</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>JP</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Island Records</LabelName>
+                <Title>
+                    <TitleText>Baby</TitleText>
+                    <SubTitle>Closed-Captioned</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Justin Bieber</FullName>
+                        <KeyName>Bieber</KeyName>
+                        <NamesAfterKeyName>Justin</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                    <ArtistRole>Author</ArtistRole>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Ludacris</FullName>
+                        <KeyName>Ludacris</KeyName>
+                    </PartyName>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Terius Nash</FullName>
+                        <KeyName>Nash</KeyName>
+                        <NamesAfterKeyName>Terius</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>Author</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Christopher Stewart</FullName>
+                        <KeyName>Stewart</KeyName>
+                        <NamesAfterKeyName>Christopher</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Author</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="5">
+                    <PartyName>
+                        <FullName>Christopher Bridges</FullName>
+                        <KeyName>Bridges</KeyName>
+                        <NamesAfterKeyName>Christopher</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                    <ArtistRole>Author</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="6">
+                    <PartyName>
+                        <FullName>Christina Milian</FullName>
+                        <KeyName>Milian</KeyName>
+                        <NamesAfterKeyName>Christina</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Author</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="7">
+                    <PartyName>
+                        <FullName>C. &quot;Tricky&quot; Stewart</FullName>
+                        <KeyName>Stewart</KeyName>
+                        <NamesAfterKeyName>C. &quot;Tricky&quot;</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="8">
+                    <PartyName>
+                        <FullName>Ray Kay</FullName>
+                        <KeyName>Kay</KeyName>
+                        <NamesAfterKeyName>Ray</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="9">
+                    <PartyName>
+                        <FullName>Steven Johnson</FullName>
+                        <KeyName>Johnson</KeyName>
+                        <NamesAfterKeyName>Steven</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="10">
+                    <PartyName>
+                        <FullName>Nicole Acacio</FullName>
+                        <KeyName>Acacio</KeyName>
+                        <NamesAfterKeyName>Nicole</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A29256636091</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Pop</GenreText>
+                </Genre>
+                <ReleaseDate>2011-05-04</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>BR</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <Title>
+                    <TitleText>Baby</TitleText>
+                    <SubTitle>Closed-Captioned</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Justin Bieber</FullName>
+                        <KeyName>Bieber</KeyName>
+                        <NamesAfterKeyName>Justin</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                    <ArtistRole>MainArtist</ArtistRole>
+                    <ArtistRole>Author</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Ludacris</FullName>
+                        <KeyName>Ludacris</KeyName>
+                    </PartyName>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Terius Nash</FullName>
+                        <KeyName>Nash</KeyName>
+                        <NamesAfterKeyName>Terius</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Author</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Christopher Stewart</FullName>
+                        <KeyName>Stewart</KeyName>
+                        <NamesAfterKeyName>Christopher</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                    <ArtistRole>Author</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="5">
+                    <PartyName>
+                        <FullName>Christopher Bridges</FullName>
+                        <KeyName>Bridges</KeyName>
+                        <NamesAfterKeyName>Christopher</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                    <ArtistRole>Author</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="6">
+                    <PartyName>
+                        <FullName>Christina Milian</FullName>
+                        <KeyName>Milian</KeyName>
+                        <NamesAfterKeyName>Christina</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Author</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="7">
+                    <PartyName>
+                        <FullName>C. &quot;Tricky&quot; Stewart</FullName>
+                        <KeyName>Stewart</KeyName>
+                        <NamesAfterKeyName>C. &quot;Tricky&quot;</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="8">
+                    <PartyName>
+                        <FullName>Ray Kay</FullName>
+                        <KeyName>Kay</KeyName>
+                        <NamesAfterKeyName>Ray</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="9">
+                    <PartyName>
+                        <FullName>Steven Johnson</FullName>
+                        <KeyName>Johnson</KeyName>
+                        <NamesAfterKeyName>Steven</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="10">
+                    <PartyName>
+                        <FullName>Nicole Acacio</FullName>
+                        <KeyName>Acacio</KeyName>
+                        <NamesAfterKeyName>Nicole</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A29256636091</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Pop</GenreText>
+                </Genre>
+                <ReleaseDate>2011-02-28</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>DE</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Def Jam Recordings</LabelName>
+                <Title>
+                    <TitleText>Baby</TitleText>
+                    <SubTitle>Closed-Captioned</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Justin Bieber</FullName>
+                        <KeyName>Bieber</KeyName>
+                        <NamesAfterKeyName>Justin</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Author</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Ludacris</FullName>
+                        <KeyName>Ludacris</KeyName>
+                    </PartyName>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Terius Nash</FullName>
+                        <KeyName>Nash</KeyName>
+                        <NamesAfterKeyName>Terius</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>Author</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Christopher Stewart</FullName>
+                        <KeyName>Stewart</KeyName>
+                        <NamesAfterKeyName>Christopher</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                    <ArtistRole>Author</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="5">
+                    <PartyName>
+                        <FullName>Christopher Bridges</FullName>
+                        <KeyName>Bridges</KeyName>
+                        <NamesAfterKeyName>Christopher</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Author</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="6">
+                    <PartyName>
+                        <FullName>Christina Milian</FullName>
+                        <KeyName>Milian</KeyName>
+                        <NamesAfterKeyName>Christina</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Author</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="7">
+                    <PartyName>
+                        <FullName>C. &quot;Tricky&quot; Stewart</FullName>
+                        <KeyName>Stewart</KeyName>
+                        <NamesAfterKeyName>C. &quot;Tricky&quot;</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="8">
+                    <PartyName>
+                        <FullName>Ray Kay</FullName>
+                        <KeyName>Kay</KeyName>
+                        <NamesAfterKeyName>Ray</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="9">
+                    <PartyName>
+                        <FullName>Steven Johnson</FullName>
+                        <KeyName>Johnson</KeyName>
+                        <NamesAfterKeyName>Steven</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="10">
+                    <PartyName>
+                        <FullName>Nicole Acacio</FullName>
+                        <KeyName>Acacio</KeyName>
+                        <NamesAfterKeyName>Nicole</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A29256636091</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Pop</GenreText>
+                </Genre>
+                <ReleaseDate>2011-02-28</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT3M39.000S</Duration>
+            <PLine>
+                <PLineText>(P) 2010 The Island Def Jam Music Group</PLineText>
+            </PLine>
+            <CLine>
+                <CLineText>(C) 2010 The Island Def Jam Music Group</CLineText>
+            </CLine>
+        </Release>
+        <Release>
+            <ReleaseId>
+                <ProprietaryId Namespace="PADPIDA2012031302R">00602527666235_USUV71000025_01_004</ProprietaryId>
+            </ReleaseId>
+            <ReleaseReference>R29256636095</ReleaseReference>
+            <ReferenceTitle>
+                <TitleText>Never Let You Go</TitleText>
+                <SubTitle>Closed-Captioned</SubTitle>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A29256636095</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>VideoTrackRelease</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>JP</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Island Records</LabelName>
+                <Title>
+                    <TitleText>Never Let You Go</TitleText>
+                    <SubTitle>Closed-Captioned</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Justin Bieber</FullName>
+                        <KeyName>Bieber</KeyName>
+                        <NamesAfterKeyName>Justin</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                    <ArtistRole>Author</ArtistRole>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Johnta Austin</FullName>
+                        <KeyName>Austin</KeyName>
+                        <NamesAfterKeyName>Johnta</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                    <ArtistRole>Author</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Bryan-Michael Cox</FullName>
+                        <KeyName>Cox</KeyName>
+                        <NamesAfterKeyName>Bryan-Michael</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Author</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Andrew Listermann</FullName>
+                        <KeyName>Listermann</KeyName>
+                        <NamesAfterKeyName>Andrew</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="5">
+                    <PartyName>
+                        <FullName>Colin Tilley</FullName>
+                        <KeyName>Tilley</KeyName>
+                        <NamesAfterKeyName>Colin</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A29256636095</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Pop</GenreText>
+                </Genre>
+                <ReleaseDate>2011-05-04</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>BR</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Roupa Nova Music</LabelName>
+                <Title>
+                    <TitleText>Never Let You Go</TitleText>
+                    <SubTitle>Closed-Captioned</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Justin Bieber</FullName>
+                        <KeyName>Bieber</KeyName>
+                        <NamesAfterKeyName>Justin</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                    <ArtistRole>MainArtist</ArtistRole>
+                    <ArtistRole>Author</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Johnta Austin</FullName>
+                        <KeyName>Austin</KeyName>
+                        <NamesAfterKeyName>Johnta</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                    <ArtistRole>Author</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Bryan-Michael Cox</FullName>
+                        <KeyName>Cox</KeyName>
+                        <NamesAfterKeyName>Bryan-Michael</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>Author</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Andrew Listermann</FullName>
+                        <KeyName>Listermann</KeyName>
+                        <NamesAfterKeyName>Andrew</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="5">
+                    <PartyName>
+                        <FullName>Colin Tilley</FullName>
+                        <KeyName>Tilley</KeyName>
+                        <NamesAfterKeyName>Colin</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A29256636095</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Pop</GenreText>
+                </Genre>
+                <ReleaseDate>2011-02-28</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>DE</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Def Jam Recordings</LabelName>
+                <Title>
+                    <TitleText>Never Let You Go</TitleText>
+                    <SubTitle>Closed-Captioned</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Justin Bieber</FullName>
+                        <KeyName>Bieber</KeyName>
+                        <NamesAfterKeyName>Justin</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                    <ArtistRole>Author</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Johnta Austin</FullName>
+                        <KeyName>Austin</KeyName>
+                        <NamesAfterKeyName>Johnta</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Author</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Bryan-Michael Cox</FullName>
+                        <KeyName>Cox</KeyName>
+                        <NamesAfterKeyName>Bryan-Michael</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Author</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Andrew Listermann</FullName>
+                        <KeyName>Listermann</KeyName>
+                        <NamesAfterKeyName>Andrew</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="5">
+                    <PartyName>
+                        <FullName>Colin Tilley</FullName>
+                        <KeyName>Tilley</KeyName>
+                        <NamesAfterKeyName>Colin</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A29256636095</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Pop</GenreText>
+                </Genre>
+                <ReleaseDate>2011-02-28</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT4M31.000S</Duration>
+            <PLine>
+                <PLineText>(P) 2010 The Island Def Jam Music Group</PLineText>
+            </PLine>
+            <CLine>
+                <CLineText>(C) 2010 The Island Def Jam Music Group</CLineText>
+            </CLine>
+        </Release>
+        <Release>
+            <ReleaseId>
+                <ProprietaryId Namespace="PADPIDA2012031302R">00602527666235_USUV71001253_01_005</ProprietaryId>
+            </ReleaseId>
+            <ReleaseReference>R29256636093</ReleaseReference>
+            <ReferenceTitle>
+                <TitleText>Somebody To Love Remix</TitleText>
+                <SubTitle>Revised; Closed-Captioned</SubTitle>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A29256636093</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>VideoTrackRelease</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>JP</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Island Records</LabelName>
+                <Title>
+                    <TitleText>Somebody To Love Remix</TitleText>
+                    <SubTitle>Revised; Closed-Captioned</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Justin Bieber</FullName>
+                        <KeyName>Bieber</KeyName>
+                        <NamesAfterKeyName>Justin</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                    <ArtistRole>Author</ArtistRole>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Usher</FullName>
+                        <KeyName>Usher</KeyName>
+                    </PartyName>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Jonathan Yip</FullName>
+                        <KeyName>Yip</KeyName>
+                        <NamesAfterKeyName>Jonathan</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Author</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Jeremy Reeves</FullName>
+                        <KeyName>Reeves</KeyName>
+                        <NamesAfterKeyName>Jeremy</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                    <ArtistRole>Author</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="5">
+                    <PartyName>
+                        <FullName>Ray Romulus</FullName>
+                        <KeyName>Romulus</KeyName>
+                        <NamesAfterKeyName>Ray</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Author</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="6">
+                    <PartyName>
+                        <FullName>Heather Bright</FullName>
+                        <KeyName>Bright</KeyName>
+                        <NamesAfterKeyName>Heather</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                    <ArtistRole>Author</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="7">
+                    <PartyName>
+                        <FullName>Stereotypes</FullName>
+                        <KeyName>Stereotypes</KeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="8">
+                    <PartyName>
+                        <FullName>Jennifer Heath</FullName>
+                        <KeyName>Heath</KeyName>
+                        <NamesAfterKeyName>Jennifer</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="9">
+                    <PartyName>
+                        <FullName>Dave Meyers</FullName>
+                        <KeyName>Meyers</KeyName>
+                        <NamesAfterKeyName>Dave</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="10">
+                    <PartyName>
+                        <FullName>Mike Drinkwater</FullName>
+                        <KeyName>Drinkwater</KeyName>
+                        <NamesAfterKeyName>Mike</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A29256636093</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Pop</GenreText>
+                </Genre>
+                <ReleaseDate>2011-05-04</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>BR</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <Title>
+                    <TitleText>Somebody To Love Remix</TitleText>
+                    <SubTitle>Revised; Closed-Captioned</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Justin Bieber</FullName>
+                        <KeyName>Bieber</KeyName>
+                        <NamesAfterKeyName>Justin</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                    <ArtistRole>Author</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Usher</FullName>
+                        <KeyName>Usher</KeyName>
+                    </PartyName>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Jonathan Yip</FullName>
+                        <KeyName>Yip</KeyName>
+                        <NamesAfterKeyName>Jonathan</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                    <ArtistRole>Author</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Jeremy Reeves</FullName>
+                        <KeyName>Reeves</KeyName>
+                        <NamesAfterKeyName>Jeremy</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Author</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="5">
+                    <PartyName>
+                        <FullName>Ray Romulus</FullName>
+                        <KeyName>Romulus</KeyName>
+                        <NamesAfterKeyName>Ray</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                    <ArtistRole>Author</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="6">
+                    <PartyName>
+                        <FullName>Heather Bright</FullName>
+                        <KeyName>Bright</KeyName>
+                        <NamesAfterKeyName>Heather</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Author</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="7">
+                    <PartyName>
+                        <FullName>Stereotypes</FullName>
+                        <KeyName>Stereotypes</KeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="8">
+                    <PartyName>
+                        <FullName>Jennifer Heath</FullName>
+                        <KeyName>Heath</KeyName>
+                        <NamesAfterKeyName>Jennifer</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="9">
+                    <PartyName>
+                        <FullName>Dave Meyers</FullName>
+                        <KeyName>Meyers</KeyName>
+                        <NamesAfterKeyName>Dave</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="10">
+                    <PartyName>
+                        <FullName>Mike Drinkwater</FullName>
+                        <KeyName>Drinkwater</KeyName>
+                        <NamesAfterKeyName>Mike</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A29256636093</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Pop</GenreText>
+                </Genre>
+                <ReleaseDate>2011-02-28</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>DE</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Def Jam Recordings</LabelName>
+                <Title>
+                    <TitleText>Somebody To Love Remix</TitleText>
+                    <SubTitle>Revised; Closed-Captioned</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Justin Bieber</FullName>
+                        <KeyName>Bieber</KeyName>
+                        <NamesAfterKeyName>Justin</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Author</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Usher</FullName>
+                        <KeyName>Usher</KeyName>
+                    </PartyName>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Jonathan Yip</FullName>
+                        <KeyName>Yip</KeyName>
+                        <NamesAfterKeyName>Jonathan</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Author</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Jeremy Reeves</FullName>
+                        <KeyName>Reeves</KeyName>
+                        <NamesAfterKeyName>Jeremy</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                    <ArtistRole>Author</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="5">
+                    <PartyName>
+                        <FullName>Ray Romulus</FullName>
+                        <KeyName>Romulus</KeyName>
+                        <NamesAfterKeyName>Ray</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Author</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="6">
+                    <PartyName>
+                        <FullName>Heather Bright</FullName>
+                        <KeyName>Bright</KeyName>
+                        <NamesAfterKeyName>Heather</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Author</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="7">
+                    <PartyName>
+                        <FullName>Stereotypes</FullName>
+                        <KeyName>Stereotypes</KeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="8">
+                    <PartyName>
+                        <FullName>Jennifer Heath</FullName>
+                        <KeyName>Heath</KeyName>
+                        <NamesAfterKeyName>Jennifer</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="9">
+                    <PartyName>
+                        <FullName>Dave Meyers</FullName>
+                        <KeyName>Meyers</KeyName>
+                        <NamesAfterKeyName>Dave</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="10">
+                    <PartyName>
+                        <FullName>Mike Drinkwater</FullName>
+                        <KeyName>Drinkwater</KeyName>
+                        <NamesAfterKeyName>Mike</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A29256636093</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Pop</GenreText>
+                </Genre>
+                <ReleaseDate>2011-02-28</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT3M38.000S</Duration>
+            <PLine>
+                <PLineText>(P) 2010 The Island Def Jam Music Group</PLineText>
+            </PLine>
+            <CLine>
+                <CLineText>(C) 2010 The Island Def Jam Music Group</CLineText>
+            </CLine>
+        </Release>
+        <Release>
+            <ReleaseId>
+                <ProprietaryId Namespace="PADPIDA2012031302R">00602527666235_USUV71001751_01_006</ProprietaryId>
+            </ReleaseId>
+            <ReleaseReference>R29256636090</ReleaseReference>
+            <ReferenceTitle>
+                <TitleText>U Smile</TitleText>
+                <SubTitle>Closed-Captioned</SubTitle>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A29256636090</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>VideoTrackRelease</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>JP</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Island Records</LabelName>
+                <Title>
+                    <TitleText>U Smile</TitleText>
+                    <SubTitle>Closed-Captioned</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Justin Bieber</FullName>
+                        <KeyName>Bieber</KeyName>
+                        <NamesAfterKeyName>Justin</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                    <ArtistRole>Author</ArtistRole>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Jerry Duplessis</FullName>
+                        <KeyName>Duplessis</KeyName>
+                        <NamesAfterKeyName>Jerry</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>Author</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Arden Altino</FullName>
+                        <KeyName>Altino</KeyName>
+                        <NamesAfterKeyName>Arden</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                    <ArtistRole>Author</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Dan Rigo</FullName>
+                        <KeyName>Rigo</KeyName>
+                        <NamesAfterKeyName>Dan</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Author</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="5">
+                    <PartyName>
+                        <FullName>Colin Tilley</FullName>
+                        <KeyName>Tilley</KeyName>
+                        <NamesAfterKeyName>Colin</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="6">
+                    <PartyName>
+                        <FullName>Andrew Listermann</FullName>
+                        <KeyName>Listermann</KeyName>
+                        <NamesAfterKeyName>Andrew</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A29256636090</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Pop</GenreText>
+                </Genre>
+                <ReleaseDate>2011-05-04</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>BR</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <Title>
+                    <TitleText>U Smile</TitleText>
+                    <SubTitle>Closed-Captioned</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Justin Bieber</FullName>
+                        <KeyName>Bieber</KeyName>
+                        <NamesAfterKeyName>Justin</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                    <ArtistRole>Author</ArtistRole>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Jerry Duplessis</FullName>
+                        <KeyName>Duplessis</KeyName>
+                        <NamesAfterKeyName>Jerry</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>Author</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Arden Altino</FullName>
+                        <KeyName>Altino</KeyName>
+                        <NamesAfterKeyName>Arden</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                    <ArtistRole>Author</ArtistRole>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Dan Rigo</FullName>
+                        <KeyName>Rigo</KeyName>
+                        <NamesAfterKeyName>Dan</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Author</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="5">
+                    <PartyName>
+                        <FullName>Colin Tilley</FullName>
+                        <KeyName>Tilley</KeyName>
+                        <NamesAfterKeyName>Colin</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="6">
+                    <PartyName>
+                        <FullName>Andrew Listermann</FullName>
+                        <KeyName>Listermann</KeyName>
+                        <NamesAfterKeyName>Andrew</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A29256636090</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Pop</GenreText>
+                </Genre>
+                <ReleaseDate>2011-02-28</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>DE</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Island Records</LabelName>
+                <Title>
+                    <TitleText>U Smile</TitleText>
+                    <SubTitle>Closed-Captioned</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Justin Bieber</FullName>
+                        <KeyName>Bieber</KeyName>
+                        <NamesAfterKeyName>Justin</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                    <ArtistRole>Author</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Jerry Duplessis</FullName>
+                        <KeyName>Duplessis</KeyName>
+                        <NamesAfterKeyName>Jerry</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>Author</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Arden Altino</FullName>
+                        <KeyName>Altino</KeyName>
+                        <NamesAfterKeyName>Arden</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>Author</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Dan Rigo</FullName>
+                        <KeyName>Rigo</KeyName>
+                        <NamesAfterKeyName>Dan</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Author</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="5">
+                    <PartyName>
+                        <FullName>Colin Tilley</FullName>
+                        <KeyName>Tilley</KeyName>
+                        <NamesAfterKeyName>Colin</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="6">
+                    <PartyName>
+                        <FullName>Andrew Listermann</FullName>
+                        <KeyName>Listermann</KeyName>
+                        <NamesAfterKeyName>Andrew</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A29256636090</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Pop</GenreText>
+                </Genre>
+                <ReleaseDate>2011-02-28</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT4M40.000S</Duration>
+            <PLine>
+                <PLineText>(P) 2010 The Island Def Jam Music Group</PLineText>
+            </PLine>
+            <CLine>
+                <CLineText>(C) 2010 The Island Def Jam Music Group</CLineText>
+            </CLine>
+        </Release>
+        <Release>
+            <ReleaseId>
+                <ProprietaryId Namespace="PADPIDA2012031302R">00602527666235_USUV71002691_01_007</ProprietaryId>
+            </ReleaseId>
+            <ReleaseReference>R29256636111</ReleaseReference>
+            <ReferenceTitle>
+                <TitleText>Pray</TitleText>
+                <SubTitle>Closed-Captioned</SubTitle>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A29256636111</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>VideoTrackRelease</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>JP</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Island Records</LabelName>
+                <Title>
+                    <TitleText>Pray</TitleText>
+                    <SubTitle>Closed-Captioned</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Justin Bieber</FullName>
+                        <KeyName>Bieber</KeyName>
+                        <NamesAfterKeyName>Justin</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                    <ArtistRole>Author</ArtistRole>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Nasri Atweh</FullName>
+                        <KeyName>Atweh</KeyName>
+                        <NamesAfterKeyName>Nasri</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Author</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Adam Messinger</FullName>
+                        <KeyName>Messinger</KeyName>
+                        <NamesAfterKeyName>Adam</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                    <ArtistRole>Author</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>O. Martinez</FullName>
+                        <KeyName>Martinez</KeyName>
+                        <NamesAfterKeyName>O.</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Author</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="5">
+                    <PartyName>
+                        <FullName>The Messengers</FullName>
+                        <KeyName>The Messengers</KeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="6">
+                    <PartyName>
+                        <FullName>Alfredo Flores</FullName>
+                        <KeyName>Flores</KeyName>
+                        <NamesAfterKeyName>Alfredo</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="7">
+                    <PartyName>
+                        <FullName>Roy LaManna</FullName>
+                        <KeyName>LaManna</KeyName>
+                        <NamesAfterKeyName>Roy</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="8">
+                    <PartyName>
+                        <FullName>Scott &quot;Scooter&quot; Braun</FullName>
+                        <KeyName>&quot;Scooter&quot; Braun</KeyName>
+                        <NamesAfterKeyName>Scott</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A29256636111</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Pop</GenreText>
+                </Genre>
+                <ReleaseDate>2011-05-04</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>BR</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <Title>
+                    <TitleText>Pray</TitleText>
+                    <SubTitle>Closed-Captioned</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Justin Bieber</FullName>
+                        <KeyName>Bieber</KeyName>
+                        <NamesAfterKeyName>Justin</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Author</ArtistRole>
+                    <ArtistRole>MainArtist</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Nasri Atweh</FullName>
+                        <KeyName>Atweh</KeyName>
+                        <NamesAfterKeyName>Nasri</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                    <ArtistRole>Author</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Adam Messinger</FullName>
+                        <KeyName>Messinger</KeyName>
+                        <NamesAfterKeyName>Adam</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Author</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>O. Martinez</FullName>
+                        <KeyName>Martinez</KeyName>
+                        <NamesAfterKeyName>O.</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                    <ArtistRole>Author</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="5">
+                    <PartyName>
+                        <FullName>The Messengers</FullName>
+                        <KeyName>The Messengers</KeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="6">
+                    <PartyName>
+                        <FullName>Alfredo Flores</FullName>
+                        <KeyName>Flores</KeyName>
+                        <NamesAfterKeyName>Alfredo</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="7">
+                    <PartyName>
+                        <FullName>Roy LaManna</FullName>
+                        <KeyName>LaManna</KeyName>
+                        <NamesAfterKeyName>Roy</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="8">
+                    <PartyName>
+                        <FullName>Scott &quot;Scooter&quot; Braun</FullName>
+                        <KeyName>&quot;Scooter&quot; Braun</KeyName>
+                        <NamesAfterKeyName>Scott</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A29256636111</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Pop</GenreText>
+                </Genre>
+                <ReleaseDate>2011-02-28</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>DE</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Def Jam Recordings</LabelName>
+                <Title>
+                    <TitleText>Pray</TitleText>
+                    <SubTitle>Closed-Captioned</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Justin Bieber</FullName>
+                        <KeyName>Bieber</KeyName>
+                        <NamesAfterKeyName>Justin</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Author</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Nasri Atweh</FullName>
+                        <KeyName>Atweh</KeyName>
+                        <NamesAfterKeyName>Nasri</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                    <ArtistRole>Author</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Adam Messinger</FullName>
+                        <KeyName>Messinger</KeyName>
+                        <NamesAfterKeyName>Adam</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Author</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>O. Martinez</FullName>
+                        <KeyName>Martinez</KeyName>
+                        <NamesAfterKeyName>O.</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                    <ArtistRole>Author</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="5">
+                    <PartyName>
+                        <FullName>The Messengers</FullName>
+                        <KeyName>The Messengers</KeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="6">
+                    <PartyName>
+                        <FullName>Alfredo Flores</FullName>
+                        <KeyName>Flores</KeyName>
+                        <NamesAfterKeyName>Alfredo</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="7">
+                    <PartyName>
+                        <FullName>Roy LaManna</FullName>
+                        <KeyName>LaManna</KeyName>
+                        <NamesAfterKeyName>Roy</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="8">
+                    <PartyName>
+                        <FullName>Scott &quot;Scooter&quot; Braun</FullName>
+                        <KeyName>&quot;Scooter&quot; Braun</KeyName>
+                        <NamesAfterKeyName>Scott</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A29256636111</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Pop</GenreText>
+                </Genre>
+                <ReleaseDate>2011-02-28</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT3M33.000S</Duration>
+            <PLine>
+                <PLineText>(P) 2010 The Island Def Jam Music Group</PLineText>
+            </PLine>
+            <CLine>
+                <CLineText>(C) 2010 The Island Def Jam Music Group</CLineText>
+            </CLine>
+        </Release>
+    </ReleaseList>
+    <DealList>
+        <ReleaseDeal>
+            <DealReleaseReference>R9C5830EFC8C634C0E040390A05021584</DealReleaseReference>
+            <Deal>
+                <DealTerms>
+                    <AllDealsCancelled>true</AllDealsCancelled>
+                    <TerritoryCode>JP</TerritoryCode>
+                    <TerritoryCode>BR</TerritoryCode>
+                    <TerritoryCode>DE</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-12-18</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <EffectiveDate>2012-12-18</EffectiveDate>
+        </ReleaseDeal>
+        <ReleaseDeal>
+            <DealReleaseReference>R29256636099</DealReleaseReference>
+            <DealReleaseReference>R29256636097</DealReleaseReference>
+            <DealReleaseReference>R29256636091</DealReleaseReference>
+            <DealReleaseReference>R29256636095</DealReleaseReference>
+            <DealReleaseReference>R29256636093</DealReleaseReference>
+            <DealReleaseReference>R29256636090</DealReleaseReference>
+            <DealReleaseReference>R29256636111</DealReleaseReference>
+            <Deal>
+                <DealReference>AB-25258</DealReference>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>Stream</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PADPIDA2012031302R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>JP</TerritoryCode>
+                    <TerritoryCode>BR</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PADPIDA2012031302R">TVTP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-12-18</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealReference>Bulk Update : vincent.perdrix.ops_07-11-2011_UMREQ-3154_p1_v1.xls</DealReference>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>Stream</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PADPIDA2012031302R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>DE</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PADPIDA2012031302R">STVTP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-12-18</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <EffectiveDate>2012-12-18</EffectiveDate>
+        </ReleaseDeal>
+    </DealList>
+</ern:NewReleaseMessage>

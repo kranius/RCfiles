@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ern:NewReleaseMessage  xmlns:ern="http://ddex.net/xml/ern/35" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xs:schemaLocation="http://ddex.net/xml/ern/35 http://ddex.net/xml/ern/35/release-notification.xsd" MessageSchemaVersionId="ern/35" LanguageAndScriptCode="en">    
+    <MessageHeader>
+        <MessageThreadId>3000011725039</MessageThreadId>
+        <MessageId>3000011725039_30780505665</MessageId>
+        <MessageFileName>UMG_Metadata_Georges_BP_new_DGP-L-720404_2012-10-16_14-30-21.xml</MessageFileName>
+        <MessageSender>
+            <PartyId>PADPIDA2010032301A</PartyId>
+            <PartyName>
+                <FullName>Digiplug</FullName>
+            </PartyName>
+        </MessageSender>
+        <SentOnBehalfOf>
+            <PartyId>PADPIDA2012031302R</PartyId>
+            <PartyName>
+                <FullName>Universal Music Group International</FullName>
+            </PartyName>
+        </SentOnBehalfOf>
+        <MessageRecipient>
+            <PartyId>561</PartyId>
+            <PartyName>
+                <FullName>Georges BP</FullName>
+            </PartyName>
+        </MessageRecipient>
+        <MessageCreatedDateTime>2012-10-16T14:30:21</MessageCreatedDateTime>
+        <MessageControlType>TestMessage</MessageControlType>
+    </MessageHeader>
+    <UpdateIndicator>OriginalMessage</UpdateIndicator>
+	<IsBackfill>true</IsBackfill>
+    <ResourceList>
+        <Image>
+            <ImageId>
+                <ProprietaryId Namespace="PADPIDA2012031302R">07UMGIM19584</ProprietaryId>
+            </ImageId>
+            <ResourceReference>A69324535</ResourceReference>
+            <Title>
+                <TitleText>Stoned In Love</TitleText>
+            </Title>
+            <ImageDetailsByTerritory>
+                <TerritoryCode>GB</TerritoryCode>
+				<TerritoryCode>BE</TerritoryCode>
+				<TerritoryCode>FI</TerritoryCode>
+                <CLine>
+                    <CLineText>(C) 2006 Universal Music TV, a division of Universal Music Operations Ltd.</CLineText>
+                </CLine>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalImageDetails>
+                    <TechnicalResourceDetailsReference>T107582109448LV</TechnicalResourceDetailsReference>
+                    <ImageCodecType>JPEG</ImageCodecType>
+                    <ImageHeight UnitOfMeasure="Pixel">1000</ImageHeight>
+                    <ImageWidth UnitOfMeasure="Pixel">1000</ImageWidth>
+                    <AspectRatio>1.00</AspectRatio>
+                    <ImageResolution>300</ImageResolution>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_wp_800_800_DGP-L-720404_RGB_300_1000x1000_107582109448.jpg</FileName>
+                        <HashSum>
+                            <HashSum>6943c3624cb6c76ab259d488c379b75a</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalImageDetails>
+            </ImageDetailsByTerritory>
+        </Image>
+    </ResourceList>
+    <ReleaseList>
+        <Release>
+            <ReleaseId>
+                <ICPN IsEan="false">00602517379039</ICPN>
+                <ProprietaryId Namespace="PADPIDA2012031302R">DGP-L-720404</ProprietaryId>
+            </ReleaseId>
+            <ReleaseReference>R7EDB237F0BDDBE0AE040020A210036E6</ReleaseReference>
+            <ReferenceTitle>
+                <TitleText>Stoned In Love</TitleText>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A69324535</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>WallpaperRelease</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>GB</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music TV Campaign Division</LabelName>
+                <Title>
+                    <TitleText>Stoned In Love</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Chicane</FullName>
+                        <KeyName>Chicane</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Tom Jones</FullName>
+                        <KeyName>Jones</KeyName>
+                        <NamesAfterKeyName>Tom</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroup>
+                        <SequenceNumber>1</SequenceNumber>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>4</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A69324535</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                    </ResourceGroup>					
+                </ResourceGroup>
+                <ReleaseDate>2008-08-18</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>BE</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music S.A.</LabelName>
+                <Title>
+                    <TitleText>Stoned In Love</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Chicane</FullName>
+                        <KeyName>Chicane</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Tom Jones</FullName>
+                        <KeyName>Jones</KeyName>
+                        <NamesAfterKeyName>Tom</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroup>
+                        <SequenceNumber>1</SequenceNumber>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>4</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A69324535</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                    </ResourceGroup>
+                </ResourceGroup>
+				<ReleaseDate>2008-08-18</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>FI</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music Oy</LabelName>
+                <Title>
+                    <TitleText>Stoned In Love</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Chicane</FullName>
+                        <KeyName>Chicane</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Tom Jones</FullName>
+                        <KeyName>Jones</KeyName>
+                        <NamesAfterKeyName>Tom</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroup>
+                        <SequenceNumber>1</SequenceNumber>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>4</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A69324535</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                    </ResourceGroup>
+                </ResourceGroup>
+				<ReleaseDate>2008-08-18</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT0.000S</Duration>
+            <PLine>
+                <PLineText>(P) 2006 Universal Music TV, a division of Universal Music Operations Ltd.</PLineText>
+            </PLine>
+            <CLine>
+                <CLineText>(C) 2006 Universal Music TV, a division of Universal Music Operations Ltd.</CLineText>
+            </CLine>
+        </Release>
+    </ReleaseList>
+    <DealList>
+        <ReleaseDeal>
+            <DealReleaseReference>R7EDB237F0BDDBE0AE040020A210036E6</DealReleaseReference>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PADPIDA2012031302R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+					<TerritoryCode>BE</TerritoryCode>
+					<TerritoryCode>FI</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-10-16</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PADPIDA2012031302R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+					<TerritoryCode>BE</TerritoryCode>
+					<TerritoryCode>FI</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-10-16</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PADPIDA2012031302R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+					<TerritoryCode>BE</TerritoryCode>
+					<TerritoryCode>FI</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-10-16</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <EffectiveDate>2012-10-16</EffectiveDate>
+        </ReleaseDeal>
+    </DealList>
+</ern:NewReleaseMessage>

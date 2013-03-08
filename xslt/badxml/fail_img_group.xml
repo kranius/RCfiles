@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ern:NewReleaseMessage xmlns:ern="http://ddex.net/xml/ern/35" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" LanguageAndScriptCode="en" MessageSchemaVersionId="ern/35" xs:schemaLocation="http://ddex.net/xml/ern/35 http://ddex.net/xml/ern/35/release-notification.xsd">
+    <MessageHeader>
+        <MessageThreadId>58161</MessageThreadId>
+        <MessageId>58161_150010711743</MessageId>
+        <MessageFileName>UMG_Metadata_Deezer_DDEX_3.5_TEST_update_00028947804468_2012-11-30_11-52-39.xml</MessageFileName>
+        <MessageSender>
+            <PartyId>PADPIDA2010032301A</PartyId>
+            <PartyName>
+                <FullName>Digiplug</FullName>
+            </PartyName>
+        </MessageSender>
+        <SentOnBehalfOf>
+            <PartyId>PADPIDA2012031302R</PartyId>
+            <PartyName>
+                <FullName>Universal Music Group International</FullName>
+            </PartyName>
+        </SentOnBehalfOf>
+        <MessageRecipient>
+            <PartyId>12345</PartyId>
+            <PartyName>
+                <FullName>Deezer_DDEX_3.5_TEST</FullName>
+            </PartyName>
+        </MessageRecipient>
+        <MessageCreatedDateTime>2012-11-30T11:52:39</MessageCreatedDateTime>
+        <MessageControlType>TestMessage</MessageControlType>
+    </MessageHeader>
+    <UpdateIndicator>UpdateMessage</UpdateIndicator>
+    <IsBackfill>false</IsBackfill>
+    <ResourceList>
+        <SoundRecording>
+            <SoundRecordingId>
+                <ISRC>USNLR0800001</ISRC>
+            </SoundRecordingId>
+            <ResourceReference>A20000003643041</ResourceReference>
+            <ReferenceTitle>
+                <TitleText>Love Me Sexy</TitleText>
+            </ReferenceTitle>
+            <IsBonusResource>false</IsBonusResource>
+            <Duration>PT3M39.000S</Duration>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>FR</TerritoryCode>
+                <TerritoryCode>GB</TerritoryCode>
+                <Title>
+                    <TitleText>Love Me Sexy</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Jackie Moon</FullName>
+                        <KeyName>Moon</KeyName>
+                        <NamesAfterKeyName>Jackie</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Nile Rodgers</FullName>
+                        <KeyName>Rodgers</KeyName>
+                        <NamesAfterKeyName>Nile</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Scot Armstrong</FullName>
+                        <KeyName>Armstrong</KeyName>
+                        <NamesAfterKeyName>Scot</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Will Ferrell</FullName>
+                        <KeyName>Ferrell</KeyName>
+                        <NamesAfterKeyName>Will</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <PLine>
+                    <PLineText>(P) 2008 New Line Productions Inc.</PLineText>
+                </PLine>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T85303796</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="67">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">320</BitRate>
+                    <NumberOfChannels>2</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">44100</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_audtrk_00028947804468_01_001_67.mp3</FileName>
+                        <HashSum>
+                            <HashSum>987d1e00d6d8037dba6a7ffcf5f28dc7</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+        </SoundRecording>
+        <Image>
+            <ImageId>
+                <ProprietaryId Namespace="PADPIDA2012031302R">08UMGIM01881</ProprietaryId>
+            </ImageId>
+            <ResourceReference>A20000003643040</ResourceReference>
+            <Title>
+                <TitleText>Love Me Sexy</TitleText>
+            </Title>
+            <ImageDetailsByTerritory>
+                <TerritoryCode>FR</TerritoryCode>
+                <CLine>
+                    <CLineText>(C) 2008 New Line Records, a Division of New Line Productions Inc</CLineText>
+                </CLine>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalImageDetails>
+                    <TechnicalResourceDetailsReference>T85521632FR</TechnicalResourceDetailsReference>
+                    <ImageCodecType>JPEG</ImageCodecType>
+                    <ImageHeight UnitOfMeasure="Pixel">800</ImageHeight>
+                    <ImageWidth UnitOfMeasure="Pixel">901</ImageWidth>
+                    <AspectRatio>1.13</AspectRatio>
+                    <ImageResolution>72</ImageResolution>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_cvrart_00028947804468_RGB_72_901x800_85521632.jpg</FileName>
+                        <HashSum>
+                            <HashSum>f147c5b345e4b92b90774b49b51ab33a</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalImageDetails>
+            </ImageDetailsByTerritory>
+            <ImageDetailsByTerritory>
+                <TerritoryCode>GB</TerritoryCode>
+                <CLine>
+                    <CLineText>(C) 2008 New Line Records, a Division of New Line Productions Inc</CLineText>
+                </CLine>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalImageDetails>
+                    <TechnicalResourceDetailsReference>T85521632GB</TechnicalResourceDetailsReference>
+                    <ImageCodecType>JPEG</ImageCodecType>
+                    <ImageHeight UnitOfMeasure="Pixel">800</ImageHeight>
+                    <ImageWidth UnitOfMeasure="Pixel">901</ImageWidth>
+                    <AspectRatio>1.13</AspectRatio>
+                    <ImageResolution>72</ImageResolution>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_cvrart_00028947804468_RGB_72_901x800_85521632.jpg</FileName>
+                        <HashSum>
+                            <HashSum>f147c5b345e4b92b90774b49b51ab33a</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalImageDetails>
+            </ImageDetailsByTerritory>
+        </Image>
+    </ResourceList>
+    <ReleaseList>
+        <Release>
+            <ReleaseId>
+                <ICPN IsEan="false">00028947804468</ICPN>
+            </ReleaseId>
+            <ReleaseReference>R6CB9BABD9C5620CBE040010ADB380851</ReleaseReference>
+            <ReferenceTitle>
+                <TitleText>Love Me Sexy</TitleText>
+                <SubTitle>Love Me Sexy</SubTitle>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643041</ReleaseResourceReference>
+                <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A20000003643040</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>Single</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>FR</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music Division Classique</LabelName>
+                <Title>
+                    <TitleText>Love Me Sexy</TitleText>
+                    <SubTitle>Love Me Sexy</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Jackie Moon</FullName>
+                        <KeyName>Moon</KeyName>
+                        <NamesAfterKeyName>Jackie</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroup>
+                        <SequenceNumber>1</SequenceNumber>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>1</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643041</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                    </ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A20000003643040</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <ReleaseDate>2012-08-15</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>GB</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Decca Music Group Ltd.</LabelName>
+                <Title>
+                    <TitleText>Love Me Sexy</TitleText>
+                    <SubTitle>Love Me Sexy</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Jackie Moon</FullName>
+                        <KeyName>Moon</KeyName>
+                        <NamesAfterKeyName>Jackie</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroup>
+                        <SequenceNumber>1</SequenceNumber>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>1</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643041</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                    </ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A20000003643040</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <ReleaseDate>2012-09-10</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT3M39.000S</Duration>
+            <PLine>
+                <PLineText>(P) 2008 New Line Records, a Division of New Line Productions Inc</PLineText>
+            </PLine>
+            <CLine>
+                <CLineText>(C) 2008 New Line Records, a Division of New Line Productions Inc</CLineText>
+            </CLine>
+        </Release>
+        <Release>
+            <ReleaseId>
+                <ProprietaryId Namespace="PADPIDA2012031302R">00028947804468_USNLR0800001_01_001</ProprietaryId>
+            </ReleaseId>
+            <ReleaseReference>R20000003643041</ReleaseReference>
+            <ReferenceTitle>
+                <TitleText>Love Me Sexy</TitleText>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643041</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>TrackRelease</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>FR</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Decca</LabelName>
+                <Title>
+                    <TitleText>Love Me Sexy</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Jackie Moon</FullName>
+                        <KeyName>Moon</KeyName>
+                        <NamesAfterKeyName>Jackie</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Nile Rodgers</FullName>
+                        <KeyName>Rodgers</KeyName>
+                        <NamesAfterKeyName>Nile</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Scot Armstrong</FullName>
+                        <KeyName>Armstrong</KeyName>
+                        <NamesAfterKeyName>Scot</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Will Ferrell</FullName>
+                        <KeyName>Ferrell</KeyName>
+                        <NamesAfterKeyName>Will</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643041</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <ReleaseDate>2012-08-15</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>GB</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Decca</LabelName>
+                <Title>
+                    <TitleText>Love Me Sexy</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Jackie Moon</FullName>
+                        <KeyName>Moon</KeyName>
+                        <NamesAfterKeyName>Jackie</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Nile Rodgers</FullName>
+                        <KeyName>Rodgers</KeyName>
+                        <NamesAfterKeyName>Nile</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Scot Armstrong</FullName>
+                        <KeyName>Armstrong</KeyName>
+                        <NamesAfterKeyName>Scot</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Will Ferrell</FullName>
+                        <KeyName>Ferrell</KeyName>
+                        <NamesAfterKeyName>Will</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643041</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <ReleaseDate>2012-09-10</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT3M39.000S</Duration>
+            <PLine>
+                <PLineText>(P) 2008 New Line Productions Inc.</PLineText>
+            </PLine>
+        </Release>
+    </ReleaseList>
+    <DealList>
+        <ReleaseDeal>
+            <DealReleaseReference>R6CB9BABD9C5620CBE040010ADB380851</DealReleaseReference>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>ConditionalDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PADPIDA2012031302R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>FR</TerritoryCode>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PADPIDA2012031302R">UNPRICED</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-11-30</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PADPIDA2012031302R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>FR</TerritoryCode>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PADPIDA2012031302R">UNPRICED</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-11-30</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <EffectiveDate>2012-11-30</EffectiveDate>
+        </ReleaseDeal>
+        <ReleaseDeal>
+            <DealReleaseReference>R20000003643041</DealReleaseReference>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>ConditionalDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PADPIDA2012031302R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>FR</TerritoryCode>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PADPIDA2012031302R">CMA10C</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-11-30</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PADPIDA2012031302R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>FR</TerritoryCode>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PADPIDA2012031302R">CMA10C</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-11-30</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <EffectiveDate>2012-11-30</EffectiveDate>
+        </ReleaseDeal>
+    </DealList>
+</ern:NewReleaseMessage>

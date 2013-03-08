@@ -1,0 +1,917 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ern:NewReleaseMessage  xmlns:ern="http://ddex.net/xml/ern/35" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xs:schemaLocation="http://ddex.net/xml/ern/35 http://ddex.net/xml/ern/35/release-notification.xsd" MessageSchemaVersionId="ern/35" LanguageAndScriptCode="en">    
+    <MessageHeader>
+        <MessageThreadId>3000011725122</MessageThreadId>
+        <MessageId>3000011725122_30780567940</MessageId>
+        <MessageFileName>UMG_Metadata_Georges_BP_new_00602498574454_2012-10-17_19-43-05.xml</MessageFileName>
+        <MessageSender>
+            <PartyId>PADPIDA2010032301A</PartyId>
+            <PartyName>
+                <FullName>Digiplug</FullName>
+            </PartyName>
+        </MessageSender>
+        <SentOnBehalfOf>
+            <PartyId>PADPIDA2012031302R</PartyId>
+            <PartyName>
+                <FullName>Universal Music Group International</FullName>
+            </PartyName>
+        </SentOnBehalfOf>
+        <MessageRecipient>
+            <PartyId>561</PartyId>
+            <PartyName>
+                <FullName>Georges BP</FullName>
+            </PartyName>
+        </MessageRecipient>
+        <MessageCreatedDateTime>2012-10-17T19:43:05</MessageCreatedDateTime>
+        <MessageControlType>TestMessage</MessageControlType>
+    </MessageHeader>
+    <UpdateIndicator>OriginalMessage</UpdateIndicator>
+	<IsBackfill>true</IsBackfill>
+    <ResourceList>
+        <SoundRecording>
+            <SoundRecordingId>
+                <ISRC>GBUM70601182</ISRC>
+            </SoundRecordingId>
+            <ResourceReference>A2923452</ResourceReference>
+            <ReferenceTitle>
+                <TitleText>Hazy Eyes</TitleText>
+                <SubTitle>2003 Al's Bedroom Demo</SubTitle>
+            </ReferenceTitle>
+            <IsBonusResource>false</IsBonusResource>
+            <Duration>PT3M24.000S</Duration>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>GB</TerritoryCode>
+				<TerritoryCode>IE</TerritoryCode>
+                <Title>
+                    <TitleText>Hazy Eyes</TitleText>
+                    <SubTitle>2003 Al's Bedroom Demo</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Fightstar</FullName>
+                        <KeyName>Fightstar</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Alex Westaway</FullName>
+                        <KeyName>Westaway</KeyName>
+                        <NamesAfterKeyName>Alex</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Author</IndirectResourceContributorRole>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Charlie Simpson</FullName>
+                        <KeyName>Simpson</KeyName>
+                        <NamesAfterKeyName>Charlie</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                    <IndirectResourceContributorRole>Author</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Dan Haigh</FullName>
+                        <KeyName>Haigh</KeyName>
+                        <NamesAfterKeyName>Dan</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Author</IndirectResourceContributorRole>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Omar Abidi</FullName>
+                        <KeyName>Abidi</KeyName>
+                        <NamesAfterKeyName>Omar</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Author</IndirectResourceContributorRole>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="5">
+                    <PartyName>
+                        <FullName>Copyright Control</FullName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>MusicPublisher</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="6">
+                    <PartyName>
+                        <FullName>EMI Music Publishing Ltd.</FullName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>MusicPublisher</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <PLine>
+                    <PLineText>(P) 2006 Universal Island Records Ltd. A Universal Music Company.</PLineText>
+                </PLine>
+                <Genre>
+                    <GenreText>Rock</GenreText>
+                </Genre>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T107582109508</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="67">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">320</BitRate>
+                    <NumberOfChannels>2</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">44100</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_audtrk_00602498574454_01_001_67.mp3</FileName>
+                        <HashSum>
+                            <HashSum>5f2c08fdae19a142a0064596e84d9346</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+        </SoundRecording>
+        <Image>
+            <ImageId>
+                <ProprietaryId Namespace="PADPIDA2012031302R">06UMGIM40844</ProprietaryId>
+            </ImageId>
+            <ResourceReference>A4283692</ResourceReference>
+            <Title>
+                <TitleText>Hazy Eyes</TitleText>
+            </Title>
+            <ImageDetailsByTerritory>
+                <TerritoryCode>GB</TerritoryCode>
+				<TerritoryCode>IE</TerritoryCode>
+                <CLine>
+                    <CLineText>(C) 2006 Universal Island Records Ltd. A Universal Music Company.</CLineText>
+                </CLine>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalImageDetails>
+                    <TechnicalResourceDetailsReference>T107384949212</TechnicalResourceDetailsReference>
+                    <ImageCodecType>JPEG</ImageCodecType>
+                    <ImageHeight UnitOfMeasure="Pixel">1230</ImageHeight>
+                    <ImageWidth UnitOfMeasure="Pixel">1400</ImageWidth>
+                    <AspectRatio>1.14</AspectRatio>
+                    <ImageResolution>72</ImageResolution>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_cvrart_00602498574454_RGB_72_1400x1230_107384949212.jpg</FileName>
+                        <HashSum>
+                            <HashSum>3ceba343d66f08bdc03fdfcdbbe46ca6</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalImageDetails>
+            </ImageDetailsByTerritory>
+        </Image>
+    </ResourceList>
+    <ReleaseList>
+        <Release>
+            <ReleaseId>
+                <ICPN IsEan="false">00602498574454</ICPN>
+            </ReleaseId>
+            <ReleaseReference>R7ED92B59E0567916E040020A2100201F</ReleaseReference>
+            <ReferenceTitle>
+                <TitleText>Hazy Eyes</TitleText>
+                <SubTitle>Demo version</SubTitle>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A2923452</ReleaseResourceReference>
+                <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A4283692</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>Single</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>GB</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Universal-Island Records Ltd.</LabelName>
+                <Title>
+                    <TitleText>Hazy Eyes</TitleText>
+                    <SubTitle>Demo version</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Fightstar</FullName>
+                        <KeyName>Fightstar</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroup>
+                        <SequenceNumber>1</SequenceNumber>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>1</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A2923452</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                    </ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A4283692</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Rock</GenreText>
+                </Genre>
+				<ReleaseDate>2008-08-18</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>IE</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music Ireland Ltd.</LabelName>
+                <Title>
+                    <TitleText>Hazy Eyes</TitleText>
+                    <SubTitle>Demo version</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Fightstar</FullName>
+                        <KeyName>Fightstar</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroup>
+                        <SequenceNumber>1</SequenceNumber>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>1</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A2923452</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                    </ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A4283692</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Rock</GenreText>
+                </Genre>
+				<ReleaseDate>2008-08-18</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT3M24.000S</Duration>
+            <PLine>
+                <PLineText>(P) 2006 Universal Island Records Ltd. A Universal Music Company.</PLineText>
+            </PLine>
+            <CLine>
+                <CLineText>(C) 2006 Universal Island Records Ltd. A Universal Music Company.</CLineText>
+            </CLine>
+        </Release>
+        <Release>
+            <ReleaseId>
+                <ProprietaryId Namespace="PADPIDA2012031302R">00602498574454_GBUM70601182_01_001</ProprietaryId>
+            </ReleaseId>
+            <ReleaseReference>R2923452</ReleaseReference>
+            <ReferenceTitle>
+                <TitleText>Hazy Eyes</TitleText>
+                <SubTitle>2003 Al's Bedroom Demo</SubTitle>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A2923452</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>TrackRelease</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>GB</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Island Records</LabelName>
+                <Title>
+                    <TitleText>Hazy Eyes</TitleText>
+                    <SubTitle>2003 Al's Bedroom Demo</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Fightstar</FullName>
+                        <KeyName>Fightstar</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Alex Westaway</FullName>
+                        <KeyName>Westaway</KeyName>
+                        <NamesAfterKeyName>Alex</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Author</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Charlie Simpson</FullName>
+                        <KeyName>Simpson</KeyName>
+                        <NamesAfterKeyName>Charlie</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                    <ArtistRole>Author</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Dan Haigh</FullName>
+                        <KeyName>Haigh</KeyName>
+                        <NamesAfterKeyName>Dan</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Author</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="5">
+                    <PartyName>
+                        <FullName>Omar Abidi</FullName>
+                        <KeyName>Abidi</KeyName>
+                        <NamesAfterKeyName>Omar</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Author</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A2923452</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Rock</GenreText>
+                </Genre>
+				<ReleaseDate>2008-08-18</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>IE</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <Title>
+                    <TitleText>Hazy Eyes</TitleText>
+                    <SubTitle>2003 Al's Bedroom Demo</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Fightstar</FullName>
+                        <KeyName>Fightstar</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Alex Westaway</FullName>
+                        <KeyName>Westaway</KeyName>
+                        <NamesAfterKeyName>Alex</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Author</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Charlie Simpson</FullName>
+                        <KeyName>Simpson</KeyName>
+                        <NamesAfterKeyName>Charlie</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                    <ArtistRole>Author</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Dan Haigh</FullName>
+                        <KeyName>Haigh</KeyName>
+                        <NamesAfterKeyName>Dan</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                    <ArtistRole>Author</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="5">
+                    <PartyName>
+                        <FullName>Omar Abidi</FullName>
+                        <KeyName>Abidi</KeyName>
+                        <NamesAfterKeyName>Omar</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Author</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A2923452</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Rock</GenreText>
+                </Genre>
+				<ReleaseDate>2008-08-18</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT3M24.000S</Duration>
+            <PLine>
+                <PLineText>(P) 2006 Universal Island Records Ltd. A Universal Music Company.</PLineText>
+            </PLine>
+        </Release>
+    </ReleaseList>
+    <DealList>
+        <ReleaseDeal>
+            <DealReleaseReference>R7ED92B59E0567916E040020A2100201F</DealReleaseReference>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>ConditionalDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PADPIDA2012031302R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+					<TerritoryCode>IE</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PADPIDA2012031302R">UNPRICED</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-10-17</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>ConditionalDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PADPIDA2012031302R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+					<TerritoryCode>IE</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PADPIDA2012031302R">UNPRICED</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-10-17</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PADPIDA2012031302R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+					<TerritoryCode>IE</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PADPIDA2012031302R">UNPRICED</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-10-17</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PADPIDA2012031302R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+					<TerritoryCode>IE</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PADPIDA2012031302R">UNPRICED</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-10-17</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>ConditionalDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PADPIDA2012031302R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+					<TerritoryCode>IE</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PADPIDA2012031302R">UNPRICED</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-10-17</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>ConditionalDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PADPIDA2012031302R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+					<TerritoryCode>IE</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PADPIDA2012031302R">UNPRICED</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-10-17</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PADPIDA2012031302R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+					<TerritoryCode>IE</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PADPIDA2012031302R">UNPRICED</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-10-17</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>ConditionalDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PADPIDA2012031302R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+					<TerritoryCode>IE</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PADPIDA2012031302R">UNPRICED</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-10-17</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PADPIDA2012031302R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+					<TerritoryCode>IE</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PADPIDA2012031302R">UNPRICED</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-10-17</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PADPIDA2012031302R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+					<TerritoryCode>IE</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PADPIDA2012031302R">UNPRICED</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-10-17</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PADPIDA2012031302R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+					<TerritoryCode>IE</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PADPIDA2012031302R">UNPRICED</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-10-17</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>ConditionalDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PADPIDA2012031302R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+					<TerritoryCode>IE</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PADPIDA2012031302R">UNPRICED</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-10-17</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <EffectiveDate>2012-10-17</EffectiveDate>
+        </ReleaseDeal>
+        <ReleaseDeal>
+            <DealReleaseReference>R2923452</DealReleaseReference>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>Stream</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PADPIDA2012031302R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+					<TerritoryCode>IE</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PADPIDA2012031302R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-10-17</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>Stream</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PADPIDA2012031302R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+					<TerritoryCode>IE</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PADPIDA2012031302R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-10-17</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>Stream</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PADPIDA2012031302R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+					<TerritoryCode>IE</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PADPIDA2012031302R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-10-17</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>Stream</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PADPIDA2012031302R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+					<TerritoryCode>IE</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PADPIDA2012031302R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-10-17</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>ConditionalDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PADPIDA2012031302R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+					<TerritoryCode>IE</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PADPIDA2012031302R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-10-17</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>ConditionalDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PADPIDA2012031302R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+					<TerritoryCode>IE</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PADPIDA2012031302R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-10-17</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PADPIDA2012031302R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+					<TerritoryCode>IE</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PADPIDA2012031302R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-10-17</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PADPIDA2012031302R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+					<TerritoryCode>IE</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PADPIDA2012031302R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-10-17</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>ConditionalDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PADPIDA2012031302R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+					<TerritoryCode>IE</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PADPIDA2012031302R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-10-17</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>ConditionalDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PADPIDA2012031302R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+					<TerritoryCode>IE</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PADPIDA2012031302R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-10-17</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>Stream</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PADPIDA2012031302R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+					<TerritoryCode>IE</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PADPIDA2012031302R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-10-17</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>ConditionalDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PADPIDA2012031302R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+					<TerritoryCode>IE</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PADPIDA2012031302R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-10-17</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PADPIDA2012031302R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+					<TerritoryCode>IE</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PADPIDA2012031302R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-10-17</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PADPIDA2012031302R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+					<TerritoryCode>IE</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PADPIDA2012031302R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-10-17</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PADPIDA2012031302R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+					<TerritoryCode>IE</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PADPIDA2012031302R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-10-17</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>Stream</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PADPIDA2012031302R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+					<TerritoryCode>IE</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PADPIDA2012031302R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-10-17</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PADPIDA2012031302R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+					<TerritoryCode>IE</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PADPIDA2012031302R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-10-17</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>ConditionalDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PADPIDA2012031302R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+					<TerritoryCode>IE</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PADPIDA2012031302R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-10-17</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <EffectiveDate>2012-10-17</EffectiveDate>
+        </ReleaseDeal>
+    </DealList>
+</ern:NewReleaseMessage>

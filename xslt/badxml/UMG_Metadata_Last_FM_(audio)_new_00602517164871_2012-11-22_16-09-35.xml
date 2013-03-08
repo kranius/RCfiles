@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:NewReleaseMessage xmlns:ns2="http://ddex.net/xml/ern/35" MessageSchemaVersionId="2011/ern-main/33">
+    <MessageHeader>
+        <MessageThreadId>50961</MessageThreadId>
+        <MessageId>50961_150010534691</MessageId>
+        <MessageFileName>UMG_Metadata_Last_FM_(audio)_new_00602517164871_2012-11-22_16-09-35.xml</MessageFileName>
+        <MessageSender>
+            <PartyId>PADPIDA2010032301A</PartyId>
+            <PartyName>
+                <FullName>Digiplug</FullName>
+            </PartyName>
+        </MessageSender>
+        <SentOnBehalfOf>
+            <PartyId>PADPIDA2012031302R</PartyId>
+            <PartyName>
+                <FullName>Universal Music Group International</FullName>
+            </PartyName>
+        </SentOnBehalfOf>
+        <MessageRecipient>
+            <PartyId>12354</PartyId>
+            <PartyName>
+                <FullName>Last FM (audio)</FullName>
+            </PartyName>
+        </MessageRecipient>
+        <MessageCreatedDateTime>2012-11-22T16:09:35</MessageCreatedDateTime>
+        <MessageControlType>TestMessage</MessageControlType>
+    </MessageHeader>
+    <UpdateIndicator>OriginalMessage</UpdateIndicator>
+    <IsBackfill>false</IsBackfill>
+    <ResourceList>
+        <MIDI>
+            <MidiId>
+                <ProprietaryId Namespace="PADPIDA2012031302R">GBF088100017</ProprietaryId>
+            </MidiId>
+            <ResourceReference>A300015418442</ResourceReference>
+            <ReferenceTitle>
+                <TitleText>Tainted Love</TitleText>
+            </ReferenceTitle>
+            <IsBonusResource>false</IsBonusResource>
+            <Duration>PT7.000S</Duration>
+            <MidiDetailsByTerritory>
+                <TerritoryCode>FR</TerritoryCode>
+                <Title>
+                    <TitleText>Tainted Love</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Soft Cell</FullName>
+                        <KeyName>Soft Cell</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <CLine>
+                    <CLineText>(C) 1981 Some Bizarre</CLineText>
+                </CLine>
+                <MarketingComment>TestComment</MarketingComment>
+                <Genre>
+                    <GenreText>Pop</GenreText>
+                </Genre>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalMidiDetails>
+                    <TechnicalResourceDetailsReference>T85511394FR</TechnicalResourceDetailsReference>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_audpol_00602517164871_1309002.mid</FileName>
+                        <HashSum>
+                            <HashSum>f26cf55cb9616d261a4cf726d578184b</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalMidiDetails>
+            </MidiDetailsByTerritory>
+            <MidiDetailsByTerritory>
+                <TerritoryCode>GB</TerritoryCode>
+                <Title>
+                    <TitleText>Tainted Love</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Soft Cell</FullName>
+                        <KeyName>Soft Cell</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <CLine>
+                    <CLineText>(C) 1981 Some Bizarre</CLineText>
+                </CLine>
+                <MarketingComment>TestComment</MarketingComment>
+                <Genre>
+                    <GenreText>Pop</GenreText>
+                </Genre>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalMidiDetails>
+                    <TechnicalResourceDetailsReference>T85511394GB</TechnicalResourceDetailsReference>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_audpol_00602517164871_1309002.mid</FileName>
+                        <HashSum>
+                            <HashSum>f26cf55cb9616d261a4cf726d578184b</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalMidiDetails>
+            </MidiDetailsByTerritory>
+        </MIDI>
+        <Image>
+            <ImageId>
+                <ProprietaryId Namespace="PADPIDA2012031302R">06UMGIM46703</ProprietaryId>
+            </ImageId>
+            <ResourceReference>A300015427015</ResourceReference>
+            <Title>
+                <TitleText>Non-Stop Erotic Cabaret</TitleText>
+            </Title>
+            <ImageDetailsByTerritory>
+                <TerritoryCode>FR</TerritoryCode>
+                <CLine>
+                    <CLineText>(C) 1996 Mercury Records Limited</CLineText>
+                </CLine>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalImageDetails>
+                    <TechnicalResourceDetailsReference>T85511424FR</TechnicalResourceDetailsReference>
+                    <ImageCodecType>JPEG</ImageCodecType>
+                    <ImageHeight UnitOfMeasure="Pixel">300</ImageHeight>
+                    <ImageWidth UnitOfMeasure="Pixel">300</ImageWidth>
+                    <AspectRatio>1.00</AspectRatio>
+                    <ImageResolution>72</ImageResolution>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_cvrart_00602517164871_RGB_72_300x300_85511424.jpg</FileName>
+                        <HashSum>
+                            <HashSum>76c9d8e3d65e008f0641cfc46f50c821</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalImageDetails>
+            </ImageDetailsByTerritory>
+            <ImageDetailsByTerritory>
+                <TerritoryCode>GB</TerritoryCode>
+                <CLine>
+                    <CLineText>(C) 1996 Mercury Records Limited</CLineText>
+                </CLine>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalImageDetails>
+                    <TechnicalResourceDetailsReference>T85511424GB</TechnicalResourceDetailsReference>
+                    <ImageCodecType>JPEG</ImageCodecType>
+                    <ImageHeight UnitOfMeasure="Pixel">300</ImageHeight>
+                    <ImageWidth UnitOfMeasure="Pixel">300</ImageWidth>
+                    <AspectRatio>1.00</AspectRatio>
+                    <ImageResolution>72</ImageResolution>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_cvrart_00602517164871_RGB_72_300x300_85511424.jpg</FileName>
+                        <HashSum>
+                            <HashSum>76c9d8e3d65e008f0641cfc46f50c821</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalImageDetails>
+            </ImageDetailsByTerritory>
+        </Image>
+    </ResourceList>
+    <ReleaseList>
+        <Release>
+            <ReleaseId>
+                <ICPN IsEan="false">00602517164871</ICPN>
+            </ReleaseId>
+            <ReleaseReference>RCE5D90AB8058DD6CE040020A04024D0E</ReleaseReference>
+            <ReferenceTitle>
+                <TitleText>Tainted Love</TitleText>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A300015418442</ReleaseResourceReference>
+                <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A300015427015</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType UserDefinedValue="Mono-PolyRelease">UserDefined</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>FR</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music Division Mercury</LabelName>
+                <Title>
+                    <TitleText>Tainted Love</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Soft Cell</FullName>
+                        <KeyName>Soft Cell</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <MarketingComment>TestComment</MarketingComment>
+                <ResourceGroup>
+                    <ResourceGroup>
+                        <SequenceNumber>1</SequenceNumber>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>1</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A300015418442</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                    </ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A300015427015</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Pop</GenreText>
+                </Genre>
+                <ReleaseDate>2012-12-01</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>GB</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Mercury Records Limited</LabelName>
+                <Title>
+                    <TitleText>Tainted Love</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Soft Cell</FullName>
+                        <KeyName>Soft Cell</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <MarketingComment>TestComment</MarketingComment>
+                <ResourceGroup>
+                    <ResourceGroup>
+                        <SequenceNumber>1</SequenceNumber>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>1</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A300015418442</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                    </ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A300015427015</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Pop</GenreText>
+                </Genre>
+                <ReleaseDate>2012-12-01</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT7.000S</Duration>
+            <PLine>
+                <PLineText>(P) 1981 Some Bizarre</PLineText>
+            </PLine>
+            <CLine>
+                <CLineText>(C) 1981 Some Bizarre</CLineText>
+            </CLine>
+        </Release>
+    </ReleaseList>
+    <DealList>
+        <ReleaseDeal>
+            <DealReleaseReference>RCE5D90AB8058DD6CE040020A04024D0E</DealReleaseReference>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PADPIDA2012031302R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>FR</TerritoryCode>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-12-01</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>ConditionalDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PADPIDA2012031302R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>FR</TerritoryCode>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-12-01</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>ConditionalDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PADPIDA2012031302R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>FR</TerritoryCode>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-12-01</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PADPIDA2012031302R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>FR</TerritoryCode>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-12-01</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PADPIDA2012031302R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>FR</TerritoryCode>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-12-01</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>ConditionalDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PADPIDA2012031302R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>FR</TerritoryCode>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-12-01</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <EffectiveDate>2012-11-22</EffectiveDate>
+        </ReleaseDeal>
+    </DealList>
+</ns2:NewReleaseMessage>

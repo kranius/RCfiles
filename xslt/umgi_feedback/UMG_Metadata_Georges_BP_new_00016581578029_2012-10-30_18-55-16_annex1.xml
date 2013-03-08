@@ -1,0 +1,3760 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ern:NewReleaseMessage  xmlns:ern="http://ddex.net/xml/ern/35" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xs:schemaLocation="http://ddex.net/xml/ern/35 http://ddex.net/xml/ern/35/release-notification.xsd" MessageSchemaVersionId="ern/35" LanguageAndScriptCode="en">    
+    <MessageHeader>
+        <MessageThreadId>21001</MessageThreadId>
+        <MessageId>21001_150002267649</MessageId>
+        <MessageFileName>UMG_Metadata_Georges_BP_new_00016581578029_2012-10-30_18-55-16.xml</MessageFileName>
+        <MessageSender>
+            <PartyId>PADPIDA2010032301A</PartyId>
+            <PartyName>
+                <FullName>Digiplug</FullName>
+            </PartyName>
+        </MessageSender>
+        <SentOnBehalfOf>
+            <PartyId>PADPIDA2012031302R</PartyId>
+            <PartyName>
+                <FullName>Universal Music Group International</FullName>
+            </PartyName>
+        </SentOnBehalfOf>
+        <MessageRecipient>
+            <PartyId>561</PartyId>
+            <PartyName>
+                <FullName>Georges BP</FullName>
+            </PartyName>
+        </MessageRecipient>
+        <MessageCreatedDateTime>2012-10-30T18:55:16</MessageCreatedDateTime>
+        <MessageControlType>TestMessage</MessageControlType>
+    </MessageHeader>
+    <UpdateIndicator>OriginalMessage</UpdateIndicator>
+	<IsBackfill>false</IsBackfill>
+    <ResourceList>
+        <SoundRecording>
+            <SoundRecordingId>
+                <ISRC>USTV19800232</ISRC>
+            </SoundRecordingId>
+            <ResourceReference>A20000003643447</ResourceReference>
+            <ReferenceTitle>
+                <TitleText>Going To Hell</TitleText>
+            </ReferenceTitle>
+            <IsBonusResource>false</IsBonusResource>
+            <Duration>PT2M58.000S</Duration>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>GB</TerritoryCode>
+				<TerritoryCode>IE</TerritoryCode>
+                <Title>
+                    <TitleText>Going To Hell</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>The Brian Jonestown Massacre</FullName>
+                        <KeyName>The Brian Jonestown Massacre</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Anton Newcombe</FullName>
+                        <KeyName>Newcombe</KeyName>
+                        <NamesAfterKeyName>Anton</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Dean Taylor</FullName>
+                        <KeyName>Taylor</KeyName>
+                        <NamesAfterKeyName>Dean</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Jeffrey Davies</FullName>
+                        <KeyName>Davies</KeyName>
+                        <NamesAfterKeyName>Jeffrey</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Joel Gion</FullName>
+                        <KeyName>Gion</KeyName>
+                        <NamesAfterKeyName>Joel</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="5">
+                    <PartyName>
+                        <FullName>Matt Hollywood</FullName>
+                        <KeyName>Hollywood</KeyName>
+                        <NamesAfterKeyName>Matt</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <PLine>
+                    <PLineText>(P) 1998 TVT Records</PLineText>
+                </PLine>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T85696600</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="67">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">320</BitRate>
+                    <NumberOfChannels>2</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">44100</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_audtrk_00016581578029_01_001_67.mp3</FileName>
+                        <HashSum>
+                            <HashSum>94054b229592bbd48cad0c49cd105116</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T85697615</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="100">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">64</BitRate>
+                    <NumberOfChannels>2</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">22050</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <Duration>PT0M30.000S</Duration>
+                    <IsPreview>true</IsPreview>
+                    <PreviewDetails>
+                        <StartPoint>0</StartPoint>
+                        <EndPoint>2</EndPoint>
+                        <ExpressionType>Informative</ExpressionType>
+                    </PreviewDetails>
+                    <File>
+                        <FileName>UMG_audclp_00016581578029_01_001_100.mp3</FileName>
+                        <HashSum>
+                            <HashSum>9e28ad8c6c7eb1ffcfb21ddadf4c01a6</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+        </SoundRecording>
+        <SoundRecording>
+            <SoundRecordingId>
+                <ISRC>USTV19800233</ISRC>
+            </SoundRecordingId>
+            <ResourceReference>A20000003643452</ResourceReference>
+            <ReferenceTitle>
+                <TitleText>Let's Pretend It's Summer</TitleText>
+            </ReferenceTitle>
+            <IsBonusResource>false</IsBonusResource>
+            <Duration>PT3M37.000S</Duration>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>GB</TerritoryCode>
+				<TerritoryCode>IE</TerritoryCode>
+                <Title>
+                    <TitleText>Let's Pretend It's Summer</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>The Brian Jonestown Massacre</FullName>
+                        <KeyName>The Brian Jonestown Massacre</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Anton Newcombe</FullName>
+                        <KeyName>Newcombe</KeyName>
+                        <NamesAfterKeyName>Anton</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Dean Taylor</FullName>
+                        <KeyName>Taylor</KeyName>
+                        <NamesAfterKeyName>Dean</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Jeffrey Davies</FullName>
+                        <KeyName>Davies</KeyName>
+                        <NamesAfterKeyName>Jeffrey</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Joel Gion</FullName>
+                        <KeyName>Gion</KeyName>
+                        <NamesAfterKeyName>Joel</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="5">
+                    <PartyName>
+                        <FullName>Matt Hollywood</FullName>
+                        <KeyName>Hollywood</KeyName>
+                        <NamesAfterKeyName>Matt</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <PLine>
+                    <PLineText>(P) 1998 TVT Records</PLineText>
+                </PLine>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T85696604</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="67">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">320</BitRate>
+                    <NumberOfChannels>2</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">44100</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_audtrk_00016581578029_01_002_67.mp3</FileName>
+                        <HashSum>
+                            <HashSum>e98ae9a67e37b471c8c8da4b76953188</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T85697619</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="100">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">64</BitRate>
+                    <NumberOfChannels>2</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">22050</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <Duration>PT0M30.000S</Duration>
+                    <IsPreview>true</IsPreview>
+                    <PreviewDetails>
+                        <StartPoint>0</StartPoint>
+                        <EndPoint>2</EndPoint>
+                        <ExpressionType>Informative</ExpressionType>
+                    </PreviewDetails>
+                    <File>
+                        <FileName>UMG_audclp_00016581578029_01_002_100.mp3</FileName>
+                        <HashSum>
+                            <HashSum>c94d1cefc2cb59ad7be9ec33a033f6f7</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+        </SoundRecording>
+        <SoundRecording>
+            <SoundRecordingId>
+                <ISRC>USTV19800234</ISRC>
+            </SoundRecordingId>
+            <ResourceReference>A20000003643455</ResourceReference>
+            <ReferenceTitle>
+                <TitleText>Wasting Away</TitleText>
+            </ReferenceTitle>
+            <IsBonusResource>false</IsBonusResource>
+            <Duration>PT3M13.000S</Duration>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>GB</TerritoryCode>
+				<TerritoryCode>IE</TerritoryCode>
+                <Title>
+                    <TitleText>Wasting Away</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>The Brian Jonestown Massacre</FullName>
+                        <KeyName>The Brian Jonestown Massacre</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Anton Newcombe</FullName>
+                        <KeyName>Newcombe</KeyName>
+                        <NamesAfterKeyName>Anton</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Dean Taylor</FullName>
+                        <KeyName>Taylor</KeyName>
+                        <NamesAfterKeyName>Dean</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Jeffrey Davies</FullName>
+                        <KeyName>Davies</KeyName>
+                        <NamesAfterKeyName>Jeffrey</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Joel Gion</FullName>
+                        <KeyName>Gion</KeyName>
+                        <NamesAfterKeyName>Joel</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="5">
+                    <PartyName>
+                        <FullName>Matt Hollywood</FullName>
+                        <KeyName>Hollywood</KeyName>
+                        <NamesAfterKeyName>Matt</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <PLine>
+                    <PLineText>(P) 1998 TVT Records</PLineText>
+                </PLine>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T85696608</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="67">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">320</BitRate>
+                    <NumberOfChannels>2</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">44100</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_audtrk_00016581578029_01_003_67.mp3</FileName>
+                        <HashSum>
+                            <HashSum>c8c7c6902ce05fca06e88e498bd345e0</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T85697622</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="100">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">64</BitRate>
+                    <NumberOfChannels>2</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">22050</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <Duration>PT0M30.000S</Duration>
+                    <IsPreview>true</IsPreview>
+                    <PreviewDetails>
+                        <StartPoint>0</StartPoint>
+                        <EndPoint>2</EndPoint>
+                        <ExpressionType>Informative</ExpressionType>
+                    </PreviewDetails>
+                    <File>
+                        <FileName>UMG_audclp_00016581578029_01_003_100.mp3</FileName>
+                        <HashSum>
+                            <HashSum>e2dddff926fde7f52bfe37d6c3ca4e1d</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+        </SoundRecording>
+        <SoundRecording>
+            <SoundRecordingId>
+                <ISRC>USTV19800235</ISRC>
+            </SoundRecordingId>
+            <ResourceReference>A20000003643446</ResourceReference>
+            <ReferenceTitle>
+                <TitleText>Jennifer</TitleText>
+            </ReferenceTitle>
+            <IsBonusResource>false</IsBonusResource>
+            <Duration>PT3M31.000S</Duration>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>GB</TerritoryCode>
+				<TerritoryCode>IE</TerritoryCode>
+                <Title>
+                    <TitleText>Jennifer</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>The Brian Jonestown Massacre</FullName>
+                        <KeyName>The Brian Jonestown Massacre</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Anton Newcombe</FullName>
+                        <KeyName>Newcombe</KeyName>
+                        <NamesAfterKeyName>Anton</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Dean Taylor</FullName>
+                        <KeyName>Taylor</KeyName>
+                        <NamesAfterKeyName>Dean</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Jeffrey Davies</FullName>
+                        <KeyName>Davies</KeyName>
+                        <NamesAfterKeyName>Jeffrey</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Joel Gion</FullName>
+                        <KeyName>Gion</KeyName>
+                        <NamesAfterKeyName>Joel</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="5">
+                    <PartyName>
+                        <FullName>Matt Hollywood</FullName>
+                        <KeyName>Hollywood</KeyName>
+                        <NamesAfterKeyName>Matt</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <PLine>
+                    <PLineText>(P) 1998 TVT Records</PLineText>
+                </PLine>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T85696599</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="67">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">320</BitRate>
+                    <NumberOfChannels>2</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">44100</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_audtrk_00016581578029_01_004_67.mp3</FileName>
+                        <HashSum>
+                            <HashSum>3d08974a54e62e8755fd4635f7191759</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T85697614</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="100">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">64</BitRate>
+                    <NumberOfChannels>2</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">22050</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <Duration>PT0M30.000S</Duration>
+                    <IsPreview>true</IsPreview>
+                    <PreviewDetails>
+                        <StartPoint>0</StartPoint>
+                        <EndPoint>2</EndPoint>
+                        <ExpressionType>Informative</ExpressionType>
+                    </PreviewDetails>
+                    <File>
+                        <FileName>UMG_audclp_00016581578029_01_004_100.mp3</FileName>
+                        <HashSum>
+                            <HashSum>098097d54cb0b880469d72d9d2880d4a</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+        </SoundRecording>
+        <SoundRecording>
+            <SoundRecordingId>
+                <ISRC>USTV19800236</ISRC>
+            </SoundRecordingId>
+            <ResourceReference>A20000003643454</ResourceReference>
+            <ReferenceTitle>
+                <TitleText>Got My Eye On You</TitleText>
+            </ReferenceTitle>
+            <IsBonusResource>false</IsBonusResource>
+            <Duration>PT3M10.000S</Duration>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>GB</TerritoryCode>
+				<TerritoryCode>IE</TerritoryCode>
+                <Title>
+                    <TitleText>Got My Eye On You</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>The Brian Jonestown Massacre</FullName>
+                        <KeyName>The Brian Jonestown Massacre</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Anton Newcombe</FullName>
+                        <KeyName>Newcombe</KeyName>
+                        <NamesAfterKeyName>Anton</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Dean Taylor</FullName>
+                        <KeyName>Taylor</KeyName>
+                        <NamesAfterKeyName>Dean</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Jeffrey Davies</FullName>
+                        <KeyName>Davies</KeyName>
+                        <NamesAfterKeyName>Jeffrey</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Joel Gion</FullName>
+                        <KeyName>Gion</KeyName>
+                        <NamesAfterKeyName>Joel</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="5">
+                    <PartyName>
+                        <FullName>Matt Hollywood</FullName>
+                        <KeyName>Hollywood</KeyName>
+                        <NamesAfterKeyName>Matt</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <PLine>
+                    <PLineText>(P) 1998 TVT Records</PLineText>
+                </PLine>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T85696607</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="67">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">320</BitRate>
+                    <NumberOfChannels>2</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">44100</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_audtrk_00016581578029_01_005_67.mp3</FileName>
+                        <HashSum>
+                            <HashSum>6ce51143e14461a220e288b49077d4db</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T85697621</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="100">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">64</BitRate>
+                    <NumberOfChannels>2</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">22050</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <Duration>PT0M30.000S</Duration>
+                    <IsPreview>true</IsPreview>
+                    <PreviewDetails>
+                        <StartPoint>0</StartPoint>
+                        <EndPoint>2</EndPoint>
+                        <ExpressionType>Informative</ExpressionType>
+                    </PreviewDetails>
+                    <File>
+                        <FileName>UMG_audclp_00016581578029_01_005_100.mp3</FileName>
+                        <HashSum>
+                            <HashSum>8be488fa2daf2ce36277ea3802394981</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+        </SoundRecording>
+        <SoundRecording>
+            <SoundRecordingId>
+                <ISRC>USTV19800237</ISRC>
+            </SoundRecordingId>
+            <ResourceReference>A20000003643443</ResourceReference>
+            <ReferenceTitle>
+                <TitleText>Nothing To Lose</TitleText>
+            </ReferenceTitle>
+            <IsBonusResource>false</IsBonusResource>
+            <Duration>PT2M57.000S</Duration>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>GB</TerritoryCode>
+				<TerritoryCode>IE</TerritoryCode>
+                <Title>
+                    <TitleText>Nothing To Lose</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>The Brian Jonestown Massacre</FullName>
+                        <KeyName>The Brian Jonestown Massacre</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Anton Newcombe</FullName>
+                        <KeyName>Newcombe</KeyName>
+                        <NamesAfterKeyName>Anton</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Dean Taylor</FullName>
+                        <KeyName>Taylor</KeyName>
+                        <NamesAfterKeyName>Dean</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Jeffrey Davies</FullName>
+                        <KeyName>Davies</KeyName>
+                        <NamesAfterKeyName>Jeffrey</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Joel Gion</FullName>
+                        <KeyName>Gion</KeyName>
+                        <NamesAfterKeyName>Joel</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="5">
+                    <PartyName>
+                        <FullName>Matt Hollywood</FullName>
+                        <KeyName>Hollywood</KeyName>
+                        <NamesAfterKeyName>Matt</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <PLine>
+                    <PLineText>(P) 1998 TVT Records</PLineText>
+                </PLine>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T85696596</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="67">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">320</BitRate>
+                    <NumberOfChannels>2</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">44100</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_audtrk_00016581578029_01_006_67.mp3</FileName>
+                        <HashSum>
+                            <HashSum>967b45a1f06f2afe025c02aa6b2ca143</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T85697611</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="100">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">64</BitRate>
+                    <NumberOfChannels>2</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">22050</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <Duration>PT0M30.000S</Duration>
+                    <IsPreview>true</IsPreview>
+                    <PreviewDetails>
+                        <StartPoint>0</StartPoint>
+                        <EndPoint>2</EndPoint>
+                        <ExpressionType>Informative</ExpressionType>
+                    </PreviewDetails>
+                    <File>
+                        <FileName>UMG_audclp_00016581578029_01_006_100.mp3</FileName>
+                        <HashSum>
+                            <HashSum>9cd9f9a62dbc7093ab166f272047d299</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+        </SoundRecording>
+        <SoundRecording>
+            <SoundRecordingId>
+                <ISRC>USTV19800238</ISRC>
+            </SoundRecordingId>
+            <ResourceReference>A20000003643444</ResourceReference>
+            <ReferenceTitle>
+                <TitleText>Love</TitleText>
+            </ReferenceTitle>
+            <IsBonusResource>false</IsBonusResource>
+            <Duration>PT3M53.000S</Duration>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>GB</TerritoryCode>
+				<TerritoryCode>IE</TerritoryCode>
+                <Title>
+                    <TitleText>Love</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>The Brian Jonestown Massacre</FullName>
+                        <KeyName>The Brian Jonestown Massacre</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Anton Newcombe</FullName>
+                        <KeyName>Newcombe</KeyName>
+                        <NamesAfterKeyName>Anton</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Dean Taylor</FullName>
+                        <KeyName>Taylor</KeyName>
+                        <NamesAfterKeyName>Dean</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Jeffrey Davies</FullName>
+                        <KeyName>Davies</KeyName>
+                        <NamesAfterKeyName>Jeffrey</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Joel Gion</FullName>
+                        <KeyName>Gion</KeyName>
+                        <NamesAfterKeyName>Joel</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="5">
+                    <PartyName>
+                        <FullName>Matt Hollywood</FullName>
+                        <KeyName>Hollywood</KeyName>
+                        <NamesAfterKeyName>Matt</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <PLine>
+                    <PLineText>(P) 1998 TVT Records</PLineText>
+                </PLine>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T85696597</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="67">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">320</BitRate>
+                    <NumberOfChannels>2</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">44100</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_audtrk_00016581578029_01_007_67.mp3</FileName>
+                        <HashSum>
+                            <HashSum>1d9c140c609b81565b2180c6dca426c8</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T85697612</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="100">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">64</BitRate>
+                    <NumberOfChannels>2</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">22050</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <Duration>PT0M30.000S</Duration>
+                    <IsPreview>true</IsPreview>
+                    <PreviewDetails>
+                        <StartPoint>0</StartPoint>
+                        <EndPoint>2</EndPoint>
+                        <ExpressionType>Informative</ExpressionType>
+                    </PreviewDetails>
+                    <File>
+                        <FileName>UMG_audclp_00016581578029_01_007_100.mp3</FileName>
+                        <HashSum>
+                            <HashSum>0c5f64b0a486fff7192a849d222b3fcd</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+        </SoundRecording>
+        <SoundRecording>
+            <SoundRecordingId>
+                <ISRC>USTV19800239</ISRC>
+            </SoundRecordingId>
+            <ResourceReference>A20000003643449</ResourceReference>
+            <ReferenceTitle>
+                <TitleText>Maybe Tomorrow</TitleText>
+            </ReferenceTitle>
+            <IsBonusResource>false</IsBonusResource>
+            <Duration>PT4M13.000S</Duration>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>GB</TerritoryCode>
+				<TerritoryCode>IE</TerritoryCode>
+                <Title>
+                    <TitleText>Maybe Tomorrow</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>The Brian Jonestown Massacre</FullName>
+                        <KeyName>The Brian Jonestown Massacre</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Anton Newcombe</FullName>
+                        <KeyName>Newcombe</KeyName>
+                        <NamesAfterKeyName>Anton</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Dean Taylor</FullName>
+                        <KeyName>Taylor</KeyName>
+                        <NamesAfterKeyName>Dean</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Jeffrey Davies</FullName>
+                        <KeyName>Davies</KeyName>
+                        <NamesAfterKeyName>Jeffrey</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Joel Gion</FullName>
+                        <KeyName>Gion</KeyName>
+                        <NamesAfterKeyName>Joel</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="5">
+                    <PartyName>
+                        <FullName>Matt Hollywood</FullName>
+                        <KeyName>Hollywood</KeyName>
+                        <NamesAfterKeyName>Matt</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <PLine>
+                    <PLineText>(P) 1998 TVT Records</PLineText>
+                </PLine>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T85696602</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="67">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">320</BitRate>
+                    <NumberOfChannels>2</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">44100</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_audtrk_00016581578029_01_008_67.mp3</FileName>
+                        <HashSum>
+                            <HashSum>b610234d6cf05a24554d98070689002a</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T85697617</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="100">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">64</BitRate>
+                    <NumberOfChannels>2</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">22050</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <Duration>PT0M30.000S</Duration>
+                    <IsPreview>true</IsPreview>
+                    <PreviewDetails>
+                        <StartPoint>0</StartPoint>
+                        <EndPoint>2</EndPoint>
+                        <ExpressionType>Informative</ExpressionType>
+                    </PreviewDetails>
+                    <File>
+                        <FileName>UMG_audclp_00016581578029_01_008_100.mp3</FileName>
+                        <HashSum>
+                            <HashSum>f77047a8cd95e2a67ba3b2f0cb9eed4d</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+        </SoundRecording>
+        <SoundRecording>
+            <SoundRecordingId>
+                <ISRC>USTV19800240</ISRC>
+            </SoundRecordingId>
+            <ResourceReference>A20000003643453</ResourceReference>
+            <ReferenceTitle>
+                <TitleText>Spun</TitleText>
+            </ReferenceTitle>
+            <IsBonusResource>false</IsBonusResource>
+            <Duration>PT4M14.000S</Duration>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>GB</TerritoryCode>
+				<TerritoryCode>IE</TerritoryCode>
+                <Title>
+                    <TitleText>Spun</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>The Brian Jonestown Massacre</FullName>
+                        <KeyName>The Brian Jonestown Massacre</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Anton Newcombe</FullName>
+                        <KeyName>Newcombe</KeyName>
+                        <NamesAfterKeyName>Anton</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Dean Taylor</FullName>
+                        <KeyName>Taylor</KeyName>
+                        <NamesAfterKeyName>Dean</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Jeffrey Davies</FullName>
+                        <KeyName>Davies</KeyName>
+                        <NamesAfterKeyName>Jeffrey</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Joel Gion</FullName>
+                        <KeyName>Gion</KeyName>
+                        <NamesAfterKeyName>Joel</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="5">
+                    <PartyName>
+                        <FullName>Matt Hollywood</FullName>
+                        <KeyName>Hollywood</KeyName>
+                        <NamesAfterKeyName>Matt</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <PLine>
+                    <PLineText>(P) 1998 TVT Records</PLineText>
+                </PLine>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T85696606</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="67">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">320</BitRate>
+                    <NumberOfChannels>2</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">44100</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_audtrk_00016581578029_01_009_67.mp3</FileName>
+                        <HashSum>
+                            <HashSum>632a976508915b2421b73ca9c7aa4f5a</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T85697620</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="100">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">64</BitRate>
+                    <NumberOfChannels>2</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">22050</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <Duration>PT0M30.000S</Duration>
+                    <IsPreview>true</IsPreview>
+                    <PreviewDetails>
+                        <StartPoint>0</StartPoint>
+                        <EndPoint>2</EndPoint>
+                        <ExpressionType>Informative</ExpressionType>
+                    </PreviewDetails>
+                    <File>
+                        <FileName>UMG_audclp_00016581578029_01_009_100.mp3</FileName>
+                        <HashSum>
+                            <HashSum>ef4edd3736cab43fda7c4243b3c32337</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+        </SoundRecording>
+        <SoundRecording>
+            <SoundRecordingId>
+                <ISRC>USTV19800241</ISRC>
+            </SoundRecordingId>
+            <ResourceReference>A20000003643450</ResourceReference>
+            <ReferenceTitle>
+                <TitleText>I've Been Waiting</TitleText>
+            </ReferenceTitle>
+            <IsBonusResource>false</IsBonusResource>
+            <Duration>PT4M24.000S</Duration>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>GB</TerritoryCode>
+				<TerritoryCode>IE</TerritoryCode>
+                <Title>
+                    <TitleText>I've Been Waiting</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>The Brian Jonestown Massacre</FullName>
+                        <KeyName>The Brian Jonestown Massacre</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Anton Newcombe</FullName>
+                        <KeyName>Newcombe</KeyName>
+                        <NamesAfterKeyName>Anton</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Dean Taylor</FullName>
+                        <KeyName>Taylor</KeyName>
+                        <NamesAfterKeyName>Dean</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Jeffrey Davies</FullName>
+                        <KeyName>Davies</KeyName>
+                        <NamesAfterKeyName>Jeffrey</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Joel Gion</FullName>
+                        <KeyName>Gion</KeyName>
+                        <NamesAfterKeyName>Joel</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="5">
+                    <PartyName>
+                        <FullName>Matt Hollywood</FullName>
+                        <KeyName>Hollywood</KeyName>
+                        <NamesAfterKeyName>Matt</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <PLine>
+                    <PLineText>(P) 1998 TVT Records</PLineText>
+                </PLine>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T85696603</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="67">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">320</BitRate>
+                    <NumberOfChannels>2</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">44100</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_audtrk_00016581578029_01_010_67.mp3</FileName>
+                        <HashSum>
+                            <HashSum>78ef18b01d716c835a61163502b4580a</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T85697618</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="100">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">64</BitRate>
+                    <NumberOfChannels>2</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">22050</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <Duration>PT0M30.000S</Duration>
+                    <IsPreview>true</IsPreview>
+                    <PreviewDetails>
+                        <StartPoint>0</StartPoint>
+                        <EndPoint>2</EndPoint>
+                        <ExpressionType>Informative</ExpressionType>
+                    </PreviewDetails>
+                    <File>
+                        <FileName>UMG_audclp_00016581578029_01_010_100.mp3</FileName>
+                        <HashSum>
+                            <HashSum>24e41fe12212b0342df468c79e2138cb</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+        </SoundRecording>
+        <SoundRecording>
+            <SoundRecordingId>
+                <ISRC>USTV19800242</ISRC>
+            </SoundRecordingId>
+            <ResourceReference>A20000003643442</ResourceReference>
+            <ReferenceTitle>
+                <TitleText>Dawn</TitleText>
+            </ReferenceTitle>
+            <IsBonusResource>false</IsBonusResource>
+            <Duration>PT2M13.000S</Duration>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>GB</TerritoryCode>
+				<TerritoryCode>IE</TerritoryCode>
+                <Title>
+                    <TitleText>Dawn</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>The Brian Jonestown Massacre</FullName>
+                        <KeyName>The Brian Jonestown Massacre</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Anton Newcombe</FullName>
+                        <KeyName>Newcombe</KeyName>
+                        <NamesAfterKeyName>Anton</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Dean Taylor</FullName>
+                        <KeyName>Taylor</KeyName>
+                        <NamesAfterKeyName>Dean</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Jeffrey Davies</FullName>
+                        <KeyName>Davies</KeyName>
+                        <NamesAfterKeyName>Jeffrey</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Joel Gion</FullName>
+                        <KeyName>Gion</KeyName>
+                        <NamesAfterKeyName>Joel</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="5">
+                    <PartyName>
+                        <FullName>Matt Hollywood</FullName>
+                        <KeyName>Hollywood</KeyName>
+                        <NamesAfterKeyName>Matt</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <PLine>
+                    <PLineText>(P) 1998 TVT Records</PLineText>
+                </PLine>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T85696595</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="67">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">320</BitRate>
+                    <NumberOfChannels>2</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">44100</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_audtrk_00016581578029_01_011_67.mp3</FileName>
+                        <HashSum>
+                            <HashSum>32fcca09dea3a7c5b98e618cca22e06c</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T85697610</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="100">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">64</BitRate>
+                    <NumberOfChannels>2</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">22050</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <Duration>PT0M30.000S</Duration>
+                    <IsPreview>true</IsPreview>
+                    <PreviewDetails>
+                        <StartPoint>0</StartPoint>
+                        <EndPoint>2</EndPoint>
+                        <ExpressionType>Informative</ExpressionType>
+                    </PreviewDetails>
+                    <File>
+                        <FileName>UMG_audclp_00016581578029_01_011_100.mp3</FileName>
+                        <HashSum>
+                            <HashSum>89c307e9a797bb193fc1b6540c4955b7</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+        </SoundRecording>
+        <SoundRecording>
+            <SoundRecordingId>
+                <ISRC>USTV19800243</ISRC>
+            </SoundRecordingId>
+            <ResourceReference>A20000003643448</ResourceReference>
+            <ReferenceTitle>
+                <TitleText>Lantern</TitleText>
+            </ReferenceTitle>
+            <IsBonusResource>false</IsBonusResource>
+            <Duration>PT3M26.000S</Duration>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>GB</TerritoryCode>
+				<TerritoryCode>IE</TerritoryCode>
+                <Title>
+                    <TitleText>Lantern</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>The Brian Jonestown Massacre</FullName>
+                        <KeyName>The Brian Jonestown Massacre</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Anton Newcombe</FullName>
+                        <KeyName>Newcombe</KeyName>
+                        <NamesAfterKeyName>Anton</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Dean Taylor</FullName>
+                        <KeyName>Taylor</KeyName>
+                        <NamesAfterKeyName>Dean</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Jeffrey Davies</FullName>
+                        <KeyName>Davies</KeyName>
+                        <NamesAfterKeyName>Jeffrey</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Joel Gion</FullName>
+                        <KeyName>Gion</KeyName>
+                        <NamesAfterKeyName>Joel</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="5">
+                    <PartyName>
+                        <FullName>Matt Hollywood</FullName>
+                        <KeyName>Hollywood</KeyName>
+                        <NamesAfterKeyName>Matt</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <PLine>
+                    <PLineText>(P) 1998 TVT Records</PLineText>
+                </PLine>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T85696601</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="67">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">320</BitRate>
+                    <NumberOfChannels>2</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">44100</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_audtrk_00016581578029_01_012_67.mp3</FileName>
+                        <HashSum>
+                            <HashSum>e3d28614f7d9b9ef8045500c837a1ad5</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T85697616</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="100">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">64</BitRate>
+                    <NumberOfChannels>2</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">22050</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <Duration>PT0M30.000S</Duration>
+                    <IsPreview>true</IsPreview>
+                    <PreviewDetails>
+                        <StartPoint>0</StartPoint>
+                        <EndPoint>2</EndPoint>
+                        <ExpressionType>Informative</ExpressionType>
+                    </PreviewDetails>
+                    <File>
+                        <FileName>UMG_audclp_00016581578029_01_012_100.mp3</FileName>
+                        <HashSum>
+                            <HashSum>67b90a4cdda6f7ae27750aa5a03d3a7b</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+        </SoundRecording>
+        <SoundRecording>
+            <SoundRecordingId>
+                <ISRC>USTV19800244</ISRC>
+            </SoundRecordingId>
+            <ResourceReference>A20000003643445</ResourceReference>
+            <ReferenceTitle>
+                <TitleText>Wisdom</TitleText>
+            </ReferenceTitle>
+            <IsBonusResource>true</IsBonusResource>
+            <Duration>PT5M28.000S</Duration>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>GB</TerritoryCode>
+				<TerritoryCode>IE</TerritoryCode>
+                <Title>
+                    <TitleText>Wisdom</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>The Brian Jonestown Massacre</FullName>
+                        <KeyName>The Brian Jonestown Massacre</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Anton Newcombe</FullName>
+                        <KeyName>Newcombe</KeyName>
+                        <NamesAfterKeyName>Anton</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Dean Taylor</FullName>
+                        <KeyName>Taylor</KeyName>
+                        <NamesAfterKeyName>Dean</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Jeffrey Davies</FullName>
+                        <KeyName>Davies</KeyName>
+                        <NamesAfterKeyName>Jeffrey</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Joel Gion</FullName>
+                        <KeyName>Gion</KeyName>
+                        <NamesAfterKeyName>Joel</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="5">
+                    <PartyName>
+                        <FullName>Matt Hollywood</FullName>
+                        <KeyName>Hollywood</KeyName>
+                        <NamesAfterKeyName>Matt</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <PLine>
+                    <PLineText>(P) 1998 TVT Records</PLineText>
+                </PLine>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T85696598</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="67">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">320</BitRate>
+                    <NumberOfChannels>2</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">44100</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_audtrk_00016581578029_01_013_67.mp3</FileName>
+                        <HashSum>
+                            <HashSum>2e55e5ac922903d7e4237d4b9592b038</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T85697613</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="100">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">64</BitRate>
+                    <NumberOfChannels>2</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">22050</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <Duration>PT0M30.000S</Duration>
+                    <IsPreview>true</IsPreview>
+                    <PreviewDetails>
+                        <StartPoint>0</StartPoint>
+                        <EndPoint>2</EndPoint>
+                        <ExpressionType>Informative</ExpressionType>
+                    </PreviewDetails>
+                    <File>
+                        <FileName>UMG_audclp_00016581578029_01_013_100.mp3</FileName>
+                        <HashSum>
+                            <HashSum>ef04f21e83b40a99844b70539e35b072</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+        </SoundRecording>
+        <Image>
+            <ImageId>
+                <ProprietaryId Namespace="PADPIDA2012031302R">06UMGIM64465</ProprietaryId>
+            </ImageId>
+            <ResourceReference>A20000003643451</ResourceReference>
+            <Title>
+                <TitleText>Strung Out In Heaven</TitleText>
+            </Title>
+            <ImageDetailsByTerritory>
+                <TerritoryCode>GB</TerritoryCode>
+				<TerritoryCode>IE</TerritoryCode>
+                <CLine>
+                    <CLineText>(C) 2005 TVT Records</CLineText>
+                </CLine>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalImageDetails>
+                    <TechnicalResourceDetailsReference>T85696605</TechnicalResourceDetailsReference>
+                    <ImageCodecType>JPEG</ImageCodecType>
+                    <ImageHeight UnitOfMeasure="Pixel">800</ImageHeight>
+                    <ImageWidth UnitOfMeasure="Pixel">901</ImageWidth>
+                    <AspectRatio>1.13</AspectRatio>
+                    <ImageResolution>72</ImageResolution>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_cvrart_00016581578029_RGB_72_901x800_85696605.jpg</FileName>
+                        <HashSum>
+                            <HashSum>f147c5b345e4b92b90774b49b51ab33a</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalImageDetails>
+            </ImageDetailsByTerritory>
+        </Image>
+    </ResourceList>
+    <ReleaseList>
+        <Release>
+            <ReleaseId>
+                <ICPN IsEan="false">00016581578029</ICPN>
+            </ReleaseId>
+            <ReleaseReference>R6CB9BA59F9CE4485E040010ADB3807F0</ReleaseReference>
+            <ReferenceTitle>
+                <TitleText>Strung Out In Heaven</TitleText>
+                <SubTitle>Strung Out In Heaven</SubTitle>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643447</ReleaseResourceReference>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643452</ReleaseResourceReference>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643455</ReleaseResourceReference>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643446</ReleaseResourceReference>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643454</ReleaseResourceReference>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643443</ReleaseResourceReference>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643444</ReleaseResourceReference>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643449</ReleaseResourceReference>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643453</ReleaseResourceReference>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643450</ReleaseResourceReference>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643442</ReleaseResourceReference>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643448</ReleaseResourceReference>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643445</ReleaseResourceReference>
+                <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A20000003643451</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>Album</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>GB</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">TVT Recordings UK Ltd</LabelName>
+                <Title>
+                    <TitleText>Strung Out In Heaven</TitleText>
+                    <SubTitle>Strung Out In Heaven</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>The Brian Jonestown Massacre</FullName>
+                        <KeyName>The Brian Jonestown Massacre</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroup>
+                        <SequenceNumber>1</SequenceNumber>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>1</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643447</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>2</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643452</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>3</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643455</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>4</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643446</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>5</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643454</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>6</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643443</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>7</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643444</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>8</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643449</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>9</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643453</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>10</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643450</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>11</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643442</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>12</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643448</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>13</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643445</ReleaseResourceReference>
+                            <IsBonusResource>true</IsBonusResource>
+                        </ResourceGroupContentItem>
+                    </ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A20000003643451</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+				<ReleaseDate>2012-12-21</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>IE</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music Ireland Ltd.</LabelName>
+                <Title>
+                    <TitleText>Strung Out In Heaven</TitleText>
+                    <SubTitle>Strung Out In Heaven</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>The Brian Jonestown Massacre</FullName>
+                        <KeyName>The Brian Jonestown Massacre</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroup>
+                        <SequenceNumber>1</SequenceNumber>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>1</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643447</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>2</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643452</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>3</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643455</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>4</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643446</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>5</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643454</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>6</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643443</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>7</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643444</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>8</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643449</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>9</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643453</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>10</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643450</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>11</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643442</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>12</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643448</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>13</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643445</ReleaseResourceReference>
+                            <IsBonusResource>true</IsBonusResource>
+                        </ResourceGroupContentItem>
+                    </ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A20000003643451</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+				<ReleaseDate>2012-12-21</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT47M17.000S</Duration>
+            <PLine>
+                <PLineText>(P) 2005 TVT Records</PLineText>
+            </PLine>
+            <CLine>
+                <CLineText>(C) 2005 TVT Records</CLineText>
+            </CLine>
+        </Release>
+        <Release>
+            <ReleaseId>
+                <ProprietaryId Namespace="PADPIDA2012031302R">00016581578029_USTV19800232_01_001</ProprietaryId>
+            </ReleaseId>
+            <ReleaseReference>R20000003643447</ReleaseReference>
+            <ReferenceTitle>
+                <TitleText>Going To Hell</TitleText>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643447</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>TrackRelease</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>GB</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">TVT Records</LabelName>
+                <Title>
+                    <TitleText>Going To Hell</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>The Brian Jonestown Massacre</FullName>
+                        <KeyName>The Brian Jonestown Massacre</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Anton Newcombe</FullName>
+                        <KeyName>Newcombe</KeyName>
+                        <NamesAfterKeyName>Anton</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Dean Taylor</FullName>
+                        <KeyName>Taylor</KeyName>
+                        <NamesAfterKeyName>Dean</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Jeffrey Davies</FullName>
+                        <KeyName>Davies</KeyName>
+                        <NamesAfterKeyName>Jeffrey</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="5">
+                    <PartyName>
+                        <FullName>Joel Gion</FullName>
+                        <KeyName>Gion</KeyName>
+                        <NamesAfterKeyName>Joel</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="6">
+                    <PartyName>
+                        <FullName>Matt Hollywood</FullName>
+                        <KeyName>Hollywood</KeyName>
+                        <NamesAfterKeyName>Matt</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643447</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+				<ReleaseDate>2012-12-21</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>IE</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <Title>
+                    <TitleText>Going To Hell</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>The Brian Jonestown Massacre</FullName>
+                        <KeyName>The Brian Jonestown Massacre</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Anton Newcombe</FullName>
+                        <KeyName>Newcombe</KeyName>
+                        <NamesAfterKeyName>Anton</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Dean Taylor</FullName>
+                        <KeyName>Taylor</KeyName>
+                        <NamesAfterKeyName>Dean</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Jeffrey Davies</FullName>
+                        <KeyName>Davies</KeyName>
+                        <NamesAfterKeyName>Jeffrey</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="5">
+                    <PartyName>
+                        <FullName>Joel Gion</FullName>
+                        <KeyName>Gion</KeyName>
+                        <NamesAfterKeyName>Joel</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="6">
+                    <PartyName>
+                        <FullName>Matt Hollywood</FullName>
+                        <KeyName>Hollywood</KeyName>
+                        <NamesAfterKeyName>Matt</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643447</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+				<ReleaseDate>2012-12-21</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT2M58.000S</Duration>
+            <PLine>
+                <PLineText>(P) 1998 TVT Records</PLineText>
+            </PLine>
+        </Release>
+        <Release>
+            <ReleaseId>
+                <ProprietaryId Namespace="PADPIDA2012031302R">00016581578029_USTV19800233_01_002</ProprietaryId>
+            </ReleaseId>
+            <ReleaseReference>R20000003643452</ReleaseReference>
+            <ReferenceTitle>
+                <TitleText>Let's Pretend It's Summer</TitleText>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643452</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>TrackRelease</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>GB</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">TVT Records</LabelName>
+                <Title>
+                    <TitleText>Let's Pretend It's Summer</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>The Brian Jonestown Massacre</FullName>
+                        <KeyName>The Brian Jonestown Massacre</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Anton Newcombe</FullName>
+                        <KeyName>Newcombe</KeyName>
+                        <NamesAfterKeyName>Anton</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Dean Taylor</FullName>
+                        <KeyName>Taylor</KeyName>
+                        <NamesAfterKeyName>Dean</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Jeffrey Davies</FullName>
+                        <KeyName>Davies</KeyName>
+                        <NamesAfterKeyName>Jeffrey</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="5">
+                    <PartyName>
+                        <FullName>Joel Gion</FullName>
+                        <KeyName>Gion</KeyName>
+                        <NamesAfterKeyName>Joel</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="6">
+                    <PartyName>
+                        <FullName>Matt Hollywood</FullName>
+                        <KeyName>Hollywood</KeyName>
+                        <NamesAfterKeyName>Matt</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643452</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+				<ReleaseDate>2012-12-21</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>IE</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <Title>
+                    <TitleText>Let's Pretend It's Summer</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>The Brian Jonestown Massacre</FullName>
+                        <KeyName>The Brian Jonestown Massacre</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Anton Newcombe</FullName>
+                        <KeyName>Newcombe</KeyName>
+                        <NamesAfterKeyName>Anton</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Dean Taylor</FullName>
+                        <KeyName>Taylor</KeyName>
+                        <NamesAfterKeyName>Dean</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Jeffrey Davies</FullName>
+                        <KeyName>Davies</KeyName>
+                        <NamesAfterKeyName>Jeffrey</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="5">
+                    <PartyName>
+                        <FullName>Joel Gion</FullName>
+                        <KeyName>Gion</KeyName>
+                        <NamesAfterKeyName>Joel</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="6">
+                    <PartyName>
+                        <FullName>Matt Hollywood</FullName>
+                        <KeyName>Hollywood</KeyName>
+                        <NamesAfterKeyName>Matt</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643452</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+				<ReleaseDate>2012-12-21</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT3M37.000S</Duration>
+            <PLine>
+                <PLineText>(P) 1998 TVT Records</PLineText>
+            </PLine>
+        </Release>
+        <Release>
+            <ReleaseId>
+                <ProprietaryId Namespace="PADPIDA2012031302R">00016581578029_USTV19800234_01_003</ProprietaryId>
+            </ReleaseId>
+            <ReleaseReference>R20000003643455</ReleaseReference>
+            <ReferenceTitle>
+                <TitleText>Wasting Away</TitleText>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643455</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>TrackRelease</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>GB</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">TVT Records</LabelName>
+                <Title>
+                    <TitleText>Wasting Away</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>The Brian Jonestown Massacre</FullName>
+                        <KeyName>The Brian Jonestown Massacre</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Anton Newcombe</FullName>
+                        <KeyName>Newcombe</KeyName>
+                        <NamesAfterKeyName>Anton</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Dean Taylor</FullName>
+                        <KeyName>Taylor</KeyName>
+                        <NamesAfterKeyName>Dean</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Jeffrey Davies</FullName>
+                        <KeyName>Davies</KeyName>
+                        <NamesAfterKeyName>Jeffrey</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="5">
+                    <PartyName>
+                        <FullName>Joel Gion</FullName>
+                        <KeyName>Gion</KeyName>
+                        <NamesAfterKeyName>Joel</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="6">
+                    <PartyName>
+                        <FullName>Matt Hollywood</FullName>
+                        <KeyName>Hollywood</KeyName>
+                        <NamesAfterKeyName>Matt</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643455</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+				<ReleaseDate>2012-12-21</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>IE</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <Title>
+                    <TitleText>Wasting Away</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>The Brian Jonestown Massacre</FullName>
+                        <KeyName>The Brian Jonestown Massacre</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Anton Newcombe</FullName>
+                        <KeyName>Newcombe</KeyName>
+                        <NamesAfterKeyName>Anton</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Dean Taylor</FullName>
+                        <KeyName>Taylor</KeyName>
+                        <NamesAfterKeyName>Dean</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Jeffrey Davies</FullName>
+                        <KeyName>Davies</KeyName>
+                        <NamesAfterKeyName>Jeffrey</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="5">
+                    <PartyName>
+                        <FullName>Joel Gion</FullName>
+                        <KeyName>Gion</KeyName>
+                        <NamesAfterKeyName>Joel</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="6">
+                    <PartyName>
+                        <FullName>Matt Hollywood</FullName>
+                        <KeyName>Hollywood</KeyName>
+                        <NamesAfterKeyName>Matt</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643455</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+				<ReleaseDate>2012-12-21</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT3M13.000S</Duration>
+            <PLine>
+                <PLineText>(P) 1998 TVT Records</PLineText>
+            </PLine>
+        </Release>
+        <Release>
+            <ReleaseId>
+                <ProprietaryId Namespace="PADPIDA2012031302R">00016581578029_USTV19800235_01_004</ProprietaryId>
+            </ReleaseId>
+            <ReleaseReference>R20000003643446</ReleaseReference>
+            <ReferenceTitle>
+                <TitleText>Jennifer</TitleText>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643446</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>TrackRelease</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>GB</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">TVT Records</LabelName>
+                <Title>
+                    <TitleText>Jennifer</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>The Brian Jonestown Massacre</FullName>
+                        <KeyName>The Brian Jonestown Massacre</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Anton Newcombe</FullName>
+                        <KeyName>Newcombe</KeyName>
+                        <NamesAfterKeyName>Anton</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Dean Taylor</FullName>
+                        <KeyName>Taylor</KeyName>
+                        <NamesAfterKeyName>Dean</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Jeffrey Davies</FullName>
+                        <KeyName>Davies</KeyName>
+                        <NamesAfterKeyName>Jeffrey</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="5">
+                    <PartyName>
+                        <FullName>Joel Gion</FullName>
+                        <KeyName>Gion</KeyName>
+                        <NamesAfterKeyName>Joel</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="6">
+                    <PartyName>
+                        <FullName>Matt Hollywood</FullName>
+                        <KeyName>Hollywood</KeyName>
+                        <NamesAfterKeyName>Matt</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643446</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+				<ReleaseDate>2012-12-21</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>IE</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <Title>
+                    <TitleText>Jennifer</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>The Brian Jonestown Massacre</FullName>
+                        <KeyName>The Brian Jonestown Massacre</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Anton Newcombe</FullName>
+                        <KeyName>Newcombe</KeyName>
+                        <NamesAfterKeyName>Anton</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Dean Taylor</FullName>
+                        <KeyName>Taylor</KeyName>
+                        <NamesAfterKeyName>Dean</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Jeffrey Davies</FullName>
+                        <KeyName>Davies</KeyName>
+                        <NamesAfterKeyName>Jeffrey</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="5">
+                    <PartyName>
+                        <FullName>Joel Gion</FullName>
+                        <KeyName>Gion</KeyName>
+                        <NamesAfterKeyName>Joel</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="6">
+                    <PartyName>
+                        <FullName>Matt Hollywood</FullName>
+                        <KeyName>Hollywood</KeyName>
+                        <NamesAfterKeyName>Matt</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643446</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+				<ReleaseDate>2012-12-21</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT3M31.000S</Duration>
+            <PLine>
+                <PLineText>(P) 1998 TVT Records</PLineText>
+            </PLine>
+        </Release>
+        <Release>
+            <ReleaseId>
+                <ProprietaryId Namespace="PADPIDA2012031302R">00016581578029_USTV19800236_01_005</ProprietaryId>
+            </ReleaseId>
+            <ReleaseReference>R20000003643454</ReleaseReference>
+            <ReferenceTitle>
+                <TitleText>Got My Eye On You</TitleText>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643454</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>TrackRelease</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>GB</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">TVT Records</LabelName>
+                <Title>
+                    <TitleText>Got My Eye On You</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>The Brian Jonestown Massacre</FullName>
+                        <KeyName>The Brian Jonestown Massacre</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Anton Newcombe</FullName>
+                        <KeyName>Newcombe</KeyName>
+                        <NamesAfterKeyName>Anton</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Dean Taylor</FullName>
+                        <KeyName>Taylor</KeyName>
+                        <NamesAfterKeyName>Dean</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Jeffrey Davies</FullName>
+                        <KeyName>Davies</KeyName>
+                        <NamesAfterKeyName>Jeffrey</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="5">
+                    <PartyName>
+                        <FullName>Joel Gion</FullName>
+                        <KeyName>Gion</KeyName>
+                        <NamesAfterKeyName>Joel</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="6">
+                    <PartyName>
+                        <FullName>Matt Hollywood</FullName>
+                        <KeyName>Hollywood</KeyName>
+                        <NamesAfterKeyName>Matt</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643454</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+				<ReleaseDate>2012-12-21</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>IE</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <Title>
+                    <TitleText>Got My Eye On You</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>The Brian Jonestown Massacre</FullName>
+                        <KeyName>The Brian Jonestown Massacre</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Anton Newcombe</FullName>
+                        <KeyName>Newcombe</KeyName>
+                        <NamesAfterKeyName>Anton</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Dean Taylor</FullName>
+                        <KeyName>Taylor</KeyName>
+                        <NamesAfterKeyName>Dean</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Jeffrey Davies</FullName>
+                        <KeyName>Davies</KeyName>
+                        <NamesAfterKeyName>Jeffrey</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="5">
+                    <PartyName>
+                        <FullName>Joel Gion</FullName>
+                        <KeyName>Gion</KeyName>
+                        <NamesAfterKeyName>Joel</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="6">
+                    <PartyName>
+                        <FullName>Matt Hollywood</FullName>
+                        <KeyName>Hollywood</KeyName>
+                        <NamesAfterKeyName>Matt</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643454</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+				<ReleaseDate>2012-12-21</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT3M10.000S</Duration>
+            <PLine>
+                <PLineText>(P) 1998 TVT Records</PLineText>
+            </PLine>
+        </Release>
+        <Release>
+            <ReleaseId>
+                <ProprietaryId Namespace="PADPIDA2012031302R">00016581578029_USTV19800237_01_006</ProprietaryId>
+            </ReleaseId>
+            <ReleaseReference>R20000003643443</ReleaseReference>
+            <ReferenceTitle>
+                <TitleText>Nothing To Lose</TitleText>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643443</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>TrackRelease</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>GB</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">TVT Records</LabelName>
+                <Title>
+                    <TitleText>Nothing To Lose</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>The Brian Jonestown Massacre</FullName>
+                        <KeyName>The Brian Jonestown Massacre</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Anton Newcombe</FullName>
+                        <KeyName>Newcombe</KeyName>
+                        <NamesAfterKeyName>Anton</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Dean Taylor</FullName>
+                        <KeyName>Taylor</KeyName>
+                        <NamesAfterKeyName>Dean</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Jeffrey Davies</FullName>
+                        <KeyName>Davies</KeyName>
+                        <NamesAfterKeyName>Jeffrey</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="5">
+                    <PartyName>
+                        <FullName>Joel Gion</FullName>
+                        <KeyName>Gion</KeyName>
+                        <NamesAfterKeyName>Joel</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="6">
+                    <PartyName>
+                        <FullName>Matt Hollywood</FullName>
+                        <KeyName>Hollywood</KeyName>
+                        <NamesAfterKeyName>Matt</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643443</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+				<ReleaseDate>2012-12-21</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>IE</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <Title>
+                    <TitleText>Nothing To Lose</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>The Brian Jonestown Massacre</FullName>
+                        <KeyName>The Brian Jonestown Massacre</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Anton Newcombe</FullName>
+                        <KeyName>Newcombe</KeyName>
+                        <NamesAfterKeyName>Anton</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Dean Taylor</FullName>
+                        <KeyName>Taylor</KeyName>
+                        <NamesAfterKeyName>Dean</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Jeffrey Davies</FullName>
+                        <KeyName>Davies</KeyName>
+                        <NamesAfterKeyName>Jeffrey</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="5">
+                    <PartyName>
+                        <FullName>Joel Gion</FullName>
+                        <KeyName>Gion</KeyName>
+                        <NamesAfterKeyName>Joel</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="6">
+                    <PartyName>
+                        <FullName>Matt Hollywood</FullName>
+                        <KeyName>Hollywood</KeyName>
+                        <NamesAfterKeyName>Matt</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643443</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+				<ReleaseDate>2012-12-21</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT2M57.000S</Duration>
+            <PLine>
+                <PLineText>(P) 1998 TVT Records</PLineText>
+            </PLine>
+        </Release>
+        <Release>
+            <ReleaseId>
+                <ProprietaryId Namespace="PADPIDA2012031302R">00016581578029_USTV19800238_01_007</ProprietaryId>
+            </ReleaseId>
+            <ReleaseReference>R20000003643444</ReleaseReference>
+            <ReferenceTitle>
+                <TitleText>Love</TitleText>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643444</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>TrackRelease</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>GB</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">TVT Records</LabelName>
+                <Title>
+                    <TitleText>Love</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>The Brian Jonestown Massacre</FullName>
+                        <KeyName>The Brian Jonestown Massacre</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Anton Newcombe</FullName>
+                        <KeyName>Newcombe</KeyName>
+                        <NamesAfterKeyName>Anton</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Dean Taylor</FullName>
+                        <KeyName>Taylor</KeyName>
+                        <NamesAfterKeyName>Dean</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Jeffrey Davies</FullName>
+                        <KeyName>Davies</KeyName>
+                        <NamesAfterKeyName>Jeffrey</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="5">
+                    <PartyName>
+                        <FullName>Joel Gion</FullName>
+                        <KeyName>Gion</KeyName>
+                        <NamesAfterKeyName>Joel</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="6">
+                    <PartyName>
+                        <FullName>Matt Hollywood</FullName>
+                        <KeyName>Hollywood</KeyName>
+                        <NamesAfterKeyName>Matt</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643444</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+				<ReleaseDate>2012-12-21</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>IE</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <Title>
+                    <TitleText>Love</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>The Brian Jonestown Massacre</FullName>
+                        <KeyName>The Brian Jonestown Massacre</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Anton Newcombe</FullName>
+                        <KeyName>Newcombe</KeyName>
+                        <NamesAfterKeyName>Anton</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Dean Taylor</FullName>
+                        <KeyName>Taylor</KeyName>
+                        <NamesAfterKeyName>Dean</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Jeffrey Davies</FullName>
+                        <KeyName>Davies</KeyName>
+                        <NamesAfterKeyName>Jeffrey</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="5">
+                    <PartyName>
+                        <FullName>Joel Gion</FullName>
+                        <KeyName>Gion</KeyName>
+                        <NamesAfterKeyName>Joel</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="6">
+                    <PartyName>
+                        <FullName>Matt Hollywood</FullName>
+                        <KeyName>Hollywood</KeyName>
+                        <NamesAfterKeyName>Matt</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643444</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+				<ReleaseDate>2012-12-21</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT3M53.000S</Duration>
+            <PLine>
+                <PLineText>(P) 1998 TVT Records</PLineText>
+            </PLine>
+        </Release>
+        <Release>
+            <ReleaseId>
+                <ProprietaryId Namespace="PADPIDA2012031302R">00016581578029_USTV19800239_01_008</ProprietaryId>
+            </ReleaseId>
+            <ReleaseReference>R20000003643449</ReleaseReference>
+            <ReferenceTitle>
+                <TitleText>Maybe Tomorrow</TitleText>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643449</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>TrackRelease</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>GB</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">TVT Records</LabelName>
+                <Title>
+                    <TitleText>Maybe Tomorrow</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>The Brian Jonestown Massacre</FullName>
+                        <KeyName>The Brian Jonestown Massacre</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Anton Newcombe</FullName>
+                        <KeyName>Newcombe</KeyName>
+                        <NamesAfterKeyName>Anton</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Dean Taylor</FullName>
+                        <KeyName>Taylor</KeyName>
+                        <NamesAfterKeyName>Dean</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Jeffrey Davies</FullName>
+                        <KeyName>Davies</KeyName>
+                        <NamesAfterKeyName>Jeffrey</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="5">
+                    <PartyName>
+                        <FullName>Joel Gion</FullName>
+                        <KeyName>Gion</KeyName>
+                        <NamesAfterKeyName>Joel</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="6">
+                    <PartyName>
+                        <FullName>Matt Hollywood</FullName>
+                        <KeyName>Hollywood</KeyName>
+                        <NamesAfterKeyName>Matt</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643449</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+				<ReleaseDate>2012-12-21</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>IE</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <Title>
+                    <TitleText>Maybe Tomorrow</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>The Brian Jonestown Massacre</FullName>
+                        <KeyName>The Brian Jonestown Massacre</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Anton Newcombe</FullName>
+                        <KeyName>Newcombe</KeyName>
+                        <NamesAfterKeyName>Anton</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Dean Taylor</FullName>
+                        <KeyName>Taylor</KeyName>
+                        <NamesAfterKeyName>Dean</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Jeffrey Davies</FullName>
+                        <KeyName>Davies</KeyName>
+                        <NamesAfterKeyName>Jeffrey</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="5">
+                    <PartyName>
+                        <FullName>Joel Gion</FullName>
+                        <KeyName>Gion</KeyName>
+                        <NamesAfterKeyName>Joel</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="6">
+                    <PartyName>
+                        <FullName>Matt Hollywood</FullName>
+                        <KeyName>Hollywood</KeyName>
+                        <NamesAfterKeyName>Matt</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643449</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+				<ReleaseDate>2012-12-21</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT4M13.000S</Duration>
+            <PLine>
+                <PLineText>(P) 1998 TVT Records</PLineText>
+            </PLine>
+        </Release>
+        <Release>
+            <ReleaseId>
+                <ProprietaryId Namespace="PADPIDA2012031302R">00016581578029_USTV19800240_01_009</ProprietaryId>
+            </ReleaseId>
+            <ReleaseReference>R20000003643453</ReleaseReference>
+            <ReferenceTitle>
+                <TitleText>Spun</TitleText>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643453</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>TrackRelease</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>GB</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">TVT Records</LabelName>
+                <Title>
+                    <TitleText>Spun</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>The Brian Jonestown Massacre</FullName>
+                        <KeyName>The Brian Jonestown Massacre</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Anton Newcombe</FullName>
+                        <KeyName>Newcombe</KeyName>
+                        <NamesAfterKeyName>Anton</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Dean Taylor</FullName>
+                        <KeyName>Taylor</KeyName>
+                        <NamesAfterKeyName>Dean</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Jeffrey Davies</FullName>
+                        <KeyName>Davies</KeyName>
+                        <NamesAfterKeyName>Jeffrey</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="5">
+                    <PartyName>
+                        <FullName>Joel Gion</FullName>
+                        <KeyName>Gion</KeyName>
+                        <NamesAfterKeyName>Joel</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="6">
+                    <PartyName>
+                        <FullName>Matt Hollywood</FullName>
+                        <KeyName>Hollywood</KeyName>
+                        <NamesAfterKeyName>Matt</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643453</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+				<ReleaseDate>2012-12-21</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>IE</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <Title>
+                    <TitleText>Spun</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>The Brian Jonestown Massacre</FullName>
+                        <KeyName>The Brian Jonestown Massacre</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Anton Newcombe</FullName>
+                        <KeyName>Newcombe</KeyName>
+                        <NamesAfterKeyName>Anton</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Dean Taylor</FullName>
+                        <KeyName>Taylor</KeyName>
+                        <NamesAfterKeyName>Dean</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Jeffrey Davies</FullName>
+                        <KeyName>Davies</KeyName>
+                        <NamesAfterKeyName>Jeffrey</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="5">
+                    <PartyName>
+                        <FullName>Joel Gion</FullName>
+                        <KeyName>Gion</KeyName>
+                        <NamesAfterKeyName>Joel</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="6">
+                    <PartyName>
+                        <FullName>Matt Hollywood</FullName>
+                        <KeyName>Hollywood</KeyName>
+                        <NamesAfterKeyName>Matt</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643453</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+				<ReleaseDate>2012-12-21</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT4M14.000S</Duration>
+            <PLine>
+                <PLineText>(P) 1998 TVT Records</PLineText>
+            </PLine>
+        </Release>
+        <Release>
+            <ReleaseId>
+                <ProprietaryId Namespace="PADPIDA2012031302R">00016581578029_USTV19800241_01_010</ProprietaryId>
+            </ReleaseId>
+            <ReleaseReference>R20000003643450</ReleaseReference>
+            <ReferenceTitle>
+                <TitleText>I've Been Waiting</TitleText>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643450</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>TrackRelease</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>GB</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">TVT Records</LabelName>
+                <Title>
+                    <TitleText>I've Been Waiting</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>The Brian Jonestown Massacre</FullName>
+                        <KeyName>The Brian Jonestown Massacre</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Anton Newcombe</FullName>
+                        <KeyName>Newcombe</KeyName>
+                        <NamesAfterKeyName>Anton</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Dean Taylor</FullName>
+                        <KeyName>Taylor</KeyName>
+                        <NamesAfterKeyName>Dean</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Jeffrey Davies</FullName>
+                        <KeyName>Davies</KeyName>
+                        <NamesAfterKeyName>Jeffrey</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="5">
+                    <PartyName>
+                        <FullName>Joel Gion</FullName>
+                        <KeyName>Gion</KeyName>
+                        <NamesAfterKeyName>Joel</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="6">
+                    <PartyName>
+                        <FullName>Matt Hollywood</FullName>
+                        <KeyName>Hollywood</KeyName>
+                        <NamesAfterKeyName>Matt</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643450</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+				<ReleaseDate>2012-12-21</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>IE</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <Title>
+                    <TitleText>I've Been Waiting</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>The Brian Jonestown Massacre</FullName>
+                        <KeyName>The Brian Jonestown Massacre</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Anton Newcombe</FullName>
+                        <KeyName>Newcombe</KeyName>
+                        <NamesAfterKeyName>Anton</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Dean Taylor</FullName>
+                        <KeyName>Taylor</KeyName>
+                        <NamesAfterKeyName>Dean</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Jeffrey Davies</FullName>
+                        <KeyName>Davies</KeyName>
+                        <NamesAfterKeyName>Jeffrey</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="5">
+                    <PartyName>
+                        <FullName>Joel Gion</FullName>
+                        <KeyName>Gion</KeyName>
+                        <NamesAfterKeyName>Joel</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="6">
+                    <PartyName>
+                        <FullName>Matt Hollywood</FullName>
+                        <KeyName>Hollywood</KeyName>
+                        <NamesAfterKeyName>Matt</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643450</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+				<ReleaseDate>2012-12-21</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT4M24.000S</Duration>
+            <PLine>
+                <PLineText>(P) 1998 TVT Records</PLineText>
+            </PLine>
+        </Release>
+        <Release>
+            <ReleaseId>
+                <ProprietaryId Namespace="PADPIDA2012031302R">00016581578029_USTV19800242_01_011</ProprietaryId>
+            </ReleaseId>
+            <ReleaseReference>R20000003643442</ReleaseReference>
+            <ReferenceTitle>
+                <TitleText>Dawn</TitleText>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643442</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>TrackRelease</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>GB</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">TVT Records</LabelName>
+                <Title>
+                    <TitleText>Dawn</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>The Brian Jonestown Massacre</FullName>
+                        <KeyName>The Brian Jonestown Massacre</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Anton Newcombe</FullName>
+                        <KeyName>Newcombe</KeyName>
+                        <NamesAfterKeyName>Anton</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Dean Taylor</FullName>
+                        <KeyName>Taylor</KeyName>
+                        <NamesAfterKeyName>Dean</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Jeffrey Davies</FullName>
+                        <KeyName>Davies</KeyName>
+                        <NamesAfterKeyName>Jeffrey</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="5">
+                    <PartyName>
+                        <FullName>Joel Gion</FullName>
+                        <KeyName>Gion</KeyName>
+                        <NamesAfterKeyName>Joel</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="6">
+                    <PartyName>
+                        <FullName>Matt Hollywood</FullName>
+                        <KeyName>Hollywood</KeyName>
+                        <NamesAfterKeyName>Matt</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643442</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+				<ReleaseDate>2012-12-21</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>IE</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <Title>
+                    <TitleText>Dawn</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>The Brian Jonestown Massacre</FullName>
+                        <KeyName>The Brian Jonestown Massacre</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Anton Newcombe</FullName>
+                        <KeyName>Newcombe</KeyName>
+                        <NamesAfterKeyName>Anton</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Dean Taylor</FullName>
+                        <KeyName>Taylor</KeyName>
+                        <NamesAfterKeyName>Dean</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Jeffrey Davies</FullName>
+                        <KeyName>Davies</KeyName>
+                        <NamesAfterKeyName>Jeffrey</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="5">
+                    <PartyName>
+                        <FullName>Joel Gion</FullName>
+                        <KeyName>Gion</KeyName>
+                        <NamesAfterKeyName>Joel</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="6">
+                    <PartyName>
+                        <FullName>Matt Hollywood</FullName>
+                        <KeyName>Hollywood</KeyName>
+                        <NamesAfterKeyName>Matt</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643442</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+				<ReleaseDate>2012-12-21</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT2M13.000S</Duration>
+            <PLine>
+                <PLineText>(P) 1998 TVT Records</PLineText>
+            </PLine>
+        </Release>
+        <Release>
+            <ReleaseId>
+                <ProprietaryId Namespace="PADPIDA2012031302R">00016581578029_USTV19800243_01_012</ProprietaryId>
+            </ReleaseId>
+            <ReleaseReference>R20000003643448</ReleaseReference>
+            <ReferenceTitle>
+                <TitleText>Lantern</TitleText>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643448</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>TrackRelease</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>GB</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">TVT Records</LabelName>
+                <Title>
+                    <TitleText>Lantern</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>The Brian Jonestown Massacre</FullName>
+                        <KeyName>The Brian Jonestown Massacre</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Anton Newcombe</FullName>
+                        <KeyName>Newcombe</KeyName>
+                        <NamesAfterKeyName>Anton</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Dean Taylor</FullName>
+                        <KeyName>Taylor</KeyName>
+                        <NamesAfterKeyName>Dean</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Jeffrey Davies</FullName>
+                        <KeyName>Davies</KeyName>
+                        <NamesAfterKeyName>Jeffrey</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="5">
+                    <PartyName>
+                        <FullName>Joel Gion</FullName>
+                        <KeyName>Gion</KeyName>
+                        <NamesAfterKeyName>Joel</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="6">
+                    <PartyName>
+                        <FullName>Matt Hollywood</FullName>
+                        <KeyName>Hollywood</KeyName>
+                        <NamesAfterKeyName>Matt</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643448</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+				<ReleaseDate>2012-12-21</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>IE</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <Title>
+                    <TitleText>Lantern</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>The Brian Jonestown Massacre</FullName>
+                        <KeyName>The Brian Jonestown Massacre</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Anton Newcombe</FullName>
+                        <KeyName>Newcombe</KeyName>
+                        <NamesAfterKeyName>Anton</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Dean Taylor</FullName>
+                        <KeyName>Taylor</KeyName>
+                        <NamesAfterKeyName>Dean</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Jeffrey Davies</FullName>
+                        <KeyName>Davies</KeyName>
+                        <NamesAfterKeyName>Jeffrey</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="5">
+                    <PartyName>
+                        <FullName>Joel Gion</FullName>
+                        <KeyName>Gion</KeyName>
+                        <NamesAfterKeyName>Joel</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="6">
+                    <PartyName>
+                        <FullName>Matt Hollywood</FullName>
+                        <KeyName>Hollywood</KeyName>
+                        <NamesAfterKeyName>Matt</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643448</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+				<ReleaseDate>2012-12-21</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT3M26.000S</Duration>
+            <PLine>
+                <PLineText>(P) 1998 TVT Records</PLineText>
+            </PLine>
+        </Release>
+        <Release>
+            <ReleaseId>
+                <ProprietaryId Namespace="PADPIDA2012031302R">00016581578029_USTV19800244_01_013</ProprietaryId>
+            </ReleaseId>
+            <ReleaseReference>R20000003643445</ReleaseReference>
+            <ReferenceTitle>
+                <TitleText>Wisdom</TitleText>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A20000003643445</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>TrackRelease</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>GB</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">TVT Records</LabelName>
+                <Title>
+                    <TitleText>Wisdom</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>The Brian Jonestown Massacre</FullName>
+                        <KeyName>The Brian Jonestown Massacre</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Anton Newcombe</FullName>
+                        <KeyName>Newcombe</KeyName>
+                        <NamesAfterKeyName>Anton</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Dean Taylor</FullName>
+                        <KeyName>Taylor</KeyName>
+                        <NamesAfterKeyName>Dean</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Jeffrey Davies</FullName>
+                        <KeyName>Davies</KeyName>
+                        <NamesAfterKeyName>Jeffrey</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="5">
+                    <PartyName>
+                        <FullName>Joel Gion</FullName>
+                        <KeyName>Gion</KeyName>
+                        <NamesAfterKeyName>Joel</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="6">
+                    <PartyName>
+                        <FullName>Matt Hollywood</FullName>
+                        <KeyName>Hollywood</KeyName>
+                        <NamesAfterKeyName>Matt</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643445</ReleaseResourceReference>
+                        <IsBonusResource>true</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+				<ReleaseDate>2012-12-21</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>IE</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <Title>
+                    <TitleText>Wisdom</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>The Brian Jonestown Massacre</FullName>
+                        <KeyName>The Brian Jonestown Massacre</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Anton Newcombe</FullName>
+                        <KeyName>Newcombe</KeyName>
+                        <NamesAfterKeyName>Anton</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Dean Taylor</FullName>
+                        <KeyName>Taylor</KeyName>
+                        <NamesAfterKeyName>Dean</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Jeffrey Davies</FullName>
+                        <KeyName>Davies</KeyName>
+                        <NamesAfterKeyName>Jeffrey</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="5">
+                    <PartyName>
+                        <FullName>Joel Gion</FullName>
+                        <KeyName>Gion</KeyName>
+                        <NamesAfterKeyName>Joel</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="6">
+                    <PartyName>
+                        <FullName>Matt Hollywood</FullName>
+                        <KeyName>Hollywood</KeyName>
+                        <NamesAfterKeyName>Matt</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A20000003643445</ReleaseResourceReference>
+                        <IsBonusResource>true</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+				<ReleaseDate>2012-12-21</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT5M28.000S</Duration>
+            <PLine>
+                <PLineText>(P) 1998 TVT Records</PLineText>
+            </PLine>
+        </Release>
+    </ReleaseList>
+    <DealList>
+        <ReleaseDeal>
+            <DealReleaseReference>R6CB9BA59F9CE4485E040010ADB3807F0</DealReleaseReference>
+            <Deal>
+                <DealTerms>
+                    <AllDealsCancelled>true</AllDealsCancelled>
+                    <TerritoryCode>GB</TerritoryCode>
+					<TerritoryCode>IE</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PADPIDA2012031302R">TPU</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-10-30</StartDate>
+                    </ValidityPeriod>
+                    <PreOrderReleaseDate>2012-10-30</PreOrderReleaseDate>
+                    <PreOrderPreviewDate>2012-10-30</PreOrderPreviewDate>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PADPIDA2012031302R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+					<TerritoryCode>IE</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PADPIDA2012031302R">TPU</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-12-21</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PADPIDA2012031302R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+					<TerritoryCode>IE</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PADPIDA2012031302R">TPU</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-12-21</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PADPIDA2012031302R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+					<TerritoryCode>IE</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PADPIDA2012031302R">TPU</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-12-21</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PADPIDA2012031302R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+					<TerritoryCode>IE</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PADPIDA2012031302R">TPU</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-12-21</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PADPIDA2012031302R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+					<TerritoryCode>IE</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PADPIDA2012031302R">TPU</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-12-21</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PADPIDA2012031302R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+					<TerritoryCode>IE</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PADPIDA2012031302R">TPU</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-12-21</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <EffectiveDate>2012-10-30</EffectiveDate>
+        </ReleaseDeal>
+        <ReleaseDeal>
+            <DealReleaseReference>R20000003643447</DealReleaseReference>
+			<DealReleaseReference>R20000003643452</DealReleaseReference>
+			<DealReleaseReference>R20000003643455</DealReleaseReference>
+			<DealReleaseReference>R20000003643446</DealReleaseReference>
+			<DealReleaseReference>R20000003643454</DealReleaseReference>
+			<DealReleaseReference>R20000003643443</DealReleaseReference>
+			<DealReleaseReference>R20000003643444</DealReleaseReference>
+			<DealReleaseReference>R20000003643449</DealReleaseReference>
+			<DealReleaseReference>R20000003643453</DealReleaseReference>
+			<DealReleaseReference>R20000003643450</DealReleaseReference>
+			<DealReleaseReference>R20000003643442</DealReleaseReference>
+			<DealReleaseReference>R20000003643448</DealReleaseReference>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PADPIDA2012031302R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+					<TerritoryCode>IE</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PADPIDA2012031302R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-12-21</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PADPIDA2012031302R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+					<TerritoryCode>IE</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PADPIDA2012031302R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-12-21</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PADPIDA2012031302R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+					<TerritoryCode>IE</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PADPIDA2012031302R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-12-21</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PADPIDA2012031302R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+					<TerritoryCode>IE</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PADPIDA2012031302R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-12-21</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PADPIDA2012031302R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+					<TerritoryCode>IE</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PADPIDA2012031302R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-12-21</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PADPIDA2012031302R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+					<TerritoryCode>IE</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PADPIDA2012031302R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-12-21</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <EffectiveDate>2012-10-30</EffectiveDate>
+        </ReleaseDeal>
+		<ReleaseDeal>
+			<DealReleaseReference>R20000003643445</DealReleaseReference>
+            <Deal>
+                <DealTerms>
+                    <AllDealsCancelled>true</AllDealsCancelled>
+                    <TerritoryCode>GB</TerritoryCode>
+					<TerritoryCode>IE</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-12-21</StartDate>
+                    </ValidityPeriod>
+				</DealTerms>
+			</Deal>
+		</ReleaseDeal>
+    </DealList>
+</ern:NewReleaseMessage>

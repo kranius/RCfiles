@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ern:NewReleaseMessage  xmlns:ern="http://ddex.net/xml/ern/35" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xs:schemaLocation="http://ddex.net/xml/ern/35 http://ddex.net/xml/ern/35/release-notification.xsd" MessageSchemaVersionId="ern/35" LanguageAndScriptCode="en">    
+    <MessageHeader>
+        <MessageThreadId>3000011725037</MessageThreadId>
+        <MessageId>3000011725037_30780505425</MessageId>
+        <MessageFileName>UMG_Metadata_Georges_BP_new_DGP-M-798321_2012-10-16_14-24-40.xml</MessageFileName>
+        <MessageSender>
+            <PartyId>PADPIDA2010032301A</PartyId>
+            <PartyName>
+                <FullName>Digiplug</FullName>
+            </PartyName>
+        </MessageSender>
+        <SentOnBehalfOf>
+            <PartyId>PADPIDA2012031302R</PartyId>
+            <PartyName>
+                <FullName>Universal Music Group International</FullName>
+            </PartyName>
+        </SentOnBehalfOf>
+        <MessageRecipient>
+            <PartyId>561</PartyId>
+            <PartyName>
+                <FullName>Georges BP</FullName>
+            </PartyName>
+        </MessageRecipient>
+        <MessageCreatedDateTime>2012-10-16T14:24:40</MessageCreatedDateTime>
+        <MessageControlType>TestMessage</MessageControlType>
+    </MessageHeader>
+    <UpdateIndicator>OriginalMessage</UpdateIndicator>
+	<IsBackfill>true</IsBackfill>
+    <ResourceList>
+        <SoundRecording>
+            <SoundRecordingId>
+                <ProprietaryId Namespace="PADPIDA2012031302R">GBUM70903018</ProprietaryId>
+            </SoundRecordingId>
+            <ResourceReference>A69351589</ResourceReference>
+            <ReferenceTitle>
+                <TitleText>Rob: Hey  Hood Rat</TitleText>
+            </ReferenceTitle>
+            <IsBonusResource>false</IsBonusResource>
+            <Duration>PT29.000S</Duration>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>ES</TerritoryCode>
+				<TerritoryCode>NL</TerritoryCode>
+                <Title>
+                    <TitleText>Rob: Hey  Hood Rat</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Metallica</FullName>
+                        <KeyName>Metallica</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Metallica</FullName>
+                        <KeyName>Metallica</KeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <PLine>
+                    <PLineText>(P) 2007 Metallica, under exclusive licence to Universal Music International BV</PLineText>
+                </PLine>
+                <HostSoundCarrier>
+                    <ReleaseId>
+                        <ISRC>GBUM70903018</ISRC>
+                    </ReleaseId>
+                </HostSoundCarrier>
+                <Genre>
+                    <GenreText>Rock</GenreText>
+                </Genre>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T107582109442</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="1101001">AAC</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">64</BitRate>
+                    <NumberOfChannels>2</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">44100</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_aud30s_DGP-M-798321_1101001.3ga</FileName>
+                        <HashSum>
+                            <HashSum>79e6552f86014ad30a7f8cc65acda2d6</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+        </SoundRecording>
+        <Image>
+            <ImageId>
+                <ProprietaryId Namespace="PADPIDA2012031302R">09UMGIM03456</ProprietaryId>
+            </ImageId>
+            <ResourceReference>A52872388</ResourceReference>
+            <Title>
+                <TitleText>Metallica Digital Boxset</TitleText>
+            </Title>
+            <ImageDetailsByTerritory>
+                <TerritoryCode>ES</TerritoryCode>
+				<TerritoryCode>NL</TerritoryCode>
+                <CLine>
+                    <CLineText>(C) 2009 Metallica, under exclusive licence to Universal Music International BV</CLineText>
+                </CLine>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalImageDetails>
+                    <TechnicalResourceDetailsReference>T107582109444ES</TechnicalResourceDetailsReference>
+                    <ImageCodecType>JPEG</ImageCodecType>
+                    <ImageHeight UnitOfMeasure="Pixel">1400</ImageHeight>
+                    <ImageWidth UnitOfMeasure="Pixel">1400</ImageWidth>
+                    <AspectRatio>1.00</AspectRatio>
+                    <ImageResolution>72</ImageResolution>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_cvrart_DGP-M-798321_RGB_72_1400x1400_107582109444.jpg</FileName>
+                        <HashSum>
+                            <HashSum>78f19afbe83d29508397ed87593c1a30</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalImageDetails>
+            </ImageDetailsByTerritory>
+        </Image>
+    </ResourceList>
+    <ReleaseList>
+        <Release>
+            <ReleaseId>
+                <ICPN IsEan="false">00602527034874</ICPN>
+                <ProprietaryId Namespace="PADPIDA2012031302R">DGP-M-798321</ProprietaryId>
+            </ReleaseId>
+            <ReleaseReference>R7EDB23771632BE0AE040020A210036E6</ReleaseReference>
+            <ReferenceTitle>
+                <TitleText>Rob: Hey  Hood Rat</TitleText>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A69351589</ReleaseResourceReference>
+                <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A52872388</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType UserDefinedValue="SpeechtoneRelease">UserDefined</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>ES</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music Spain S.L.</LabelName>
+                <Title>
+                    <TitleText>Rob: Hey  Hood Rat</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Metallica</FullName>
+                        <KeyName>Metallica</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroup>
+                        <SequenceNumber>1</SequenceNumber>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>5</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A69351589</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                    </ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A52872388</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Rock</GenreText>
+                </Genre>
+				<ReleaseDate>2008-08-18</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>NL</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music B.V.</LabelName>
+                <Title>
+                    <TitleText>Rob: Hey  Hood Rat</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Metallica</FullName>
+                        <KeyName>Metallica</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroup>
+                        <SequenceNumber>1</SequenceNumber>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>5</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A69351589</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                    </ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A52872388</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Rock</GenreText>
+                </Genre>
+				<ReleaseDate>2008-08-18</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT29.000S</Duration>
+            <PLine>
+                <PLineText>(P) 2007 Metallica, under exclusive licence to Universal Music International BV</PLineText>
+            </PLine>
+            <CLine>
+                <CLineText>(C) 2007 Metallica, under exclusive licence to Universal Music International BV</CLineText>
+            </CLine>
+        </Release>
+    </ReleaseList>
+    <DealList>
+        <ReleaseDeal>
+            <DealReleaseReference>R7EDB23771632BE0AE040020A210036E6</DealReleaseReference>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PADPIDA2012031302R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>ES</TerritoryCode>
+					<TerritoryCode>NL</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-10-16</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PADPIDA2012031302R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>ES</TerritoryCode>
+					<TerritoryCode>NL</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-10-16</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PADPIDA2012031302R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>ES</TerritoryCode>
+					<TerritoryCode>NL</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-10-16</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <EffectiveDate>2012-10-16</EffectiveDate>
+        </ReleaseDeal>
+    </DealList>
+</ern:NewReleaseMessage>

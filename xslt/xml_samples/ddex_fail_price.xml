@@ -1,0 +1,1649 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:NewReleaseMessage xmlns:ns2="http://ddex.net/xml/2011/ern-main/33" MessageSchemaVersionId="2011/ern-main/33">
+    <MessageHeader>
+        <MessageThreadId>3000011617897</MessageThreadId>
+        <MessageId>3000011617897_22094188493</MessageId>
+        <MessageFileName>UMG_Metadata_Songo_(Audio)_update_00602527842394_2012-09-14_07-59-14.xml</MessageFileName>
+        <MessageSender>
+            <PartyId>PADPIDA2010032301A</PartyId>
+            <PartyName>
+                <FullName>Digiplug</FullName>
+            </PartyName>
+        </MessageSender>
+        <SentOnBehalfOf>
+            <PartyId>PADPIDA2012031302R</PartyId>
+            <PartyName>
+                <FullName>Universal Music Group International</FullName>
+            </PartyName>
+        </SentOnBehalfOf>
+        <MessageRecipient>
+            <PartyId>DDEX BP ID PA-DPIDA-2011102401-H</PartyId>
+            <PartyName>
+                <FullName>Songo (Audio)</FullName>
+            </PartyName>
+        </MessageRecipient>
+        <MessageCreatedDateTime>2012-09-14T07:59:14</MessageCreatedDateTime>
+        <MessageControlType>LiveMessage</MessageControlType>
+    </MessageHeader>
+    <UpdateIndicator>UpdateMessage</UpdateIndicator>
+    <ResourceList>
+        <SoundRecording>
+            <SoundRecordingId>
+                <ISRC>CZUM71100295</ISRC>
+            </SoundRecordingId>
+            <ResourceReference>A40638922697</ResourceReference>
+            <ReferenceTitle>
+                <TitleText>Balada o polnych vtakov</TitleText>
+            </ReferenceTitle>
+            <IsBonusResource>false</IsBonusResource>
+            <Duration>PT3M18.000S</Duration>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>HU</TerritoryCode>
+                <Title>
+                    <TitleText>Balada o polnych vtakov</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Miroslav Zbirka</FullName>
+                        <KeyName>Zbirka</KeyName>
+                        <NamesAfterKeyName>Miroslav</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Kamil Peteraj</FullName>
+                        <KeyName>Peteraj</KeyName>
+                        <NamesAfterKeyName>Kamil</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Author</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Miroslav Zbirka</FullName>
+                        <KeyName>Zbirka</KeyName>
+                        <NamesAfterKeyName>Miroslav</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <PLine>
+                    <PLineText>(P) 2011 Universal Music s.r.o.</PLineText>
+                </PLine>
+                <Genre>
+                    <GenreText>Pop</GenreText>
+                </Genre>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+            </SoundRecordingDetailsByTerritory>
+        </SoundRecording>
+        <SoundRecording>
+            <SoundRecordingId>
+                <ISRC>CZUM71100297</ISRC>
+            </SoundRecordingId>
+            <ResourceReference>A40638922699</ResourceReference>
+            <ReferenceTitle>
+                <TitleText>Jesenna laska</TitleText>
+            </ReferenceTitle>
+            <IsBonusResource>false</IsBonusResource>
+            <Duration>PT3M12.000S</Duration>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>HU</TerritoryCode>
+                <Title>
+                    <TitleText>Jesenna laska</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Miroslav Zbirka</FullName>
+                        <KeyName>Zbirka</KeyName>
+                        <NamesAfterKeyName>Miroslav</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Miroslav Valek</FullName>
+                        <KeyName>Valek</KeyName>
+                        <NamesAfterKeyName>Miroslav</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Author</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Miroslav Zbirka</FullName>
+                        <KeyName>Zbirka</KeyName>
+                        <NamesAfterKeyName>Miroslav</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <PLine>
+                    <PLineText>(P) 2011 Universal Music s.r.o.</PLineText>
+                </PLine>
+                <Genre>
+                    <GenreText>Pop</GenreText>
+                </Genre>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+            </SoundRecordingDetailsByTerritory>
+        </SoundRecording>
+        <SoundRecording>
+            <SoundRecordingId>
+                <ISRC>CZUM71100298</ISRC>
+            </SoundRecordingId>
+            <ResourceReference>A40638922690</ResourceReference>
+            <ReferenceTitle>
+                <TitleText>Denisa</TitleText>
+            </ReferenceTitle>
+            <IsBonusResource>false</IsBonusResource>
+            <Duration>PT3M5.000S</Duration>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>HU</TerritoryCode>
+                <Title>
+                    <TitleText>Denisa</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Miroslav Zbirka</FullName>
+                        <KeyName>Zbirka</KeyName>
+                        <NamesAfterKeyName>Miroslav</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Kamil Peteraj</FullName>
+                        <KeyName>Peteraj</KeyName>
+                        <NamesAfterKeyName>Kamil</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Author</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Miroslav Zbirka</FullName>
+                        <KeyName>Zbirka</KeyName>
+                        <NamesAfterKeyName>Miroslav</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <PLine>
+                    <PLineText>(P) 2011 Universal Music s.r.o.</PLineText>
+                </PLine>
+                <Genre>
+                    <GenreText>Pop</GenreText>
+                </Genre>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+            </SoundRecordingDetailsByTerritory>
+        </SoundRecording>
+        <SoundRecording>
+            <SoundRecordingId>
+                <ISRC>CZUM71100299</ISRC>
+            </SoundRecordingId>
+            <ResourceReference>A40638922696</ResourceReference>
+            <ReferenceTitle>
+                <TitleText>Co boli to preboli</TitleText>
+            </ReferenceTitle>
+            <IsBonusResource>false</IsBonusResource>
+            <Duration>PT4M1.000S</Duration>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>HU</TerritoryCode>
+                <Title>
+                    <TitleText>Co boli to preboli</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Miroslav Zbirka</FullName>
+                        <KeyName>Zbirka</KeyName>
+                        <NamesAfterKeyName>Miroslav</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Kamil Peteraj</FullName>
+                        <KeyName>Peteraj</KeyName>
+                        <NamesAfterKeyName>Kamil</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Author</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Miroslav Zbirka</FullName>
+                        <KeyName>Zbirka</KeyName>
+                        <NamesAfterKeyName>Miroslav</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <PLine>
+                    <PLineText>(P) 2011 Universal Music s.r.o.</PLineText>
+                </PLine>
+                <Genre>
+                    <GenreText>Pop</GenreText>
+                </Genre>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+            </SoundRecordingDetailsByTerritory>
+        </SoundRecording>
+        <SoundRecording>
+            <SoundRecordingId>
+                <ISRC>CZUM71100300</ISRC>
+            </SoundRecordingId>
+            <ResourceReference>A40638922691</ResourceReference>
+            <ReferenceTitle>
+                <TitleText>Len s nou</TitleText>
+            </ReferenceTitle>
+            <IsBonusResource>false</IsBonusResource>
+            <Duration>PT3M9.000S</Duration>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>HU</TerritoryCode>
+                <Title>
+                    <TitleText>Len s nou</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Miroslav Zbirka</FullName>
+                        <KeyName>Zbirka</KeyName>
+                        <NamesAfterKeyName>Miroslav</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Urban</FullName>
+                        <KeyName>Urban</KeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Author</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Miroslav Zbirka</FullName>
+                        <KeyName>Zbirka</KeyName>
+                        <NamesAfterKeyName>Miroslav</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <PLine>
+                    <PLineText>(P) 2011 Universal Music s.r.o.</PLineText>
+                </PLine>
+                <Genre>
+                    <GenreText>Pop</GenreText>
+                </Genre>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+            </SoundRecordingDetailsByTerritory>
+        </SoundRecording>
+        <SoundRecording>
+            <SoundRecordingId>
+                <ISRC>CZUM71100301</ISRC>
+            </SoundRecordingId>
+            <ResourceReference>A40638922694</ResourceReference>
+            <ReferenceTitle>
+                <TitleText>Mesto spi</TitleText>
+            </ReferenceTitle>
+            <IsBonusResource>false</IsBonusResource>
+            <Duration>PT2M44.000S</Duration>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>HU</TerritoryCode>
+                <Title>
+                    <TitleText>Mesto spi</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Miroslav Zbirka</FullName>
+                        <KeyName>Zbirka</KeyName>
+                        <NamesAfterKeyName>Miroslav</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Miroslav Zbirka</FullName>
+                        <KeyName>Zbirka</KeyName>
+                        <NamesAfterKeyName>Miroslav</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Author</IndirectResourceContributorRole>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <PLine>
+                    <PLineText>(P) 2011 Universal Music s.r.o.</PLineText>
+                </PLine>
+                <Genre>
+                    <GenreText>Pop</GenreText>
+                </Genre>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+            </SoundRecordingDetailsByTerritory>
+        </SoundRecording>
+        <SoundRecording>
+            <SoundRecordingId>
+                <ISRC>CZUM71100304</ISRC>
+            </SoundRecordingId>
+            <ResourceReference>A40638922693</ResourceReference>
+            <ReferenceTitle>
+                <TitleText>Zazni</TitleText>
+            </ReferenceTitle>
+            <IsBonusResource>false</IsBonusResource>
+            <Duration>PT3M35.000S</Duration>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>HU</TerritoryCode>
+                <Title>
+                    <TitleText>Zazni</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Miroslav Zbirka</FullName>
+                        <KeyName>Zbirka</KeyName>
+                        <NamesAfterKeyName>Miroslav</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Jan Strasser</FullName>
+                        <KeyName>Strasser</KeyName>
+                        <NamesAfterKeyName>Jan</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Author</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Miroslav Zbirka</FullName>
+                        <KeyName>Zbirka</KeyName>
+                        <NamesAfterKeyName>Miroslav</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <PLine>
+                    <PLineText>(P) 2011 Universal Music s.r.o.</PLineText>
+                </PLine>
+                <Genre>
+                    <GenreText>Pop</GenreText>
+                </Genre>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+            </SoundRecordingDetailsByTerritory>
+        </SoundRecording>
+        <SoundRecording>
+            <SoundRecordingId>
+                <ISRC>CZUM71100296</ISRC>
+            </SoundRecordingId>
+            <ResourceReference>A40638922712</ResourceReference>
+            <ReferenceTitle>
+                <TitleText>Atlantida</TitleText>
+            </ReferenceTitle>
+            <IsBonusResource>false</IsBonusResource>
+            <Duration>PT4M7.000S</Duration>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>HU</TerritoryCode>
+                <Title>
+                    <TitleText>Atlantida</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Miroslav Zbirka</FullName>
+                        <KeyName>Zbirka</KeyName>
+                        <NamesAfterKeyName>Miroslav</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Kamil Peteraj</FullName>
+                        <KeyName>Peteraj</KeyName>
+                        <NamesAfterKeyName>Kamil</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Author</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Miroslav Zbirka</FullName>
+                        <KeyName>Zbirka</KeyName>
+                        <NamesAfterKeyName>Miroslav</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <PLine>
+                    <PLineText>(P) 2011 Universal Music s.r.o.</PLineText>
+                </PLine>
+                <Genre>
+                    <GenreText>Pop</GenreText>
+                </Genre>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+            </SoundRecordingDetailsByTerritory>
+        </SoundRecording>
+        <SoundRecording>
+            <SoundRecordingId>
+                <ISRC>CZUM71100294</ISRC>
+            </SoundRecordingId>
+            <ResourceReference>A40638922710</ResourceReference>
+            <ReferenceTitle>
+                <TitleText>Z tej vone ta vyzliekam</TitleText>
+            </ReferenceTitle>
+            <IsBonusResource>false</IsBonusResource>
+            <Duration>PT2M26.000S</Duration>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>HU</TerritoryCode>
+                <Title>
+                    <TitleText>Z tej vone ta vyzliekam</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Miroslav Zbirka</FullName>
+                        <KeyName>Zbirka</KeyName>
+                        <NamesAfterKeyName>Miroslav</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>J. Urban</FullName>
+                        <KeyName>Urban</KeyName>
+                        <NamesAfterKeyName>J.</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Author</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Miroslav Zbirka</FullName>
+                        <KeyName>Zbirka</KeyName>
+                        <NamesAfterKeyName>Miroslav</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <PLine>
+                    <PLineText>(P) 2011 Universal Music s.r.o.</PLineText>
+                </PLine>
+                <Genre>
+                    <GenreText>Pop</GenreText>
+                </Genre>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+            </SoundRecordingDetailsByTerritory>
+        </SoundRecording>
+        <SoundRecording>
+            <SoundRecordingId>
+                <ISRC>CZUM71100302</ISRC>
+            </SoundRecordingId>
+            <ResourceReference>A40638922692</ResourceReference>
+            <ReferenceTitle>
+                <TitleText>Mur nasich lasok</TitleText>
+            </ReferenceTitle>
+            <IsBonusResource>false</IsBonusResource>
+            <Duration>PT4M23.000S</Duration>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>HU</TerritoryCode>
+                <Title>
+                    <TitleText>Mur nasich lasok</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Miroslav Zbirka</FullName>
+                        <KeyName>Zbirka</KeyName>
+                        <NamesAfterKeyName>Miroslav</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Kamil Peteraj</FullName>
+                        <KeyName>Peteraj</KeyName>
+                        <NamesAfterKeyName>Kamil</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Author</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Miroslav Zbirka</FullName>
+                        <KeyName>Zbirka</KeyName>
+                        <NamesAfterKeyName>Miroslav</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <PLine>
+                    <PLineText>(P) 2011 Universal Music s.r.o.</PLineText>
+                </PLine>
+                <Genre>
+                    <GenreText>Pop</GenreText>
+                </Genre>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+            </SoundRecordingDetailsByTerritory>
+        </SoundRecording>
+        <SoundRecording>
+            <SoundRecordingId>
+                <ISRC>CZUM71100303</ISRC>
+            </SoundRecordingId>
+            <ResourceReference>A40638922698</ResourceReference>
+            <ReferenceTitle>
+                <TitleText>Strom</TitleText>
+            </ReferenceTitle>
+            <IsBonusResource>false</IsBonusResource>
+            <Duration>PT3M43.000S</Duration>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>HU</TerritoryCode>
+                <Title>
+                    <TitleText>Strom</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Miroslav Zbirka</FullName>
+                        <KeyName>Zbirka</KeyName>
+                        <NamesAfterKeyName>Miroslav</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Kamil Peteraj</FullName>
+                        <KeyName>Peteraj</KeyName>
+                        <NamesAfterKeyName>Kamil</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Author</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Miroslav Zbirka</FullName>
+                        <KeyName>Zbirka</KeyName>
+                        <NamesAfterKeyName>Miroslav</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <PLine>
+                    <PLineText>(P) 2011 Universal Music s.r.o.</PLineText>
+                </PLine>
+                <Genre>
+                    <GenreText>Pop</GenreText>
+                </Genre>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+            </SoundRecordingDetailsByTerritory>
+        </SoundRecording>
+        <SoundRecording>
+            <SoundRecordingId>
+                <ISRC>CZUM71100293</ISRC>
+            </SoundRecordingId>
+            <ResourceReference>A40638922711</ResourceReference>
+            <ReferenceTitle>
+                <TitleText>Melodicon</TitleText>
+                <SubTitle>Instrumental</SubTitle>
+            </ReferenceTitle>
+            <IsBonusResource>false</IsBonusResource>
+            <Duration>PT6M45.000S</Duration>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>HU</TerritoryCode>
+                <Title>
+                    <TitleText>Melodicon</TitleText>
+                    <SubTitle>Instrumental</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Miroslav Zbirka</FullName>
+                        <KeyName>Zbirka</KeyName>
+                        <NamesAfterKeyName>Miroslav</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Miroslav Zbirka</FullName>
+                        <KeyName>Zbirka</KeyName>
+                        <NamesAfterKeyName>Miroslav</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="2">
+                    <PartyName>
+                        <FullName>M. Hybler</FullName>
+                        <KeyName>Hybler</KeyName>
+                        <NamesAfterKeyName>M.</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <PLine>
+                    <PLineText>(P) 2011 Universal Music s.r.o.</PLineText>
+                </PLine>
+                <Genre>
+                    <GenreText>Pop</GenreText>
+                </Genre>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+            </SoundRecordingDetailsByTerritory>
+        </SoundRecording>
+        <Image>
+            <ImageId>
+                <ProprietaryId Namespace="PADPIDA2012031302R">11UMGIM33460</ProprietaryId>
+            </ImageId>
+            <ResourceReference>A40638922695</ResourceReference>
+            <Title>
+                <TitleText>Symphonic Album</TitleText>
+            </Title>
+            <ImageDetailsByTerritory>
+                <TerritoryCode>HU</TerritoryCode>
+                <CLine>
+                    <CLineText>(C) 2011 Universal Music s.r.o.</CLineText>
+                </CLine>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+            </ImageDetailsByTerritory>
+        </Image>
+    </ResourceList>
+    <ReleaseList>
+        <Release>
+            <ReleaseId>
+                <ICPN IsEan="false">00602527842394</ICPN>
+            </ReleaseId>
+            <ReleaseReference>RAE9F3BB4EBCE04BBE040390A0702744A</ReleaseReference>
+            <ReferenceTitle>
+                <TitleText>Symphonic Album</TitleText>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A40638922697</ReleaseResourceReference>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A40638922699</ReleaseResourceReference>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A40638922690</ReleaseResourceReference>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A40638922696</ReleaseResourceReference>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A40638922691</ReleaseResourceReference>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A40638922694</ReleaseResourceReference>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A40638922693</ReleaseResourceReference>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A40638922712</ReleaseResourceReference>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A40638922710</ReleaseResourceReference>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A40638922692</ReleaseResourceReference>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A40638922698</ReleaseResourceReference>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A40638922711</ReleaseResourceReference>
+                <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A40638922695</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>Album</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>HU</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <Title>
+                    <TitleText>Symphonic Album</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Miroslav Zbirka</FullName>
+                        <KeyName>Zbirka</KeyName>
+                        <NamesAfterKeyName>Miroslav</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroup>
+                        <SequenceNumber>1</SequenceNumber>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>1</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A40638922697</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>2</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A40638922699</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>3</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A40638922690</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>4</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A40638922696</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>5</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A40638922691</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>6</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A40638922694</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>7</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A40638922693</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>8</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A40638922712</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>9</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A40638922710</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>10</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A40638922692</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>11</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A40638922698</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>12</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A40638922711</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                    </ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A40638922695</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Pop</GenreText>
+                </Genre>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT44M28.000S</Duration>
+            <PLine>
+                <PLineText>(P) 2011 Universal Music s.r.o.</PLineText>
+            </PLine>
+            <CLine>
+                <CLineText>(C) 2011 Universal Music s.r.o.</CLineText>
+            </CLine>
+        </Release>
+        <Release>
+            <ReleaseId>
+                <ProprietaryId Namespace="PADPIDA2012031302R">00602527842394_CZUM71100295_01_001</ProprietaryId>
+            </ReleaseId>
+            <ReleaseReference>R40638922697</ReleaseReference>
+            <ReferenceTitle>
+                <TitleText>Balada o polnych vtakov</TitleText>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A40638922697</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>TrackRelease</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>HU</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <Title>
+                    <TitleText>Balada o polnych vtakov</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Miroslav Zbirka</FullName>
+                        <KeyName>Zbirka</KeyName>
+                        <NamesAfterKeyName>Miroslav</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Kamil Peteraj</FullName>
+                        <KeyName>Peteraj</KeyName>
+                        <NamesAfterKeyName>Kamil</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Author</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A40638922697</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Pop</GenreText>
+                </Genre>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT3M18.000S</Duration>
+            <PLine>
+                <PLineText>(P) 2011 Universal Music s.r.o.</PLineText>
+            </PLine>
+        </Release>
+        <Release>
+            <ReleaseId>
+                <ProprietaryId Namespace="PADPIDA2012031302R">00602527842394_CZUM71100297_01_002</ProprietaryId>
+            </ReleaseId>
+            <ReleaseReference>R40638922699</ReleaseReference>
+            <ReferenceTitle>
+                <TitleText>Jesenna laska</TitleText>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A40638922699</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>TrackRelease</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>HU</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <Title>
+                    <TitleText>Jesenna laska</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Miroslav Zbirka</FullName>
+                        <KeyName>Zbirka</KeyName>
+                        <NamesAfterKeyName>Miroslav</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Miroslav Valek</FullName>
+                        <KeyName>Valek</KeyName>
+                        <NamesAfterKeyName>Miroslav</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Author</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A40638922699</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Pop</GenreText>
+                </Genre>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT3M12.000S</Duration>
+            <PLine>
+                <PLineText>(P) 2011 Universal Music s.r.o.</PLineText>
+            </PLine>
+        </Release>
+        <Release>
+            <ReleaseId>
+                <ProprietaryId Namespace="PADPIDA2012031302R">00602527842394_CZUM71100298_01_003</ProprietaryId>
+            </ReleaseId>
+            <ReleaseReference>R40638922690</ReleaseReference>
+            <ReferenceTitle>
+                <TitleText>Denisa</TitleText>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A40638922690</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>TrackRelease</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>HU</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <Title>
+                    <TitleText>Denisa</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Miroslav Zbirka</FullName>
+                        <KeyName>Zbirka</KeyName>
+                        <NamesAfterKeyName>Miroslav</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Kamil Peteraj</FullName>
+                        <KeyName>Peteraj</KeyName>
+                        <NamesAfterKeyName>Kamil</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Author</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A40638922690</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Pop</GenreText>
+                </Genre>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT3M5.000S</Duration>
+            <PLine>
+                <PLineText>(P) 2011 Universal Music s.r.o.</PLineText>
+            </PLine>
+        </Release>
+        <Release>
+            <ReleaseId>
+                <ProprietaryId Namespace="PADPIDA2012031302R">00602527842394_CZUM71100299_01_004</ProprietaryId>
+            </ReleaseId>
+            <ReleaseReference>R40638922696</ReleaseReference>
+            <ReferenceTitle>
+                <TitleText>Co boli to preboli</TitleText>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A40638922696</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>TrackRelease</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>HU</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <Title>
+                    <TitleText>Co boli to preboli</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Miroslav Zbirka</FullName>
+                        <KeyName>Zbirka</KeyName>
+                        <NamesAfterKeyName>Miroslav</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Kamil Peteraj</FullName>
+                        <KeyName>Peteraj</KeyName>
+                        <NamesAfterKeyName>Kamil</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Author</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A40638922696</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Pop</GenreText>
+                </Genre>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT4M1.000S</Duration>
+            <PLine>
+                <PLineText>(P) 2011 Universal Music s.r.o.</PLineText>
+            </PLine>
+        </Release>
+        <Release>
+            <ReleaseId>
+                <ProprietaryId Namespace="PADPIDA2012031302R">00602527842394_CZUM71100300_01_005</ProprietaryId>
+            </ReleaseId>
+            <ReleaseReference>R40638922691</ReleaseReference>
+            <ReferenceTitle>
+                <TitleText>Len s nou</TitleText>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A40638922691</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>TrackRelease</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>HU</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <Title>
+                    <TitleText>Len s nou</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Miroslav Zbirka</FullName>
+                        <KeyName>Zbirka</KeyName>
+                        <NamesAfterKeyName>Miroslav</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Urban</FullName>
+                        <KeyName>Urban</KeyName>
+                    </PartyName>
+                    <ArtistRole>Author</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A40638922691</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Pop</GenreText>
+                </Genre>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT3M9.000S</Duration>
+            <PLine>
+                <PLineText>(P) 2011 Universal Music s.r.o.</PLineText>
+            </PLine>
+        </Release>
+        <Release>
+            <ReleaseId>
+                <ProprietaryId Namespace="PADPIDA2012031302R">00602527842394_CZUM71100301_01_006</ProprietaryId>
+            </ReleaseId>
+            <ReleaseReference>R40638922694</ReleaseReference>
+            <ReferenceTitle>
+                <TitleText>Mesto spi</TitleText>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A40638922694</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>TrackRelease</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>HU</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <Title>
+                    <TitleText>Mesto spi</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Miroslav Zbirka</FullName>
+                        <KeyName>Zbirka</KeyName>
+                        <NamesAfterKeyName>Miroslav</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Author</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A40638922694</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Pop</GenreText>
+                </Genre>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT2M44.000S</Duration>
+            <PLine>
+                <PLineText>(P) 2011 Universal Music s.r.o.</PLineText>
+            </PLine>
+        </Release>
+        <Release>
+            <ReleaseId>
+                <ProprietaryId Namespace="PADPIDA2012031302R">00602527842394_CZUM71100304_01_007</ProprietaryId>
+            </ReleaseId>
+            <ReleaseReference>R40638922693</ReleaseReference>
+            <ReferenceTitle>
+                <TitleText>Zazni</TitleText>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A40638922693</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>TrackRelease</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>HU</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <Title>
+                    <TitleText>Zazni</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Miroslav Zbirka</FullName>
+                        <KeyName>Zbirka</KeyName>
+                        <NamesAfterKeyName>Miroslav</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Jan Strasser</FullName>
+                        <KeyName>Strasser</KeyName>
+                        <NamesAfterKeyName>Jan</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Author</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A40638922693</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Pop</GenreText>
+                </Genre>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT3M35.000S</Duration>
+            <PLine>
+                <PLineText>(P) 2011 Universal Music s.r.o.</PLineText>
+            </PLine>
+        </Release>
+        <Release>
+            <ReleaseId>
+                <ProprietaryId Namespace="PADPIDA2012031302R">00602527842394_CZUM71100296_01_008</ProprietaryId>
+            </ReleaseId>
+            <ReleaseReference>R40638922712</ReleaseReference>
+            <ReferenceTitle>
+                <TitleText>Atlantida</TitleText>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A40638922712</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>TrackRelease</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>HU</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <Title>
+                    <TitleText>Atlantida</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Miroslav Zbirka</FullName>
+                        <KeyName>Zbirka</KeyName>
+                        <NamesAfterKeyName>Miroslav</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Kamil Peteraj</FullName>
+                        <KeyName>Peteraj</KeyName>
+                        <NamesAfterKeyName>Kamil</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Author</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A40638922712</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Pop</GenreText>
+                </Genre>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT4M7.000S</Duration>
+            <PLine>
+                <PLineText>(P) 2011 Universal Music s.r.o.</PLineText>
+            </PLine>
+        </Release>
+        <Release>
+            <ReleaseId>
+                <ProprietaryId Namespace="PADPIDA2012031302R">00602527842394_CZUM71100294_01_009</ProprietaryId>
+            </ReleaseId>
+            <ReleaseReference>R40638922710</ReleaseReference>
+            <ReferenceTitle>
+                <TitleText>Z tej vone ta vyzliekam</TitleText>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A40638922710</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>TrackRelease</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>HU</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <Title>
+                    <TitleText>Z tej vone ta vyzliekam</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Miroslav Zbirka</FullName>
+                        <KeyName>Zbirka</KeyName>
+                        <NamesAfterKeyName>Miroslav</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>J. Urban</FullName>
+                        <KeyName>Urban</KeyName>
+                        <NamesAfterKeyName>J.</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Author</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A40638922710</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Pop</GenreText>
+                </Genre>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT2M26.000S</Duration>
+            <PLine>
+                <PLineText>(P) 2011 Universal Music s.r.o.</PLineText>
+            </PLine>
+        </Release>
+        <Release>
+            <ReleaseId>
+                <ProprietaryId Namespace="PADPIDA2012031302R">00602527842394_CZUM71100302_01_010</ProprietaryId>
+            </ReleaseId>
+            <ReleaseReference>R40638922692</ReleaseReference>
+            <ReferenceTitle>
+                <TitleText>Mur nasich lasok</TitleText>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A40638922692</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>TrackRelease</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>HU</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <Title>
+                    <TitleText>Mur nasich lasok</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Miroslav Zbirka</FullName>
+                        <KeyName>Zbirka</KeyName>
+                        <NamesAfterKeyName>Miroslav</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Kamil Peteraj</FullName>
+                        <KeyName>Peteraj</KeyName>
+                        <NamesAfterKeyName>Kamil</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Author</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A40638922692</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Pop</GenreText>
+                </Genre>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT4M23.000S</Duration>
+            <PLine>
+                <PLineText>(P) 2011 Universal Music s.r.o.</PLineText>
+            </PLine>
+        </Release>
+        <Release>
+            <ReleaseId>
+                <ProprietaryId Namespace="PADPIDA2012031302R">00602527842394_CZUM71100303_01_011</ProprietaryId>
+            </ReleaseId>
+            <ReleaseReference>R40638922698</ReleaseReference>
+            <ReferenceTitle>
+                <TitleText>Strom</TitleText>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A40638922698</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>TrackRelease</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>HU</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <Title>
+                    <TitleText>Strom</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Miroslav Zbirka</FullName>
+                        <KeyName>Zbirka</KeyName>
+                        <NamesAfterKeyName>Miroslav</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Kamil Peteraj</FullName>
+                        <KeyName>Peteraj</KeyName>
+                        <NamesAfterKeyName>Kamil</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Author</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A40638922698</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Pop</GenreText>
+                </Genre>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT3M43.000S</Duration>
+            <PLine>
+                <PLineText>(P) 2011 Universal Music s.r.o.</PLineText>
+            </PLine>
+        </Release>
+        <Release>
+            <ReleaseId>
+                <ProprietaryId Namespace="PADPIDA2012031302R">00602527842394_CZUM71100293_01_012</ProprietaryId>
+            </ReleaseId>
+            <ReleaseReference>R40638922711</ReleaseReference>
+            <ReferenceTitle>
+                <TitleText>Melodicon</TitleText>
+                <SubTitle>Instrumental</SubTitle>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A40638922711</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>TrackRelease</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>HU</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <Title>
+                    <TitleText>Melodicon</TitleText>
+                    <SubTitle>Instrumental</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Miroslav Zbirka</FullName>
+                        <KeyName>Zbirka</KeyName>
+                        <NamesAfterKeyName>Miroslav</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>M. Hybler</FullName>
+                        <KeyName>Hybler</KeyName>
+                        <NamesAfterKeyName>M.</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A40638922711</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Pop</GenreText>
+                </Genre>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT6M45.000S</Duration>
+            <PLine>
+                <PLineText>(P) 2011 Universal Music s.r.o.</PLineText>
+            </PLine>
+        </Release>
+    </ReleaseList>
+    <DealList>
+        <ReleaseDeal>
+            <DealReleaseReference>RAE9F3BB4EBCE04BBE040390A0702744A</DealReleaseReference>
+            <Deal>
+                <DealReference>DEFAULT</DealReference>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PADPIDA2012031302R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>HU</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PADPIDA2012031302R">TP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-09-14Z</StartDate>
+                        <EndDate>2012-09-18Z</EndDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PADPIDA2012031302R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>HU</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PADPIDA2012031302R">MP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-09-18Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <EffectiveDate>2012-09-14</EffectiveDate>
+        </ReleaseDeal>
+        <ReleaseDeal>
+            <DealReleaseReference>R40638922697</DealReleaseReference>
+            <Deal>
+                <DealReference>DEFAULT</DealReference>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PADPIDA2012031302R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>HU</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PADPIDA2012031302R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-09-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <EffectiveDate>2012-09-14</EffectiveDate>
+        </ReleaseDeal>
+        <ReleaseDeal>
+            <DealReleaseReference>R40638922699</DealReleaseReference>
+            <Deal>
+                <DealReference>DEFAULT</DealReference>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PADPIDA2012031302R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>HU</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PADPIDA2012031302R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-09-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <EffectiveDate>2012-09-14</EffectiveDate>
+        </ReleaseDeal>
+        <ReleaseDeal>
+            <DealReleaseReference>R40638922690</DealReleaseReference>
+            <Deal>
+                <DealReference>DEFAULT</DealReference>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PADPIDA2012031302R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>HU</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PADPIDA2012031302R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-09-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <EffectiveDate>2012-09-14</EffectiveDate>
+        </ReleaseDeal>
+        <ReleaseDeal>
+            <DealReleaseReference>R40638922696</DealReleaseReference>
+            <Deal>
+                <DealReference>DEFAULT</DealReference>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PADPIDA2012031302R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>HU</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PADPIDA2012031302R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-09-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <EffectiveDate>2012-09-14</EffectiveDate>
+        </ReleaseDeal>
+        <ReleaseDeal>
+            <DealReleaseReference>R40638922691</DealReleaseReference>
+            <Deal>
+                <DealReference>DEFAULT</DealReference>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PADPIDA2012031302R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>HU</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PADPIDA2012031302R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-09-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <EffectiveDate>2012-09-14</EffectiveDate>
+        </ReleaseDeal>
+        <ReleaseDeal>
+            <DealReleaseReference>R40638922694</DealReleaseReference>
+            <Deal>
+                <DealReference>DEFAULT</DealReference>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PADPIDA2012031302R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>HU</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PADPIDA2012031302R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-09-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <EffectiveDate>2012-09-14</EffectiveDate>
+        </ReleaseDeal>
+        <ReleaseDeal>
+            <DealReleaseReference>R40638922693</DealReleaseReference>
+            <Deal>
+                <DealReference>DEFAULT</DealReference>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PADPIDA2012031302R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>HU</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PADPIDA2012031302R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-09-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <EffectiveDate>2012-09-14</EffectiveDate>
+        </ReleaseDeal>
+        <ReleaseDeal>
+            <DealReleaseReference>R40638922712</DealReleaseReference>
+            <Deal>
+                <DealReference>DEFAULT</DealReference>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PADPIDA2012031302R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>HU</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PADPIDA2012031302R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-09-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <EffectiveDate>2012-09-14</EffectiveDate>
+        </ReleaseDeal>
+        <ReleaseDeal>
+            <DealReleaseReference>R40638922710</DealReleaseReference>
+            <Deal>
+                <DealReference>DEFAULT</DealReference>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PADPIDA2012031302R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>HU</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PADPIDA2012031302R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-09-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <EffectiveDate>2012-09-14</EffectiveDate>
+        </ReleaseDeal>
+        <ReleaseDeal>
+            <DealReleaseReference>R40638922692</DealReleaseReference>
+            <Deal>
+                <DealReference>DEFAULT</DealReference>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PADPIDA2012031302R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>HU</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PADPIDA2012031302R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-09-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <EffectiveDate>2012-09-14</EffectiveDate>
+        </ReleaseDeal>
+        <ReleaseDeal>
+            <DealReleaseReference>R40638922698</DealReleaseReference>
+            <Deal>
+                <DealReference>DEFAULT</DealReference>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PADPIDA2012031302R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>HU</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PADPIDA2012031302R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-09-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <EffectiveDate>2012-09-14</EffectiveDate>
+        </ReleaseDeal>
+        <ReleaseDeal>
+            <DealReleaseReference>R40638922711</DealReleaseReference>
+            <Deal>
+                <DealReference>DEFAULT</DealReference>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PADPIDA2012031302R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>HU</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PADPIDA2012031302R">TAP</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-09-14Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <EffectiveDate>2012-09-14</EffectiveDate>
+        </ReleaseDeal>
+    </DealList>
+</ns2:NewReleaseMessage>

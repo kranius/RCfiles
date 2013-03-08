@@ -1,0 +1,2031 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ern:NewReleaseMessage  xmlns:ern="http://ddex.net/xml/ern/35" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xs:schemaLocation="http://ddex.net/xml/ern/35 http://ddex.net/xml/ern/35/release-notification.xsd" MessageSchemaVersionId="ern/35" LanguageAndScriptCode="en">    
+    <MessageHeader>
+        <MessageThreadId>65201</MessageThreadId>
+        <MessageId>65201_150010013789</MessageId>
+        <MessageFileName>UMG_Metadata_Deezer_update_00602517854352_2012-10-19_14-27-06.xml</MessageFileName>
+        <MessageSender>
+            <PartyId>PADPIDA2010032301A</PartyId>
+            <PartyName>
+                <FullName>Digiplug</FullName>
+            </PartyName>
+        </MessageSender>
+        <SentOnBehalfOf>
+            <PartyId>PADPIDA2012031302R</PartyId>
+            <PartyName>
+                <FullName>Universal Music Group International</FullName>
+            </PartyName>
+        </SentOnBehalfOf>
+        <MessageRecipient>
+            <PartyId>561</PartyId>
+            <PartyName>
+                <FullName>Deezer</FullName>
+            </PartyName>
+        </MessageRecipient>
+        <MessageCreatedDateTime>2012-10-19T14:27:06</MessageCreatedDateTime>
+        <MessageControlType>TestMessage</MessageControlType>
+    </MessageHeader>
+    <UpdateIndicator>UpdateMessage</UpdateIndicator>
+	<IsBackfill>true</IsBackfill>
+    <ResourceList>
+        <SoundRecording>
+            <SoundRecordingId>
+                <ISRC>GBUM70812931</ISRC>
+            </SoundRecordingId>
+            <ResourceReference>A50000661051956450</ResourceReference>
+            <ReferenceTitle>
+                <TitleText>Gangsters</TitleText>
+            </ReferenceTitle>
+            <IsBonusResource>false</IsBonusResource>
+            <Duration>PT4M25.000S</Duration>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>JP</TerritoryCode>
+                <Title>
+                    <TitleText>Gangsters</TitleText>
+                </Title>
+                <Title TitleType="TranslatedTitle" LanguageAndScriptCode="jp-Jpan">
+                    <TitleText>Jp-na 日本語 Gangsters - track_title</TitleText>
+                    <SubTitle LanguageAndScriptCode="jp-Jpan">Jp-na 日本語  - track_title_version</SubTitle>
+                </Title>
+                <Title TitleType="TranslatedTitle" LanguageAndScriptCode="jp-Hrkt">
+                    <TitleText>Jp-ph 区切り点 Gangsters - track_title</TitleText>
+                    <SubTitle LanguageAndScriptCode="jp-Hrkt">Jp-ph 区切り点  - track_title_version</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Ralphy Boy</FullName>
+                        <KeyName>Boy</KeyName>
+                        <NamesAfterKeyName>Ralphy</NamesAfterKeyName>
+                    </PartyName>
+                    <PartyName LanguageAndScriptCode="jp-Jpan">
+                        <FullName>Jp-na 日本語 Ralphy Boy - name</FullName>
+                    </PartyName>
+                    <PartyName LanguageAndScriptCode="jp-Hrkt">
+                        <FullName>Jp-ph 区切り点 Ralphy Boy - name</FullName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Cliff Richard</FullName>
+                        <KeyName>Richard</KeyName>
+                        <NamesAfterKeyName>Cliff</NamesAfterKeyName>
+                    </PartyName>
+                    <PartyName LanguageAndScriptCode="jp-Jpan">
+                        <FullName>Jp-na 日本語 Cliff Richard - name</FullName>
+                    </PartyName>
+                    <PartyName LanguageAndScriptCode="jp-Hrkt">
+                        <FullName>Jp-ph 区切り点 Cliff Richard - name</FullName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Elliot Smith</FullName>
+                        <KeyName>Smith</KeyName>
+                        <NamesAfterKeyName>Elliot</NamesAfterKeyName>
+                    </PartyName>
+                    <PartyName LanguageAndScriptCode="jp-Jpan">
+                        <FullName>Jp-na 日本語 Elliot Smith - name</FullName>
+                    </PartyName>
+                    <PartyName LanguageAndScriptCode="jp-Hrkt">
+                        <FullName>Jp-ph 区切り点 Elliot Smith - name</FullName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <PLine>
+                    <PLineText>(P) 2008 Polydor Ltd.</PLineText>
+                </PLine>
+                <Genre>
+                    <GenreText>TV/Film</GenreText>
+                </Genre>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T85350010JP</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="67">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">320</BitRate>
+                    <NumberOfChannels>2</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">44100</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_audtrk_00602517854352_01_001_67.mp3</FileName>
+                        <HashSum>
+                            <HashSum>63b70b4e442933256f4e85e36a0f629e</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>IE</TerritoryCode>
+                <Title>
+                    <TitleText>Gangsters</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Ralphy Boy</FullName>
+                        <KeyName>Boy</KeyName>
+                        <NamesAfterKeyName>Ralphy</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Cliff Richard</FullName>
+                        <KeyName>Richard</KeyName>
+                        <NamesAfterKeyName>Cliff</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Elliot Smith</FullName>
+                        <KeyName>Smith</KeyName>
+                        <NamesAfterKeyName>Elliot</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <PLine>
+                    <PLineText>(P) 2008 Polydor Ltd.</PLineText>
+                </PLine>
+                <Genre>
+                    <GenreText>TV/Film</GenreText>
+                </Genre>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T85350010</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="67">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">320</BitRate>
+                    <NumberOfChannels>2</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">44100</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_audtrk_00602517854352_01_001_67.mp3</FileName>
+                        <HashSum>
+                            <HashSum>63b70b4e442933256f4e85e36a0f629e</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+        </SoundRecording>
+        <SoundRecording>
+            <SoundRecordingId>
+                <ISRC>GBUM70812930</ISRC>
+            </SoundRecordingId>
+            <ResourceReference>A50000661051956456</ResourceReference>
+            <ReferenceTitle>
+                <TitleText>Interesting</TitleText>
+            </ReferenceTitle>
+            <IsBonusResource>false</IsBonusResource>
+            <Duration>PT4M0.000S</Duration>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>JP</TerritoryCode>
+                <Title>
+                    <TitleText>Interesting</TitleText>
+                    <SubTitle>Really, Really</SubTitle>
+                </Title>
+                <Title TitleType="TranslatedTitle" LanguageAndScriptCode="jp-Jpan">
+                    <TitleText>Jp-na 日本語 Interesting - track_title</TitleText>
+                    <SubTitle LanguageAndScriptCode="jp-Jpan">Jp-na 日本語 Really, Really - track_title_version</SubTitle>
+                </Title>
+                <Title TitleType="TranslatedTitle" LanguageAndScriptCode="jp-Hrkt">
+                    <TitleText>Jp-ph 区切り点 Interesting - track_title</TitleText>
+                    <SubTitle LanguageAndScriptCode="jp-Hrkt">Jp-ph 区切り点 Really, Really - track_title_version</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Ralphy Boy</FullName>
+                        <KeyName>Boy</KeyName>
+                        <NamesAfterKeyName>Ralphy</NamesAfterKeyName>
+                    </PartyName>
+                    <PartyName LanguageAndScriptCode="jp-Jpan">
+                        <FullName>Jp-na 日本語 Ralphy Boy - name</FullName>
+                    </PartyName>
+                    <PartyName LanguageAndScriptCode="jp-Hrkt">
+                        <FullName>Jp-ph 区切り点 Ralphy Boy - name</FullName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Elliot Smith</FullName>
+                        <KeyName>Smith</KeyName>
+                        <NamesAfterKeyName>Elliot</NamesAfterKeyName>
+                    </PartyName>
+                    <PartyName LanguageAndScriptCode="jp-Jpan">
+                        <FullName>Jp-na 日本語 Elliot Smith - name</FullName>
+                    </PartyName>
+                    <PartyName LanguageAndScriptCode="jp-Hrkt">
+                        <FullName>Jp-ph 区切り点 Elliot Smith - name</FullName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <PLine>
+                    <PLineText>(P) 2008 Polydor Ltd.</PLineText>
+                </PLine>
+                <Genre>
+                    <GenreText>Folk</GenreText>
+                </Genre>
+                <ParentalWarningType>ExplicitContentEdited</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T85350031JP</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="67">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">320</BitRate>
+                    <NumberOfChannels>2</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">44100</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_audtrk_00602517854352_01_002_67.mp3</FileName>
+                        <HashSum>
+                            <HashSum>46572898a32bd343881958861ea8f926</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>IE</TerritoryCode>
+                <Title>
+                    <TitleText>Interesting</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Ralphy Boy</FullName>
+                        <KeyName>Boy</KeyName>
+                        <NamesAfterKeyName>Ralphy</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Elliot Smith</FullName>
+                        <KeyName>Smith</KeyName>
+                        <NamesAfterKeyName>Elliot</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <PLine>
+                    <PLineText>(P) 2008 Polydor Ltd.</PLineText>
+                </PLine>
+                <Genre>
+                    <GenreText>Folk</GenreText>
+                </Genre>
+                <ParentalWarningType>ExplicitContentEdited</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T85350031</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="67">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">320</BitRate>
+                    <NumberOfChannels>2</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">44100</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_audtrk_00602517854352_01_002_67.mp3</FileName>
+                        <HashSum>
+                            <HashSum>46572898a32bd343881958861ea8f926</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+        </SoundRecording>
+        <SoundRecording>
+            <SoundRecordingId>
+                <ISRC>GBUM70812931</ISRC>
+            </SoundRecordingId>
+            <ResourceReference>A50000661051956457</ResourceReference>
+            <ReferenceTitle>
+                <TitleText>Gangsters</TitleText>
+            </ReferenceTitle>
+            <IsBonusResource>false</IsBonusResource>
+            <Duration>PT4M22.000S</Duration>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>JP</TerritoryCode>
+                <Title>
+                    <TitleText>Gangsters</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Ralphy Boy</FullName>
+                        <KeyName>Boy</KeyName>
+                        <NamesAfterKeyName>Ralphy</NamesAfterKeyName>
+                    </PartyName>
+                    <PartyName LanguageAndScriptCode="jp-Jpan">
+                        <FullName>Jp-na 日本語 Ralphy Boy - name</FullName>
+                    </PartyName>
+                    <PartyName LanguageAndScriptCode="jp-Hrkt">
+                        <FullName>Jp-ph 区切り点 Ralphy Boy - name</FullName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Cliff Richard</FullName>
+                        <KeyName>Richard</KeyName>
+                        <NamesAfterKeyName>Cliff</NamesAfterKeyName>
+                    </PartyName>
+                    <PartyName LanguageAndScriptCode="jp-Jpan">
+                        <FullName>Jp-na 日本語 Cliff Richard - name</FullName>
+                    </PartyName>
+                    <PartyName LanguageAndScriptCode="jp-Hrkt">
+                        <FullName>Jp-ph 区切り点 Cliff Richard - name</FullName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Elliot Smith</FullName>
+                        <KeyName>Smith</KeyName>
+                        <NamesAfterKeyName>Elliot</NamesAfterKeyName>
+                    </PartyName>
+                    <PartyName LanguageAndScriptCode="jp-Jpan">
+                        <FullName>Jp-na 日本語 Elliot Smith - name</FullName>
+                    </PartyName>
+                    <PartyName LanguageAndScriptCode="jp-Hrkt">
+                        <FullName>Jp-ph 区切り点 Elliot Smith - name</FullName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <PLine>
+                    <PLineText>(P) 2008 Polydor Ltd.</PLineText>
+                </PLine>
+                <Genre>
+                    <GenreText>TV/Film</GenreText>
+                </Genre>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T85350034JP</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="67">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">320</BitRate>
+                    <NumberOfChannels>2</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">44100</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_audtrk_00602517854352_02_001_67.mp3</FileName>
+                        <HashSum>
+                            <HashSum>7113e0f70bab61accadc85a0634a23bc</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>IE</TerritoryCode>
+                <Title>
+                    <TitleText>Gangsters</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Ralphy Boy</FullName>
+                        <KeyName>Boy</KeyName>
+                        <NamesAfterKeyName>Ralphy</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Cliff Richard</FullName>
+                        <KeyName>Richard</KeyName>
+                        <NamesAfterKeyName>Cliff</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Elliot Smith</FullName>
+                        <KeyName>Smith</KeyName>
+                        <NamesAfterKeyName>Elliot</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <PLine>
+                    <PLineText>(P) 2008 Polydor Ltd.</PLineText>
+                </PLine>
+                <Genre>
+                    <GenreText>TV/Film</GenreText>
+                </Genre>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T85350034</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="67">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">320</BitRate>
+                    <NumberOfChannels>2</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">44100</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_audtrk_00602517854352_02_001_67.mp3</FileName>
+                        <HashSum>
+                            <HashSum>7113e0f70bab61accadc85a0634a23bc</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+        </SoundRecording>
+        <SoundRecording>
+            <SoundRecordingId>
+                <ISRC>GBUM70812929</ISRC>
+            </SoundRecordingId>
+            <ResourceReference>A50000661051956452</ResourceReference>
+            <ReferenceTitle>
+                <TitleText>Interesting</TitleText>
+            </ReferenceTitle>
+            <IsBonusResource>false</IsBonusResource>
+            <Duration>PT6M0.000S</Duration>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>JP</TerritoryCode>
+                <Title>
+                    <TitleText>Interesting</TitleText>
+                    <SubTitle>Not Very</SubTitle>
+                </Title>
+                <Title TitleType="TranslatedTitle" LanguageAndScriptCode="jp-Jpan">
+                    <TitleText>Jp-na 日本語 Interesting - track_title</TitleText>
+                    <SubTitle LanguageAndScriptCode="jp-Jpan">Jp-na 日本語 Not Very - track_title_version</SubTitle>
+                </Title>
+                <Title TitleType="TranslatedTitle" LanguageAndScriptCode="jp-Hrkt">
+                    <TitleText>Jp-ph 区切り点 Interesting - track_title</TitleText>
+                    <SubTitle LanguageAndScriptCode="jp-Hrkt">Jp-ph 区切り点 Not Very - track_title_version</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Ralphy Boy</FullName>
+                        <KeyName>Boy</KeyName>
+                        <NamesAfterKeyName>Ralphy</NamesAfterKeyName>
+                    </PartyName>
+                    <PartyName LanguageAndScriptCode="jp-Jpan">
+                        <FullName>Jp-na 日本語 Ralphy Boy - name</FullName>
+                    </PartyName>
+                    <PartyName LanguageAndScriptCode="jp-Hrkt">
+                        <FullName>Jp-ph 区切り点 Ralphy Boy - name</FullName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Nelly Furtado</FullName>
+                        <KeyName>Furtado</KeyName>
+                        <NamesAfterKeyName>Nelly</NamesAfterKeyName>
+                    </PartyName>
+                    <PartyName LanguageAndScriptCode="jp-Jpan">
+                        <FullName>Jp-na 日本語 Nelly Furtado - name</FullName>
+                    </PartyName>
+                    <PartyName LanguageAndScriptCode="jp-Hrkt">
+                        <FullName>Jp-ph 区切り点 Nelly Furtado - name</FullName>
+                    </PartyName>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                </DisplayArtist>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Elliot Smith</FullName>
+                        <KeyName>Smith</KeyName>
+                        <NamesAfterKeyName>Elliot</NamesAfterKeyName>
+                    </PartyName>
+                    <PartyName LanguageAndScriptCode="jp-Jpan">
+                        <FullName>Jp-na 日本語 Elliot Smith - name</FullName>
+                    </PartyName>
+                    <PartyName LanguageAndScriptCode="jp-Hrkt">
+                        <FullName>Jp-ph 区切り点 Elliot Smith - name</FullName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <PLine>
+                    <PLineText>(P) 2008 Polydor Ltd.</PLineText>
+                </PLine>
+                <MarketingComment>Boring</MarketingComment>
+                <Genre>
+                    <GenreText>Folk</GenreText>
+                </Genre>
+                <ParentalWarningType>Explicit</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T85350028JP</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="67">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">320</BitRate>
+                    <NumberOfChannels>2</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">44100</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_audtrk_00602517854352_02_002_67.mp3</FileName>
+                        <HashSum>
+                            <HashSum>189048122982a1d25e6a8cfa1fedc0cb</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>IE</TerritoryCode>
+                <Title>
+                    <TitleText>Interesting</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Ralphy Boy</FullName>
+                        <KeyName>Boy</KeyName>
+                        <NamesAfterKeyName>Ralphy</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Nelly Furtado</FullName>
+                        <KeyName>Furtado</KeyName>
+                        <NamesAfterKeyName>Nelly</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                </DisplayArtist>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Elliot Smith</FullName>
+                        <KeyName>Smith</KeyName>
+                        <NamesAfterKeyName>Elliot</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <PLine>
+                    <PLineText>(P) 2008 Polydor Ltd.</PLineText>
+                </PLine>
+                <MarketingComment>Boring</MarketingComment>
+                <Genre>
+                    <GenreText>Folk</GenreText>
+                </Genre>
+                <ParentalWarningType>Explicit</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T85350028</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="67">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">320</BitRate>
+                    <NumberOfChannels>2</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">44100</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_audtrk_00602517854352_02_002_67.mp3</FileName>
+                        <HashSum>
+                            <HashSum>189048122982a1d25e6a8cfa1fedc0cb</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+        </SoundRecording>
+        <SoundRecording>
+            <SoundRecordingId>
+                <ISRC>GBUM70812937</ISRC>
+            </SoundRecordingId>
+            <ResourceReference>A50000661051956455</ResourceReference>
+            <ReferenceTitle>
+                <TitleText>Not Again</TitleText>
+            </ReferenceTitle>
+            <IsBonusResource>false</IsBonusResource>
+            <Duration>PT3M54.000S</Duration>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>JP</TerritoryCode>
+                <Title>
+                    <TitleText>Not Again</TitleText>
+                </Title>
+                <Title TitleType="TranslatedTitle" LanguageAndScriptCode="jp-Jpan">
+                    <TitleText>Jp-na 日本語 Not Again - track_title</TitleText>
+                    <SubTitle LanguageAndScriptCode="jp-Jpan">Jp-na 日本語  - track_title_version</SubTitle>
+                </Title>
+                <Title TitleType="TranslatedTitle" LanguageAndScriptCode="jp-Hrkt">
+                    <TitleText>Jp-ph 区切り点 Not Again - track_title</TitleText>
+                    <SubTitle LanguageAndScriptCode="jp-Hrkt">Jp-ph 区切り点  - track_title_version</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Ralphy Boy</FullName>
+                        <KeyName>Boy</KeyName>
+                        <NamesAfterKeyName>Ralphy</NamesAfterKeyName>
+                    </PartyName>
+                    <PartyName LanguageAndScriptCode="jp-Jpan">
+                        <FullName>Jp-na 日本語 Ralphy Boy - name</FullName>
+                    </PartyName>
+                    <PartyName LanguageAndScriptCode="jp-Hrkt">
+                        <FullName>Jp-ph 区切り点 Ralphy Boy - name</FullName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Danny La Rue</FullName>
+                        <KeyName>La Rue</KeyName>
+                        <NamesAfterKeyName>Danny</NamesAfterKeyName>
+                    </PartyName>
+                    <PartyName LanguageAndScriptCode="jp-Jpan">
+                        <FullName>Jp-na 日本語 Danny La Rue - name</FullName>
+                    </PartyName>
+                    <PartyName LanguageAndScriptCode="jp-Hrkt">
+                        <FullName>Jp-ph 区切り点 Danny La Rue - name</FullName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <PLine>
+                    <PLineText>(P) 2008 Polydor - Go!</PLineText>
+                </PLine>
+                <Genre>
+                    <GenreText>Blues</GenreText>
+                </Genre>
+                <ParentalWarningType>ExplicitContentEdited</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T85350030JP</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="67">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">320</BitRate>
+                    <NumberOfChannels>2</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">44100</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_audtrk_00602517854352_02_003_67.mp3</FileName>
+                        <HashSum>
+                            <HashSum>df7e3170dcdcb4d7a3ee172b98c9efb8</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>IE</TerritoryCode>
+                <Title>
+                    <TitleText>Not Again</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Ralphy Boy</FullName>
+                        <KeyName>Boy</KeyName>
+                        <NamesAfterKeyName>Ralphy</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Danny La Rue</FullName>
+                        <KeyName>La Rue</KeyName>
+                        <NamesAfterKeyName>Danny</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <PLine>
+                    <PLineText>(P) 2008 Polydor - Go!</PLineText>
+                </PLine>
+                <Genre>
+                    <GenreText>Blues</GenreText>
+                </Genre>
+                <ParentalWarningType>ExplicitContentEdited</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T85350030</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="67">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">320</BitRate>
+                    <NumberOfChannels>2</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">44100</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_audtrk_00602517854352_02_003_67.mp3</FileName>
+                        <HashSum>
+                            <HashSum>df7e3170dcdcb4d7a3ee172b98c9efb8</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+        </SoundRecording>
+        <SoundRecording>
+            <SoundRecordingId>
+                <ISRC>GBUM70812930</ISRC>
+            </SoundRecordingId>
+            <ResourceReference>A50000661051956453</ResourceReference>
+            <ReferenceTitle>
+                <TitleText>Interesting</TitleText>
+            </ReferenceTitle>
+            <IsBonusResource>false</IsBonusResource>
+            <Duration>PT4M0.000S</Duration>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>JP</TerritoryCode>
+                <Title>
+                    <TitleText>Interesting</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Ralphy Boy</FullName>
+                        <KeyName>Boy</KeyName>
+                        <NamesAfterKeyName>Ralphy</NamesAfterKeyName>
+                    </PartyName>
+                    <PartyName LanguageAndScriptCode="jp-Jpan">
+                        <FullName>Jp-na 日本語 Ralphy Boy - name</FullName>
+                    </PartyName>
+                    <PartyName LanguageAndScriptCode="jp-Hrkt">
+                        <FullName>Jp-ph 区切り点 Ralphy Boy - name</FullName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Elliot Smith</FullName>
+                        <KeyName>Smith</KeyName>
+                        <NamesAfterKeyName>Elliot</NamesAfterKeyName>
+                    </PartyName>
+                    <PartyName LanguageAndScriptCode="jp-Jpan">
+                        <FullName>Jp-na 日本語 Elliot Smith - name</FullName>
+                    </PartyName>
+                    <PartyName LanguageAndScriptCode="jp-Hrkt">
+                        <FullName>Jp-ph 区切り点 Elliot Smith - name</FullName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <PLine>
+                    <PLineText>(P) 2008 Polydor Ltd.</PLineText>
+                </PLine>
+                <Genre>
+                    <GenreText>Folk</GenreText>
+                </Genre>
+                <ParentalWarningType>ExplicitContentEdited</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T85350029JP</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="67">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">320</BitRate>
+                    <NumberOfChannels>2</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">44100</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_audtrk_00602517854352_02_004_67.mp3</FileName>
+                        <HashSum>
+                            <HashSum>ee17267e0bfae7ebd32bf61930e4c0b1</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>IE</TerritoryCode>
+                <Title>
+                    <TitleText>Interesting</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Ralphy Boy</FullName>
+                        <KeyName>Boy</KeyName>
+                        <NamesAfterKeyName>Ralphy</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Elliot Smith</FullName>
+                        <KeyName>Smith</KeyName>
+                        <NamesAfterKeyName>Elliot</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <PLine>
+                    <PLineText>(P) 2008 Polydor Ltd.</PLineText>
+                </PLine>
+                <Genre>
+                    <GenreText>Folk</GenreText>
+                </Genre>
+                <ParentalWarningType>ExplicitContentEdited</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T85350029</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="67">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">320</BitRate>
+                    <NumberOfChannels>2</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">44100</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_audtrk_00602517854352_02_004_67.mp3</FileName>
+                        <HashSum>
+                            <HashSum>ee17267e0bfae7ebd32bf61930e4c0b1</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+        </SoundRecording>
+        <SoundRecording>
+            <SoundRecordingId>
+                <ISRC>GBUM70812928</ISRC>
+            </SoundRecordingId>
+            <ResourceReference>A50000661051956451</ResourceReference>
+            <ReferenceTitle>
+                <TitleText>Interesting</TitleText>
+            </ReferenceTitle>
+            <IsBonusResource>false</IsBonusResource>
+            <Duration>PT12M0.000S</Duration>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>JP</TerritoryCode>
+                <Title>
+                    <TitleText>Interesting</TitleText>
+                    <SubTitle>Very, Very</SubTitle>
+                </Title>
+                <Title TitleType="TranslatedTitle" LanguageAndScriptCode="jp-Jpan">
+                    <TitleText>Jp-na 日本語 Interesting - track_title</TitleText>
+                    <SubTitle LanguageAndScriptCode="jp-Jpan">Jp-na 日本語 Very, Very - track_title_version</SubTitle>
+                </Title>
+                <Title TitleType="TranslatedTitle" LanguageAndScriptCode="jp-Hrkt">
+                    <TitleText>Jp-ph 区切り点 Interesting - track_title</TitleText>
+                    <SubTitle LanguageAndScriptCode="jp-Hrkt">Jp-ph 区切り点 Very, Very - track_title_version</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Ralphy Boy</FullName>
+                        <KeyName>Boy</KeyName>
+                        <NamesAfterKeyName>Ralphy</NamesAfterKeyName>
+                    </PartyName>
+                    <PartyName LanguageAndScriptCode="jp-Jpan">
+                        <FullName>Jp-na 日本語 Ralphy Boy - name</FullName>
+                    </PartyName>
+                    <PartyName LanguageAndScriptCode="jp-Hrkt">
+                        <FullName>Jp-ph 区切り点 Ralphy Boy - name</FullName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Elliot Smith</FullName>
+                        <KeyName>Smith</KeyName>
+                        <NamesAfterKeyName>Elliot</NamesAfterKeyName>
+                    </PartyName>
+                    <PartyName LanguageAndScriptCode="jp-Jpan">
+                        <FullName>Jp-na 日本語 Elliot Smith - name</FullName>
+                    </PartyName>
+                    <PartyName LanguageAndScriptCode="jp-Hrkt">
+                        <FullName>Jp-ph 区切り点 Elliot Smith - name</FullName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <PLine>
+                    <PLineText>(P) 2008 Polydor Ltd.</PLineText>
+                </PLine>
+                <Genre>
+                    <GenreText>Folk</GenreText>
+                </Genre>
+                <ParentalWarningType>Explicit</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T85350012JP</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="67">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">320</BitRate>
+                    <NumberOfChannels>2</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">44100</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_audtrk_00602517854352_02_005_67.mp3</FileName>
+                        <HashSum>
+                            <HashSum>46b43be4c7989ed744f8721174b0d5b9</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>IE</TerritoryCode>
+                <Title>
+                    <TitleText>Interesting</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Ralphy Boy</FullName>
+                        <KeyName>Boy</KeyName>
+                        <NamesAfterKeyName>Ralphy</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Elliot Smith</FullName>
+                        <KeyName>Smith</KeyName>
+                        <NamesAfterKeyName>Elliot</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <PLine>
+                    <PLineText>(P) 2008 Polydor Ltd.</PLineText>
+                </PLine>
+                <Genre>
+                    <GenreText>Folk</GenreText>
+                </Genre>
+                <ParentalWarningType>Explicit</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T85350012</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="67">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">320</BitRate>
+                    <NumberOfChannels>2</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">44100</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_audtrk_00602517854352_02_005_67.mp3</FileName>
+                        <HashSum>
+                            <HashSum>46b43be4c7989ed744f8721174b0d5b9</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+        </SoundRecording>
+        <Image>
+            <ImageId>
+                <ProprietaryId Namespace="PADPIDA2012031302R">06UMGIM67918</ProprietaryId>
+            </ImageId>
+            <ResourceReference>A50000661051956454</ResourceReference>
+            <Title>
+                <TitleText>Twitter, Buzz, Howl</TitleText>
+            </Title>
+            <ImageDetailsByTerritory>
+                <TerritoryCode>JP</TerritoryCode>
+                <CLine>
+                    <CLineText>(C) 2005 Barefoot Music</CLineText>
+                </CLine>
+                <Genre>
+                    <GenreText>Hip Hop</GenreText>
+                </Genre>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalImageDetails>
+                    <TechnicalResourceDetailsReference>T85592794JP</TechnicalResourceDetailsReference>
+                    <ImageCodecType>JPEG</ImageCodecType>
+                    <ImageHeight UnitOfMeasure="Pixel">800</ImageHeight>
+                    <ImageWidth UnitOfMeasure="Pixel">901</ImageWidth>
+                    <AspectRatio>1.13</AspectRatio>
+                    <ImageResolution>72</ImageResolution>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_cvrart_00602517854352_RGB_72_901x800_85592794.jpg</FileName>
+                        <HashSum>
+                            <HashSum>f147c5b345e4b92b90774b49b51ab33a</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalImageDetails>
+            </ImageDetailsByTerritory>
+            <ImageDetailsByTerritory>
+                <TerritoryCode>IE</TerritoryCode>
+                <CLine>
+                    <CLineText>(C) 2005 Barefoot Music</CLineText>
+                </CLine>
+                <Genre>
+                    <GenreText>Hip Hop</GenreText>
+                </Genre>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalImageDetails>
+                    <TechnicalResourceDetailsReference>T85592794</TechnicalResourceDetailsReference>
+                    <ImageCodecType>JPEG</ImageCodecType>
+                    <ImageHeight UnitOfMeasure="Pixel">800</ImageHeight>
+                    <ImageWidth UnitOfMeasure="Pixel">901</ImageWidth>
+                    <AspectRatio>1.13</AspectRatio>
+                    <ImageResolution>72</ImageResolution>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_cvrart_00602517854352_RGB_72_901x800_85592794.jpg</FileName>
+                        <HashSum>
+                            <HashSum>f147c5b345e4b92b90774b49b51ab33a</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalImageDetails>
+            </ImageDetailsByTerritory>
+        </Image>
+    </ResourceList>
+    <ReleaseList>
+        <Release>
+            <ReleaseId>
+                <ICPN IsEan="false">00602517854352</ICPN>
+            </ReleaseId>
+            <ReleaseReference>R6E06DA093C111758E040020A04022EC9</ReleaseReference>
+            <ReferenceTitle>
+                <TitleText>Daisy Daisy</TitleText>
+                <SubTitle>Daisy Daisy</SubTitle>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A50000661051956450</ReleaseResourceReference>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A50000661051956456</ReleaseResourceReference>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A50000661051956457</ReleaseResourceReference>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A50000661051956452</ReleaseResourceReference>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A50000661051956455</ReleaseResourceReference>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A50000661051956453</ReleaseResourceReference>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A50000661051956451</ReleaseResourceReference>
+                <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A50000661051956454</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>Album</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>JP</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music LLC</LabelName>
+                <Title>
+                    <TitleText>Daisy Daisy</TitleText>
+                    <SubTitle>Daisy Daisy</SubTitle>
+                </Title>
+                <Title TitleType="TranslatedTitle" LanguageAndScriptCode="jp-Jpan">
+                    <TitleText>Jp-na 日本語 Daisy Daisy - album_title</TitleText>
+                </Title>
+                <Title TitleType="TranslatedTitle" LanguageAndScriptCode="jp-Hrkt">
+                    <TitleText>Jp-ph 区切り点 Daisy Daisy - album_title</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Ralphy Boy</FullName>
+                        <KeyName>Boy</KeyName>
+                        <NamesAfterKeyName>Ralphy</NamesAfterKeyName>
+                    </PartyName>
+                    <PartyName LanguageAndScriptCode="jp-Jpan">
+                        <FullName>Jp-na 日本語 Ralphy Boy - name</FullName>
+                    </PartyName>
+                    <PartyName LanguageAndScriptCode="jp-Hrkt">
+                        <FullName>Jp-ph 区切り点 Ralphy Boy - name</FullName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>Explicit</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroup>
+                        <SequenceNumber>1</SequenceNumber>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>1</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A50000661051956450</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>2</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A50000661051956456</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                    </ResourceGroup>
+                    <ResourceGroup>
+                        <SequenceNumber>2</SequenceNumber>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>1</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A50000661051956457</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>2</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A50000661051956452</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>3</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A50000661051956455</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>4</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A50000661051956453</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>5</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A50000661051956451</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                    </ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A50000661051956454</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Dance</GenreText>
+                </Genre>
+				<ReleaseDate>2008-08-18</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>IE</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music Ireland Ltd.</LabelName>
+                <Title>
+                    <TitleText>Daisy Daisy</TitleText>
+                    <SubTitle>Daisy Daisy</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Ralphy Boy</FullName>
+                        <KeyName>Boy</KeyName>
+                        <NamesAfterKeyName>Ralphy</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>Explicit</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroup>
+                        <SequenceNumber>1</SequenceNumber>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>1</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A50000661051956450</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>2</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A50000661051956456</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                    </ResourceGroup>
+                    <ResourceGroup>
+                        <SequenceNumber>2</SequenceNumber>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>1</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A50000661051956457</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>2</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A50000661051956452</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>3</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A50000661051956455</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>4</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A50000661051956453</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>5</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A50000661051956451</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                    </ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A50000661051956454</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Dance</GenreText>
+                </Genre>
+				<ReleaseDate>2008-08-18</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT38M41.000S</Duration>
+            <PLine>
+                <PLineText>(P) 2008 Polydor Ltd. (UK)</PLineText>
+            </PLine>
+            <CLine>
+                <CLineText>(C) 2008 Polydor Ltd. (UK)</CLineText>
+            </CLine>
+        </Release>
+        <Release>
+            <ReleaseId>
+                <ProprietaryId Namespace="PADPIDA2012031302R">00602517854352_GBUM70812931_01_001</ProprietaryId>
+            </ReleaseId>
+            <ReleaseReference>R50000661051956450</ReleaseReference>
+            <ReferenceTitle>
+                <TitleText>Gangsters</TitleText>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A50000661051956450</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>TrackRelease</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>JP</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Universal D</LabelName>
+                <Title>
+                    <TitleText>Gangsters</TitleText>
+                </Title>
+                <Title TitleType="TranslatedTitle" LanguageAndScriptCode="jp-Jpan">
+                    <TitleText>Jp-na 日本語 Gangsters - track_title</TitleText>
+                    <SubTitle LanguageAndScriptCode="jp-Jpan">Jp-na 日本語  - track_title_version</SubTitle>
+                </Title>
+                <Title TitleType="TranslatedTitle" LanguageAndScriptCode="jp-Hrkt">
+                    <TitleText>Jp-ph 区切り点 Gangsters - track_title</TitleText>
+                    <SubTitle LanguageAndScriptCode="jp-Hrkt">Jp-ph 区切り点  - track_title_version</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Ralphy Boy</FullName>
+                        <KeyName>Boy</KeyName>
+                        <NamesAfterKeyName>Ralphy</NamesAfterKeyName>
+                    </PartyName>
+                    <PartyName LanguageAndScriptCode="jp-Jpan">
+                        <FullName>Jp-na 日本語 Ralphy Boy - name</FullName>
+                    </PartyName>
+                    <PartyName LanguageAndScriptCode="jp-Hrkt">
+                        <FullName>Jp-ph 区切り点 Ralphy Boy - name</FullName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Cliff Richard</FullName>
+                        <KeyName>Richard</KeyName>
+                        <NamesAfterKeyName>Cliff</NamesAfterKeyName>
+                    </PartyName>
+                    <PartyName LanguageAndScriptCode="jp-Jpan">
+                        <FullName>Jp-na 日本語 Cliff Richard - name</FullName>
+                    </PartyName>
+                    <PartyName LanguageAndScriptCode="jp-Hrkt">
+                        <FullName>Jp-ph 区切り点 Cliff Richard - name</FullName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Elliot Smith</FullName>
+                        <KeyName>Smith</KeyName>
+                        <NamesAfterKeyName>Elliot</NamesAfterKeyName>
+                    </PartyName>
+                    <PartyName LanguageAndScriptCode="jp-Jpan">
+                        <FullName>Jp-na 日本語 Elliot Smith - name</FullName>
+                    </PartyName>
+                    <PartyName LanguageAndScriptCode="jp-Hrkt">
+                        <FullName>Jp-ph 区切り点 Elliot Smith - name</FullName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A50000661051956450</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>TV/Film</GenreText>
+                </Genre>
+				<ReleaseDate>2008-08-18</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>IE</TerritoryCode>
+                <Title>
+                    <TitleText>Gangsters</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Ralphy Boy</FullName>
+                        <KeyName>Boy</KeyName>
+                        <NamesAfterKeyName>Ralphy</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Cliff Richard</FullName>
+                        <KeyName>Richard</KeyName>
+                        <NamesAfterKeyName>Cliff</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Elliot Smith</FullName>
+                        <KeyName>Smith</KeyName>
+                        <NamesAfterKeyName>Elliot</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A50000661051956450</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>TV/Film</GenreText>
+                </Genre>
+				<ReleaseDate>2008-08-18</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT4M25.000S</Duration>
+            <PLine>
+                <PLineText>(P) 2008 Polydor Ltd.</PLineText>
+            </PLine>
+        </Release>
+        <Release>
+            <ReleaseId>
+                <ProprietaryId Namespace="PADPIDA2012031302R">00602517854352_GBUM70812930_01_002</ProprietaryId>
+            </ReleaseId>
+            <ReleaseReference>R50000661051956456</ReleaseReference>
+            <ReferenceTitle>
+                <TitleText>Interesting</TitleText>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A50000661051956456</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>TrackRelease</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>JP</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Universal D</LabelName>
+                <Title>
+                    <TitleText>Interesting</TitleText>
+                    <SubTitle>Really, Really</SubTitle>
+                </Title>
+                <Title TitleType="TranslatedTitle" LanguageAndScriptCode="jp-Jpan">
+                    <TitleText>Jp-na 日本語 Interesting - track_title</TitleText>
+                    <SubTitle LanguageAndScriptCode="jp-Jpan">Jp-na 日本語 Really, Really - track_title_version</SubTitle>
+                </Title>
+                <Title TitleType="TranslatedTitle" LanguageAndScriptCode="jp-Hrkt">
+                    <TitleText>Jp-ph 区切り点 Interesting - track_title</TitleText>
+                    <SubTitle LanguageAndScriptCode="jp-Hrkt">Jp-ph 区切り点 Really, Really - track_title_version</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Ralphy Boy</FullName>
+                        <KeyName>Boy</KeyName>
+                        <NamesAfterKeyName>Ralphy</NamesAfterKeyName>
+                    </PartyName>
+                    <PartyName LanguageAndScriptCode="jp-Jpan">
+                        <FullName>Jp-na 日本語 Ralphy Boy - name</FullName>
+                    </PartyName>
+                    <PartyName LanguageAndScriptCode="jp-Hrkt">
+                        <FullName>Jp-ph 区切り点 Ralphy Boy - name</FullName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Elliot Smith</FullName>
+                        <KeyName>Smith</KeyName>
+                        <NamesAfterKeyName>Elliot</NamesAfterKeyName>
+                    </PartyName>
+                    <PartyName LanguageAndScriptCode="jp-Jpan">
+                        <FullName>Jp-na 日本語 Elliot Smith - name</FullName>
+                    </PartyName>
+                    <PartyName LanguageAndScriptCode="jp-Hrkt">
+                        <FullName>Jp-ph 区切り点 Elliot Smith - name</FullName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>ExplicitContentEdited</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A50000661051956456</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Folk</GenreText>
+                </Genre>
+				<ReleaseDate>2008-08-18</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>IE</TerritoryCode>
+                <Title>
+                    <TitleText>Interesting</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Ralphy Boy</FullName>
+                        <KeyName>Boy</KeyName>
+                        <NamesAfterKeyName>Ralphy</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Elliot Smith</FullName>
+                        <KeyName>Smith</KeyName>
+                        <NamesAfterKeyName>Elliot</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>ExplicitContentEdited</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A50000661051956456</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Folk</GenreText>
+                </Genre>
+				<ReleaseDate>2008-08-18</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT4M0.000S</Duration>
+            <PLine>
+                <PLineText>(P) 2008 Polydor Ltd.</PLineText>
+            </PLine>
+        </Release>
+        <Release>
+            <ReleaseId>
+                <ProprietaryId Namespace="PADPIDA2012031302R">00602517854352_GBUM70812931_02_001</ProprietaryId>
+            </ReleaseId>
+            <ReleaseReference>R50000661051956457</ReleaseReference>
+            <ReferenceTitle>
+                <TitleText>Gangsters</TitleText>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A50000661051956457</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>TrackRelease</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>JP</TerritoryCode>
+                <Title>
+                    <TitleText>Gangsters</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Ralphy Boy</FullName>
+                        <KeyName>Boy</KeyName>
+                        <NamesAfterKeyName>Ralphy</NamesAfterKeyName>
+                    </PartyName>
+                    <PartyName LanguageAndScriptCode="jp-Jpan">
+                        <FullName>Jp-na 日本語 Ralphy Boy - name</FullName>
+                    </PartyName>
+                    <PartyName LanguageAndScriptCode="jp-Hrkt">
+                        <FullName>Jp-ph 区切り点 Ralphy Boy - name</FullName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Cliff Richard</FullName>
+                        <KeyName>Richard</KeyName>
+                        <NamesAfterKeyName>Cliff</NamesAfterKeyName>
+                    </PartyName>
+                    <PartyName LanguageAndScriptCode="jp-Jpan">
+                        <FullName>Jp-na 日本語 Cliff Richard - name</FullName>
+                    </PartyName>
+                    <PartyName LanguageAndScriptCode="jp-Hrkt">
+                        <FullName>Jp-ph 区切り点 Cliff Richard - name</FullName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Elliot Smith</FullName>
+                        <KeyName>Smith</KeyName>
+                        <NamesAfterKeyName>Elliot</NamesAfterKeyName>
+                    </PartyName>
+                    <PartyName LanguageAndScriptCode="jp-Jpan">
+                        <FullName>Jp-na 日本語 Elliot Smith - name</FullName>
+                    </PartyName>
+                    <PartyName LanguageAndScriptCode="jp-Hrkt">
+                        <FullName>Jp-ph 区切り点 Elliot Smith - name</FullName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A50000661051956457</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>TV/Film</GenreText>
+                </Genre>
+				<ReleaseDate>2008-08-18</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>IE</TerritoryCode>
+                <Title>
+                    <TitleText>Gangsters</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Ralphy Boy</FullName>
+                        <KeyName>Boy</KeyName>
+                        <NamesAfterKeyName>Ralphy</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Cliff Richard</FullName>
+                        <KeyName>Richard</KeyName>
+                        <NamesAfterKeyName>Cliff</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Elliot Smith</FullName>
+                        <KeyName>Smith</KeyName>
+                        <NamesAfterKeyName>Elliot</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A50000661051956457</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>TV/Film</GenreText>
+                </Genre>
+				<ReleaseDate>2008-08-18</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT4M22.000S</Duration>
+            <PLine>
+                <PLineText>(P) 2008 Polydor Ltd.</PLineText>
+            </PLine>
+        </Release>
+        <Release>
+            <ReleaseId>
+                <ProprietaryId Namespace="PADPIDA2012031302R">00602517854352_GBUM70812929_02_002</ProprietaryId>
+            </ReleaseId>
+            <ReleaseReference>R50000661051956452</ReleaseReference>
+            <ReferenceTitle>
+                <TitleText>Interesting</TitleText>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A50000661051956452</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>TrackRelease</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>JP</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Universal D</LabelName>
+                <Title>
+                    <TitleText>Interesting</TitleText>
+                    <SubTitle>Not Very</SubTitle>
+                </Title>
+                <Title TitleType="TranslatedTitle" LanguageAndScriptCode="jp-Jpan">
+                    <TitleText>Jp-na 日本語 Interesting - track_title</TitleText>
+                    <SubTitle LanguageAndScriptCode="jp-Jpan">Jp-na 日本語 Not Very - track_title_version</SubTitle>
+                </Title>
+                <Title TitleType="TranslatedTitle" LanguageAndScriptCode="jp-Hrkt">
+                    <TitleText>Jp-ph 区切り点 Interesting - track_title</TitleText>
+                    <SubTitle LanguageAndScriptCode="jp-Hrkt">Jp-ph 区切り点 Not Very - track_title_version</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Ralphy Boy</FullName>
+                        <KeyName>Boy</KeyName>
+                        <NamesAfterKeyName>Ralphy</NamesAfterKeyName>
+                    </PartyName>
+                    <PartyName LanguageAndScriptCode="jp-Jpan">
+                        <FullName>Jp-na 日本語 Ralphy Boy - name</FullName>
+                    </PartyName>
+                    <PartyName LanguageAndScriptCode="jp-Hrkt">
+                        <FullName>Jp-ph 区切り点 Ralphy Boy - name</FullName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Nelly Furtado</FullName>
+                        <KeyName>Furtado</KeyName>
+                        <NamesAfterKeyName>Nelly</NamesAfterKeyName>
+                    </PartyName>
+                    <PartyName LanguageAndScriptCode="jp-Jpan">
+                        <FullName>Jp-na 日本語 Nelly Furtado - name</FullName>
+                    </PartyName>
+                    <PartyName LanguageAndScriptCode="jp-Hrkt">
+                        <FullName>Jp-ph 区切り点 Nelly Furtado - name</FullName>
+                    </PartyName>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Elliot Smith</FullName>
+                        <KeyName>Smith</KeyName>
+                        <NamesAfterKeyName>Elliot</NamesAfterKeyName>
+                    </PartyName>
+                    <PartyName LanguageAndScriptCode="jp-Jpan">
+                        <FullName>Jp-na 日本語 Elliot Smith - name</FullName>
+                    </PartyName>
+                    <PartyName LanguageAndScriptCode="jp-Hrkt">
+                        <FullName>Jp-ph 区切り点 Elliot Smith - name</FullName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>Explicit</ParentalWarningType>
+                <MarketingComment>Boring</MarketingComment>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A50000661051956452</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Folk</GenreText>
+                </Genre>
+				<ReleaseDate>2008-08-18</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>IE</TerritoryCode>
+                <Title>
+                    <TitleText>Interesting</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Ralphy Boy</FullName>
+                        <KeyName>Boy</KeyName>
+                        <NamesAfterKeyName>Ralphy</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Nelly Furtado</FullName>
+                        <KeyName>Furtado</KeyName>
+                        <NamesAfterKeyName>Nelly</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Elliot Smith</FullName>
+                        <KeyName>Smith</KeyName>
+                        <NamesAfterKeyName>Elliot</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>Explicit</ParentalWarningType>
+                <MarketingComment>Boring</MarketingComment>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A50000661051956452</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Folk</GenreText>
+                </Genre>
+				<ReleaseDate>2008-08-18</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT6M0.000S</Duration>
+            <PLine>
+                <PLineText>(P) 2008 Polydor Ltd.</PLineText>
+            </PLine>
+        </Release>
+        <Release>
+            <ReleaseId>
+                <ProprietaryId Namespace="PADPIDA2012031302R">00602517854352_GBUM70812937_02_003</ProprietaryId>
+            </ReleaseId>
+            <ReleaseReference>R50000661051956455</ReleaseReference>
+            <ReferenceTitle>
+                <TitleText>Not Again</TitleText>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A50000661051956455</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>TrackRelease</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>JP</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Universal D</LabelName>
+                <Title>
+                    <TitleText>Not Again</TitleText>
+                </Title>
+                <Title TitleType="TranslatedTitle" LanguageAndScriptCode="jp-Jpan">
+                    <TitleText>Jp-na 日本語 Not Again - track_title</TitleText>
+                    <SubTitle LanguageAndScriptCode="jp-Jpan">Jp-na 日本語  - track_title_version</SubTitle>
+                </Title>
+                <Title TitleType="TranslatedTitle" LanguageAndScriptCode="jp-Hrkt">
+                    <TitleText>Jp-ph 区切り点 Not Again - track_title</TitleText>
+                    <SubTitle LanguageAndScriptCode="jp-Hrkt">Jp-ph 区切り点  - track_title_version</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Ralphy Boy</FullName>
+                        <KeyName>Boy</KeyName>
+                        <NamesAfterKeyName>Ralphy</NamesAfterKeyName>
+                    </PartyName>
+                    <PartyName LanguageAndScriptCode="jp-Jpan">
+                        <FullName>Jp-na 日本語 Ralphy Boy - name</FullName>
+                    </PartyName>
+                    <PartyName LanguageAndScriptCode="jp-Hrkt">
+                        <FullName>Jp-ph 区切り点 Ralphy Boy - name</FullName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Danny La Rue</FullName>
+                        <KeyName>La Rue</KeyName>
+                        <NamesAfterKeyName>Danny</NamesAfterKeyName>
+                    </PartyName>
+                    <PartyName LanguageAndScriptCode="jp-Jpan">
+                        <FullName>Jp-na 日本語 Danny La Rue - name</FullName>
+                    </PartyName>
+                    <PartyName LanguageAndScriptCode="jp-Hrkt">
+                        <FullName>Jp-ph 区切り点 Danny La Rue - name</FullName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>ExplicitContentEdited</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A50000661051956455</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Blues</GenreText>
+                </Genre>
+				<ReleaseDate>2008-08-18</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>IE</TerritoryCode>
+                <Title>
+                    <TitleText>Not Again</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Ralphy Boy</FullName>
+                        <KeyName>Boy</KeyName>
+                        <NamesAfterKeyName>Ralphy</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Danny La Rue</FullName>
+                        <KeyName>La Rue</KeyName>
+                        <NamesAfterKeyName>Danny</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>ExplicitContentEdited</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A50000661051956455</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Blues</GenreText>
+                </Genre>
+				<ReleaseDate>2008-08-18</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT3M54.000S</Duration>
+            <PLine>
+                <PLineText>(P) 2008 Polydor - Go!</PLineText>
+            </PLine>
+        </Release>
+        <Release>
+            <ReleaseId>
+                <ProprietaryId Namespace="PADPIDA2012031302R">00602517854352_GBUM70812930_02_004</ProprietaryId>
+            </ReleaseId>
+            <ReleaseReference>R50000661051956453</ReleaseReference>
+            <ReferenceTitle>
+                <TitleText>Interesting</TitleText>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A50000661051956453</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>TrackRelease</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>JP</TerritoryCode>
+                <Title>
+                    <TitleText>Interesting</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Ralphy Boy</FullName>
+                        <KeyName>Boy</KeyName>
+                        <NamesAfterKeyName>Ralphy</NamesAfterKeyName>
+                    </PartyName>
+                    <PartyName LanguageAndScriptCode="jp-Jpan">
+                        <FullName>Jp-na 日本語 Ralphy Boy - name</FullName>
+                    </PartyName>
+                    <PartyName LanguageAndScriptCode="jp-Hrkt">
+                        <FullName>Jp-ph 区切り点 Ralphy Boy - name</FullName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Elliot Smith</FullName>
+                        <KeyName>Smith</KeyName>
+                        <NamesAfterKeyName>Elliot</NamesAfterKeyName>
+                    </PartyName>
+                    <PartyName LanguageAndScriptCode="jp-Jpan">
+                        <FullName>Jp-na 日本語 Elliot Smith - name</FullName>
+                    </PartyName>
+                    <PartyName LanguageAndScriptCode="jp-Hrkt">
+                        <FullName>Jp-ph 区切り点 Elliot Smith - name</FullName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>ExplicitContentEdited</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A50000661051956453</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Folk</GenreText>
+                </Genre>
+				<ReleaseDate>2008-08-18</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>IE</TerritoryCode>
+                <Title>
+                    <TitleText>Interesting</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Ralphy Boy</FullName>
+                        <KeyName>Boy</KeyName>
+                        <NamesAfterKeyName>Ralphy</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Elliot Smith</FullName>
+                        <KeyName>Smith</KeyName>
+                        <NamesAfterKeyName>Elliot</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>ExplicitContentEdited</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A50000661051956453</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Folk</GenreText>
+                </Genre>
+				<ReleaseDate>2008-08-18</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT4M0.000S</Duration>
+            <PLine>
+                <PLineText>(P) 2008 Polydor Ltd.</PLineText>
+            </PLine>
+        </Release>
+        <Release>
+            <ReleaseId>
+                <ProprietaryId Namespace="PADPIDA2012031302R">00602517854352_GBUM70812928_02_005</ProprietaryId>
+            </ReleaseId>
+            <ReleaseReference>R50000661051956451</ReleaseReference>
+            <ReferenceTitle>
+                <TitleText>Interesting</TitleText>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A50000661051956451</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>TrackRelease</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>JP</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Universal D</LabelName>
+                <Title>
+                    <TitleText>Interesting</TitleText>
+                    <SubTitle>Very, Very</SubTitle>
+                </Title>
+                <Title TitleType="TranslatedTitle" LanguageAndScriptCode="jp-Jpan">
+                    <TitleText>Jp-na 日本語 Interesting - track_title</TitleText>
+                    <SubTitle LanguageAndScriptCode="jp-Jpan">Jp-na 日本語 Very, Very - track_title_version</SubTitle>
+                </Title>
+                <Title TitleType="TranslatedTitle" LanguageAndScriptCode="jp-Hrkt">
+                    <TitleText>Jp-ph 区切り点 Interesting - track_title</TitleText>
+                    <SubTitle LanguageAndScriptCode="jp-Hrkt">Jp-ph 区切り点 Very, Very - track_title_version</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Ralphy Boy</FullName>
+                        <KeyName>Boy</KeyName>
+                        <NamesAfterKeyName>Ralphy</NamesAfterKeyName>
+                    </PartyName>
+                    <PartyName LanguageAndScriptCode="jp-Jpan">
+                        <FullName>Jp-na 日本語 Ralphy Boy - name</FullName>
+                    </PartyName>
+                    <PartyName LanguageAndScriptCode="jp-Hrkt">
+                        <FullName>Jp-ph 区切り点 Ralphy Boy - name</FullName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Elliot Smith</FullName>
+                        <KeyName>Smith</KeyName>
+                        <NamesAfterKeyName>Elliot</NamesAfterKeyName>
+                    </PartyName>
+                    <PartyName LanguageAndScriptCode="jp-Jpan">
+                        <FullName>Jp-na 日本語 Elliot Smith - name</FullName>
+                    </PartyName>
+                    <PartyName LanguageAndScriptCode="jp-Hrkt">
+                        <FullName>Jp-ph 区切り点 Elliot Smith - name</FullName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>Explicit</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A50000661051956451</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Folk</GenreText>
+                </Genre>
+				<ReleaseDate>2008-08-18</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>IE</TerritoryCode>
+                <Title>
+                    <TitleText>Interesting</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Ralphy Boy</FullName>
+                        <KeyName>Boy</KeyName>
+                        <NamesAfterKeyName>Ralphy</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Elliot Smith</FullName>
+                        <KeyName>Smith</KeyName>
+                        <NamesAfterKeyName>Elliot</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>Explicit</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A50000661051956451</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Folk</GenreText>
+                </Genre>
+				<ReleaseDate>2008-08-18</ReleaseDate>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT12M0.000S</Duration>
+            <PLine>
+                <PLineText>(P) 2008 Polydor Ltd.</PLineText>
+            </PLine>
+        </Release>
+    </ReleaseList>
+    <DealList>
+        <ReleaseDeal>
+            <DealReleaseReference>R6E06DA093C111758E040020A04022EC9</DealReleaseReference>
+            <Deal>
+                <DealTerms>
+                    <AllDealsCancelled>true</AllDealsCancelled>
+                    <TerritoryCode>JP</TerritoryCode>
+					<TerritoryCode>IE</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-10-19Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <EffectiveDate>2012-10-19</EffectiveDate>
+        </ReleaseDeal>
+        <ReleaseDeal>
+            <DealReleaseReference>R50000661051956450</DealReleaseReference>
+			<DealReleaseReference>R50000661051956456</DealReleaseReference>
+			<DealReleaseReference>R50000661051956457</DealReleaseReference>
+			<DealReleaseReference>R50000661051956452</DealReleaseReference>
+			<DealReleaseReference>R50000661051956455</DealReleaseReference>
+			<DealReleaseReference>R50000661051956453</DealReleaseReference>
+			<DealReleaseReference>R50000661051956451</DealReleaseReference>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>Stream</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PADPIDA2012031302R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>JP</TerritoryCode>
+					<TerritoryCode>IE</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PADPIDA2012031302R">UNPRICED</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-10-19Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>Stream</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PADPIDA2012031302R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>JP</TerritoryCode>
+					<TerritoryCode>IE</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PADPIDA2012031302R">UNPRICED</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-10-19Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>Stream</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="PADPIDA2012031302R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>JP</TerritoryCode>
+					<TerritoryCode>IE</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="PADPIDA2012031302R">UNPRICED</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2012-10-19Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <EffectiveDate>2012-10-19</EffectiveDate>
+        </ReleaseDeal>
+    </DealList>
+</ern:NewReleaseMessage>

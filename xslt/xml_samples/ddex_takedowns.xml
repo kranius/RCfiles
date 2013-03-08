@@ -1,0 +1,845 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="svn.xsl"?>
+
+<ns2:NewReleaseMessage xmlns:ns2="http://ddex.net/xml/2011/ern-main/33" MessageSchemaVersionId="2011/ern-main/33">
+    <MessageHeader>
+        <MessageThreadId>1042_150000281355</MessageThreadId>
+        <MessageId>150000281355</MessageId>
+        <MessageFileName>Metadata_tataGroup_update_00028947576549_2012-03-05_11-01-39.xml</MessageFileName>
+				00028947576549
+        <MessageSender>
+            <PartyId>111</PartyId>
+            <PartyName>
+                <FullName>Digiplug</FullName>
+            </PartyName>
+        </MessageSender>
+        <SentOnBehalfOf>
+            <PartyId>555</PartyId>
+            <PartyName>
+                <FullName>Universal Music Group International</FullName>
+            </PartyName>
+        </SentOnBehalfOf>
+        <MessageRecipient>
+            <PartyId>123</PartyId>
+            <PartyName>
+                <FullName>tata</FullName>
+            </PartyName>
+        </MessageRecipient>
+        <MessageCreatedDateTime>2012-03-05T11:01:39</MessageCreatedDateTime>
+        <MessageControlType>LiveMessage</MessageControlType>
+    </MessageHeader>
+    <UpdateIndicator>UpdateMessage</UpdateIndicator>
+    <ResourceList>
+        <SoundRecording>
+            <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+            <SoundRecordingId>
+                <ISRC>GBBBA0520220</ISRC>
+            </SoundRecordingId>
+            <ResourceReference>A200001541119</ResourceReference>
+            <ReferenceTitle>
+                <TitleText>Ave Maria</TitleText>
+            </ReferenceTitle>
+            <IsBonusResource>false</IsBonusResource>
+            <Duration>P0Y0M0DT0H3M28.000S</Duration>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>GB</TerritoryCode>
+                <Title>
+                    <TitleText>Ave Maria</TitleText>
+                </Title>
+                <Title TitleType="DisplayTitle">
+                    <TitleText>null: Ave Maria</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Hayley Westenra</FullName>
+                        <KeyName>Westenra</KeyName>
+                        <NamesAfterKeyName>Hayley</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                    <ArtistRole UserDefinedValue="Artist" Namespace="555">UserDefined</ArtistRole>
+                    <ArtistRole>Unknown</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>John Langley</FullName>
+                        <KeyName>Langley</KeyName>
+                        <NamesAfterKeyName>John</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Unknown</ArtistRole>
+                    <ArtistRole UserDefinedValue="Work Arranger" Namespace="555">UserDefined</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Brian Pezzone</FullName>
+                        <KeyName>Pezzone</KeyName>
+                        <NamesAfterKeyName>Brian</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Unknown</ArtistRole>
+                    <ArtistRole UserDefinedValue="Piano" Namespace="555">UserDefined</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Dorian Cheah</FullName>
+                        <KeyName>Cheah</KeyName>
+                        <NamesAfterKeyName>Dorian</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Unknown</ArtistRole>
+                    <ArtistRole UserDefinedValue="Violin" Namespace="555">UserDefined</ArtistRole>
+                </DisplayArtist>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Charles Gounod</FullName>
+                        <KeyName>Gounod</KeyName>
+                        <NamesAfterKeyName>Charles</NamesAfterKeyName>
+                        <AbbreviatedName>Gounod</AbbreviatedName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                    <IndirectResourceContributorRole UserDefinedValue="Composer" Namespace="555">UserDefined</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Johann Sebastian Bach</FullName>
+                        <KeyName>Bach</KeyName>
+                        <NamesAfterKeyName>Johann Sebastian</NamesAfterKeyName>
+                        <AbbreviatedName>J.S. Bach</AbbreviatedName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                    <IndirectResourceContributorRole UserDefinedValue="Composer" Namespace="555">UserDefined</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Noa</FullName>
+                        <KeyName>Noa</KeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                    <IndirectResourceContributorRole UserDefinedValue="Author" Namespace="555">UserDefined</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <LabelName LabelNameType="ReleaseLabel">Decca</LabelName>
+                <PLine>
+                    <PLineText>(P) 2005 Decca Music Group Limited</PLineText>
+                </PLine>
+                <ParentalWarningType>Unknown</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T8467562GB</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="100">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">256000</BitRate>
+                    <NumberOfChannels>2</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">44100</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <Duration>251287</Duration>
+                    <File>
+                        <FileName>UMG_audtrk_00028947576549_01_001_100.mp3</FileName>
+                        <HashSum>
+                            <HashSum>7f5d5787184f387f7e35bf432206f757</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+        </SoundRecording>
+        <SoundRecording>
+            <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+            <SoundRecordingId>
+                <ISRC>GBBBA0520250</ISRC>
+            </SoundRecordingId>
+            <ResourceReference>A200001549050</ResourceReference>
+            <ReferenceTitle>
+                <TitleText>Both Sides Now</TitleText>
+            </ReferenceTitle>
+            <IsBonusResource>false</IsBonusResource>
+            <Duration>P0Y0M0DT0H3M19.000S</Duration>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>GB</TerritoryCode>
+                <Title>
+                    <TitleText>Both Sides Now</TitleText>
+                </Title>
+                <Title TitleType="DisplayTitle">
+                    <TitleText>null: Both Sides Now</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Hayley Westenra</FullName>
+                        <KeyName>Westenra</KeyName>
+                        <NamesAfterKeyName>Hayley</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                    <ArtistRole UserDefinedValue="Artist" Namespace="555">UserDefined</ArtistRole>
+                    <ArtistRole>Unknown</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Tom De Luca</FullName>
+                        <KeyName>De Luca</KeyName>
+                        <NamesAfterKeyName>Tom</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Unknown</ArtistRole>
+                    <ArtistRole UserDefinedValue="Guitar" Namespace="555">UserDefined</ArtistRole>
+                </DisplayArtist>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Joni Mitchell</FullName>
+                        <KeyName>Mitchell</KeyName>
+                        <NamesAfterKeyName>Joni</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                    <IndirectResourceContributorRole UserDefinedValue="Composer/Author" Namespace="555">UserDefined</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <LabelName LabelNameType="ReleaseLabel">Decca</LabelName>
+                <PLine>
+                    <PLineText>(P) 2005 Decca Music Group Limited</PLineText>
+                </PLine>
+                <ParentalWarningType>Unknown</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T8467560GB</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="100">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">256000</BitRate>
+                    <NumberOfChannels>2</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">44100</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <Duration>251287</Duration>
+                    <File>
+                        <FileName>UMG_audtrk_00028947576549_01_002_100.mp3</FileName>
+                        <HashSum>
+                            <HashSum>7f5d5787184f387f7e35bf432206f757</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+        </SoundRecording>
+        <SoundRecording>
+            <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+            <SoundRecordingId>
+                <ISRC>GBBBA0520230</ISRC>
+            </SoundRecordingId>
+            <ResourceReference>A200001549051</ResourceReference>
+            <ReferenceTitle>
+                <TitleText>Never Saw Blue</TitleText>
+            </ReferenceTitle>
+            <IsBonusResource>false</IsBonusResource>
+            <Duration>P0Y0M0DT0H4M24.000S</Duration>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>GB</TerritoryCode>
+                <Title>
+                    <TitleText>Never Saw Blue</TitleText>
+                </Title>
+                <Title TitleType="DisplayTitle">
+                    <TitleText>null: Never Saw Blue</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Hayley Westenra</FullName>
+                        <KeyName>Westenra</KeyName>
+                        <NamesAfterKeyName>Hayley</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Unknown</ArtistRole>
+                    <ArtistRole UserDefinedValue="Work Arranger" Namespace="555">UserDefined</ArtistRole>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>John Langley</FullName>
+                        <KeyName>Langley</KeyName>
+                        <NamesAfterKeyName>John</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Unknown</ArtistRole>
+                    <ArtistRole UserDefinedValue="Work Arranger" Namespace="555">UserDefined</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Brian Pezzone</FullName>
+                        <KeyName>Pezzone</KeyName>
+                        <NamesAfterKeyName>Brian</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Unknown</ArtistRole>
+                    <ArtistRole UserDefinedValue="Piano" Namespace="555">UserDefined</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Dorian Cheah</FullName>
+                        <KeyName>Cheah</KeyName>
+                        <NamesAfterKeyName>Dorian</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Unknown</ArtistRole>
+                    <ArtistRole UserDefinedValue="Violin" Namespace="555">UserDefined</ArtistRole>
+                </DisplayArtist>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Jeff Franzel</FullName>
+                        <KeyName>Franzel</KeyName>
+                        <NamesAfterKeyName>Jeff</NamesAfterKeyName>
+                        <AbbreviatedName>Franzel</AbbreviatedName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                    <IndirectResourceContributorRole UserDefinedValue="Composer/Author" Namespace="555">UserDefined</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Mark J. Luna</FullName>
+                        <KeyName>Luna</KeyName>
+                        <NamesAfterKeyName>Mark J.</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                    <IndirectResourceContributorRole UserDefinedValue="Composer/Author" Namespace="555">UserDefined</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Tom Kimmel</FullName>
+                        <KeyName>Kimmel</KeyName>
+                        <NamesAfterKeyName>Tom</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                    <IndirectResourceContributorRole UserDefinedValue="Composer/Author" Namespace="555">UserDefined</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <LabelName LabelNameType="ReleaseLabel">Decca</LabelName>
+                <PLine>
+                    <PLineText>(P) 2005 Decca Music Group Limited</PLineText>
+                </PLine>
+                <ParentalWarningType>Unknown</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T8467559GB</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="100">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">256000</BitRate>
+                    <NumberOfChannels>2</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">44100</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <Duration>251287</Duration>
+                    <File>
+                        <FileName>UMG_audtrk_00028947576549_01_003_100.mp3</FileName>
+                        <HashSum>
+                            <HashSum>7f5d5787184f387f7e35bf432206f757</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+        </SoundRecording>
+        <Image>
+            <ImageId>
+                <ProprietaryId Namespace="555">06UMGIM25500</ProprietaryId>
+            </ImageId>
+            <ResourceReference>A200001541118</ResourceReference>
+            <Title>
+                <TitleText>Hayley Westenra / Sony Connect Sessions</TitleText>
+            </Title>
+            <ImageDetailsByTerritory>
+                <TerritoryCode>GB</TerritoryCode>
+                <CLine>
+                    <CLineText>(C) 2005 Decca Music Group Limited</CLineText>
+                </CLine>
+                <ParentalWarningType>Unknown</ParentalWarningType>
+                <TechnicalImageDetails>
+                    <TechnicalResourceDetailsReference>T8467561GB</TechnicalResourceDetailsReference>
+                    <ImageCodecType>JPEG</ImageCodecType>
+                    <ImageHeight UnitOfMeasure="Pixel">800</ImageHeight>
+                    <ImageWidth UnitOfMeasure="Pixel">800</ImageWidth>
+                    <AspectRatio>1.00</AspectRatio>
+                    <ColorDepth>256</ColorDepth>
+                    <ImageResolution>300</ImageResolution>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_cvrart_00028947576549_01_rgb300_800x800_8467561.jpg</FileName>
+                        <HashSum>
+                            <HashSum>cde3eba3d571517cc5611515c58cb0db</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalImageDetails>
+            </ImageDetailsByTerritory>
+        </Image>
+    </ResourceList>
+    <ReleaseList>
+        <Release>
+            <ReleaseId>
+                <ProprietaryId Namespace="555">00028947576549_GBBBA0520220_01_001</ProprietaryId>
+            </ReleaseId>
+            <ReleaseReference>R200001541119</ReleaseReference>
+            <ReferenceTitle>
+                <TitleText>Ave Maria</TitleText>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A200001541119</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>TrackRelease</ReleaseType>
+            <ReleaseType UserDefinedValue="ClassicalRelease">UserDefined</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>GB</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Decca</LabelName>
+                <Title>
+                    <TitleText>Ave Maria</TitleText>
+                </Title>
+                <Title TitleType="DisplayTitle">
+                    <TitleText>null: Ave Maria</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Hayley Westenra</FullName>
+                        <KeyName>Westenra</KeyName>
+                        <NamesAfterKeyName>Hayley</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                    <ArtistRole UserDefinedValue="Artist" Namespace="555">UserDefined</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Noa</FullName>
+                        <KeyName>Noa</KeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                    <ArtistRole UserDefinedValue="Author" Namespace="555">UserDefined</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Johann Sebastian Bach</FullName>
+                        <KeyName>Bach</KeyName>
+                        <NamesAfterKeyName>Johann Sebastian</NamesAfterKeyName>
+                        <AbbreviatedName>J.S. Bach</AbbreviatedName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                    <ArtistRole UserDefinedValue="Composer" Namespace="555">UserDefined</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Charles Gounod</FullName>
+                        <KeyName>Gounod</KeyName>
+                        <NamesAfterKeyName>Charles</NamesAfterKeyName>
+                        <AbbreviatedName>Gounod</AbbreviatedName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                    <ArtistRole UserDefinedValue="Composer" Namespace="555">UserDefined</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>Unknown</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A200001541119</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+            </ReleaseDetailsByTerritory>
+            <Duration>P0Y0M0DT0H3M28.000S</Duration>
+        </Release>
+        <Release>
+            <ReleaseId>
+                <ProprietaryId Namespace="555">00028947576549_GBBBA0520250_01_002</ProprietaryId>
+            </ReleaseId>
+            <ReleaseReference>R200001549050</ReleaseReference>
+            <ReferenceTitle>
+                <TitleText>Both Sides Now</TitleText>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A200001549050</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>TrackRelease</ReleaseType>
+            <ReleaseType UserDefinedValue="ClassicalRelease">UserDefined</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>GB</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Decca</LabelName>
+                <Title>
+                    <TitleText>Both Sides Now</TitleText>
+                </Title>
+                <Title TitleType="DisplayTitle">
+                    <TitleText>null: Both Sides Now</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Hayley Westenra</FullName>
+                        <KeyName>Westenra</KeyName>
+                        <NamesAfterKeyName>Hayley</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                    <ArtistRole UserDefinedValue="Artist" Namespace="555">UserDefined</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Joni Mitchell</FullName>
+                        <KeyName>Mitchell</KeyName>
+                        <NamesAfterKeyName>Joni</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                    <ArtistRole UserDefinedValue="Composer/Author" Namespace="555">UserDefined</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>Unknown</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A200001549050</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+            </ReleaseDetailsByTerritory>
+            <Duration>P0Y0M0DT0H3M19.000S</Duration>
+        </Release>
+        <Release>
+            <ReleaseId>
+                <ProprietaryId Namespace="555">00028947576549_GBBBA0520230_01_003</ProprietaryId>
+            </ReleaseId>
+            <ReleaseReference>R200001549051</ReleaseReference>
+            <ReferenceTitle>
+                <TitleText>Never Saw Blue</TitleText>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A200001549051</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>TrackRelease</ReleaseType>
+            <ReleaseType UserDefinedValue="ClassicalRelease">UserDefined</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>GB</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Decca</LabelName>
+                <Title>
+                    <TitleText>Never Saw Blue</TitleText>
+                </Title>
+                <Title TitleType="DisplayTitle">
+                    <TitleText>null: Never Saw Blue</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Hayley Westenra</FullName>
+                        <KeyName>Westenra</KeyName>
+                        <NamesAfterKeyName>Hayley</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                    <ArtistRole UserDefinedValue="Artist" Namespace="555">UserDefined</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Tom Kimmel</FullName>
+                        <KeyName>Kimmel</KeyName>
+                        <NamesAfterKeyName>Tom</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                    <ArtistRole UserDefinedValue="Composer/Author" Namespace="555">UserDefined</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Jeff Franzel</FullName>
+                        <KeyName>Franzel</KeyName>
+                        <NamesAfterKeyName>Jeff</NamesAfterKeyName>
+                        <AbbreviatedName>Franzel</AbbreviatedName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                    <ArtistRole UserDefinedValue="Composer/Author" Namespace="555">UserDefined</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Mark J. Luna</FullName>
+                        <KeyName>Luna</KeyName>
+                        <NamesAfterKeyName>Mark J.</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                    <ArtistRole UserDefinedValue="Composer/Author" Namespace="555">UserDefined</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>Unknown</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A200001549051</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+            </ReleaseDetailsByTerritory>
+            <Duration>P0Y0M0DT0H4M24.000S</Duration>
+        </Release>
+        <Release>
+            <ReleaseId>
+                <ICPN IsEan="false">00028947576549</ICPN>
+            </ReleaseId>
+            <ReleaseReference>R6ED3217698E80941E040010ADB38675B</ReleaseReference>
+            <ReferenceTitle>
+                <TitleText>Hayley Westenra / Sony Connect Sessions</TitleText>>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A200001541119</ReleaseResourceReference>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A200001549050</ReleaseResourceReference>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A200001549051</ReleaseResourceReference>
+                <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A200001541118</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>Album</ReleaseType>
+            <ReleaseType UserDefinedValue="ClassicalRelease">UserDefined</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>GB</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Decca</LabelName>
+                <Title>
+                    <TitleText/>
+                    <SubTitle>Hayley Westenra / Sony Connect Sessions</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Hayley Westenra</FullName>
+                        <KeyName>Westenra</KeyName>
+                        <NamesAfterKeyName>Hayley</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                    <ArtistRole UserDefinedValue="Artist" Namespace="555">UserDefined</ArtistRole>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>Unknown</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroup>
+                        <SequenceNumber>1</SequenceNumber>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>1</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A200001541119</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>2</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A200001549050</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>3</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A200001549051</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                    </ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A200001541118</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+            </ReleaseDetailsByTerritory>
+            <Duration>P0Y0M0DT0H0M0.671S</Duration>
+            <PLine>
+                <PLineText>(P) 2005 Decca Music Group Limited</PLineText>
+            </PLine>
+            <CLine>
+                <CLineText>(P) 2005 Decca Music Group Limited</CLineText>
+            </CLine>
+        </Release>
+    </ReleaseList>
+    <DealList>
+        <ReleaseDeal>
+            <DealReleaseReference>R6ED3217698E80941E040010ADB38675B</DealReleaseReference>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>ConditionalDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="555">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="555">UNPRICED</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2006-10-20+02:00</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>ConditionalDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="555">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="555">UNPRICED</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2006-10-20+02:00</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="555">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="555">UNPRICED</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2006-10-20+02:00</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="555">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="555">UNPRICED</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2006-10-20+02:00</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>ConditionalDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="555">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="555">UNPRICED</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2006-10-20+02:00</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>ConditionalDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="555">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="555">UNPRICED</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2006-10-20+02:00</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="555">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="555">UNPRICED</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2006-10-20+02:00</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>ConditionalDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="555">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="555">UNPRICED</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2006-10-20+02:00</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="FixedLine" Namespace="555">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="555">UNPRICED</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2006-10-20+02:00</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="555">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="555">UNPRICED</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2006-10-20+02:00</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="555">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="555">UNPRICED</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2006-10-20+02:00</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>ConditionalDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="555">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="555">UNPRICED</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2006-10-20+02:00</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <EffectiveDate>2012-03-05</EffectiveDate>
+        </ReleaseDeal>
+        <ReleaseDeal>
+            <DealReleaseReference>R200001541119</DealReleaseReference>
+            <Deal>
+                <DealTerms>
+                    <AllDealsCancelled>true</AllDealsCancelled>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-03-05+01:00</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <EffectiveDate>2012-03-05</EffectiveDate>
+        </ReleaseDeal>
+        <ReleaseDeal>
+            <DealReleaseReference>R200001549050</DealReleaseReference>
+            <Deal>
+                <DealTerms>
+                    <AllDealsCancelled>true</AllDealsCancelled>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-03-05+01:00</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <EffectiveDate>2012-03-05</EffectiveDate>
+        </ReleaseDeal>
+        <ReleaseDeal>
+            <DealReleaseReference>R200001549051</DealReleaseReference>
+            <Deal>
+                <DealTerms>
+                    <AllDealsCancelled>true</AllDealsCancelled>
+                    <TerritoryCode>GB</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-03-05+01:00</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <EffectiveDate>2012-03-05</EffectiveDate>
+        </ReleaseDeal>
+</DealList>
+</ns2:NewReleaseMessage>

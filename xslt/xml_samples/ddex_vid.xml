@@ -1,0 +1,861 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="svn.xsl"?>
+<ns2:NewReleaseMessage xmlns:ns2="http://ddex.net/xml/2011/ern-main/33" MessageSchemaVersionId="2011/ern-main/33">
+    <MessageHeader>
+        <MessageThreadId>641_150000222140</MessageThreadId>
+        <MessageId>150000222140</MessageId>
+        <MessageFileName>Metadata_tata_new_00600753174081_2012-02-22.xml</MessageFileName>
+        <MessageSender>
+            <PartyId>111</PartyId>
+            <PartyName>
+                <FullName>Digiplug</FullName>
+            </PartyName>
+        </MessageSender>
+        <SentOnBehalfOf>
+            <PartyId>555</PartyId>
+            <PartyName>
+                <FullName>Universal Music Group International</FullName>
+            </PartyName>
+        </SentOnBehalfOf>
+        <MessageRecipient>
+            <PartyId>123</PartyId>
+            <PartyName>
+                <FullName>tata</FullName>
+            </PartyName>
+        </MessageRecipient>
+        <MessageCreatedDateTime>2012-02-22T09:33:42</MessageCreatedDateTime>
+        <MessageControlType>LiveMessage</MessageControlType>
+    </MessageHeader>
+    <UpdateIndicator>OriginalMessage</UpdateIndicator>
+    <ResourceList>
+        <Video>
+            <VideoId>
+                <ISRC>FRUV70900139</ISRC>
+            </VideoId>
+            <ResourceReference>A200000140751</ResourceReference>
+            <ReferenceTitle>
+                <TitleText>J'Reviens</TitleText>
+                <SubTitle>Version Courte</SubTitle>
+            </ReferenceTitle>
+            <IsBonusResource>false</IsBonusResource>
+            <Duration>P0Y0M0DT0H4M43.000S</Duration>
+            <VideoDetailsByTerritory>
+                <TerritoryCode>FR</TerritoryCode>
+                <Title>
+                    <TitleText>J'Reviens</TitleText>
+                    <SubTitle>Version Courte</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Kool Shen</FullName>
+                        <KeyName>Shen</KeyName>
+                        <NamesAfterKeyName>Kool</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Unknown</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Joeystarr</FullName>
+                        <KeyName>Joeystarr</KeyName>
+                    </PartyName>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Kool Shen</FullName>
+                        <KeyName>Shen</KeyName>
+                        <NamesAfterKeyName>Kool</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Rani</FullName>
+                        <KeyName>Rani</KeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Kool Shen</FullName>
+                        <KeyName>Shen</KeyName>
+                        <NamesAfterKeyName>Kool</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Kool Shen</FullName>
+                        <KeyName>Shen</KeyName>
+                        <NamesAfterKeyName>Kool</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole UserDefinedValue="Interprète Vocal" Namespace="555">UserDefined</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Joeystarr</FullName>
+                        <KeyName>Joeystarr</KeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole UserDefinedValue="Featuring" Namespace="555">UserDefined</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Kool Shen</FullName>
+                        <KeyName>Shen</KeyName>
+                        <NamesAfterKeyName>Kool</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole UserDefinedValue="Artist" Namespace="555">UserDefined</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Rani</FullName>
+                        <KeyName>Rani</KeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole UserDefinedValue="Video Director" Namespace="555">UserDefined</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Kool Shen</FullName>
+                        <KeyName>Shen</KeyName>
+                        <NamesAfterKeyName>Kool</NamesAfterKeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole UserDefinedValue="Author" Namespace="555">UserDefined</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <LabelName LabelNameType="ReleaseLabel">AZ</LabelName>
+                <PLine>
+                    <PLineText>(C) 2009 AZ</PLineText>
+                </PLine>
+                <Genre>
+                    <GenreText>HIPHOP</GenreText>
+                </Genre>
+                <ParentalWarningType>Unknown</ParentalWarningType>
+                <CLine>
+                    <CLineText>(C) 2009 AZ</CLineText>
+                </CLine>
+                <TechnicalVideoDetails>
+                    <TechnicalResourceDetailsReference>T8466630FR</TechnicalResourceDetailsReference>
+                    <VideoBitRate UnitOfMeasure="kbps">1500000</VideoBitRate>
+                    <FrameRate UnitOfMeasure="Hz(interlaced)">25.0</FrameRate>
+                    <ImageHeight UnitOfMeasure="Pixel">576</ImageHeight>
+                    <ImageWidth UnitOfMeasure="Pixel">720</ImageWidth>
+                    <AspectRatio>1.25</AspectRatio>
+                    <AudioCodecType UserDefinedValue="AVI_mpeg4_PAL_1500kbps_25fps_mp3_192kbps_44100hz_STEREO_fl">MP3</AudioCodecType>
+                    <AudioBitRate UnitOfMeasure="kbps">192000</AudioBitRate>
+                    <NumberOfAudioChannels>2</NumberOfAudioChannels>
+                    <AudioSamplingRate UnitOfMeasure="Hz">44100</AudioSamplingRate>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_vidtrk_00600753174081_01_001_AVI_mpeg4_PAL_1500kbps_25fps_mp3_192kbps_44100hz_STEREO_fl.avi</FileName>
+                        <HashSum>
+                            <HashSum>1d7900a4c65ca8abbda9edf73142cf61</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalVideoDetails>
+                <TechnicalVideoDetails>
+                    <TechnicalResourceDetailsReference>T8466631FR</TechnicalResourceDetailsReference>
+                    <VideoBitRate UnitOfMeasure="kbps">1500000</VideoBitRate>
+                    <FrameRate UnitOfMeasure="Hz(interlaced)">25.0</FrameRate>
+                    <ImageHeight UnitOfMeasure="Pixel">576</ImageHeight>
+                    <ImageWidth UnitOfMeasure="Pixel">720</ImageWidth>
+                    <AspectRatio>1.25</AspectRatio>
+                    <AudioCodecType UserDefinedValue="AVI_mpeg4_PAL_1500kbps_25fps_mp3_192kbps_44100hz_STEREO_fl_fadecutv">MP3</AudioCodecType>
+                    <AudioBitRate UnitOfMeasure="kbps">192000</AudioBitRate>
+                    <NumberOfAudioChannels>2</NumberOfAudioChannels>
+                    <AudioSamplingRate UnitOfMeasure="Hz">44100</AudioSamplingRate>
+                    <IsPreview>true</IsPreview>
+                    <File>
+                        <FileName>UMG_vidclp_00600753174081_01_001_AVI_mpeg4_PAL_1500kbps_25fps_mp3_192kbps_44100hz_STEREO_fl_fadecutv.avi</FileName>
+                        <HashSum>
+                            <HashSum>1d7900a4c65ca8abbda9edf73142cf61</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalVideoDetails>
+            </VideoDetailsByTerritory>
+        </Video>
+    </ResourceList>
+    <ReleaseList>
+        <Release>
+            <ReleaseId>
+                <ProprietaryId Namespace="555">00600753174081_FRUV70900139_01_001</ProprietaryId>
+            </ReleaseId>
+            <ReleaseReference>R200000140751</ReleaseReference>
+            <ReferenceTitle>
+                <TitleText>J'Reviens</TitleText>
+                <SubTitle>Version Courte</SubTitle>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A200000140751</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>TrackRelease</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>FR</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">AZ</LabelName>
+                <Title>
+                    <TitleText>J'Reviens</TitleText>
+                    <SubTitle>Version Courte</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Kool Shen</FullName>
+                        <KeyName>Shen</KeyName>
+                        <NamesAfterKeyName>Kool</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Unknown</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Joeystarr</FullName>
+                        <KeyName>Joeystarr</KeyName>
+                    </PartyName>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Kool Shen</FullName>
+                        <KeyName>Shen</KeyName>
+                        <NamesAfterKeyName>Kool</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Rani</FullName>
+                        <KeyName>Rani</KeyName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Kool Shen</FullName>
+                        <KeyName>Shen</KeyName>
+                        <NamesAfterKeyName>Kool</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>Unknown</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A200000140751</ReleaseResourceReference>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>HIPHOP</GenreText>
+                </Genre>
+            </ReleaseDetailsByTerritory>
+        </Release>
+        <Release>
+            <ReleaseId>
+                <ICPN IsEan="false">00600753174081</ICPN>
+            </ReleaseId>
+            <ReleaseReference>R6ED241027477B7C1E040010ADB38613E</ReleaseReference>
+            <ReferenceTitle>
+                <TitleText/>
+                <SubTitle>J'Reviens</SubTitle>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A200000140751</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>VideoSingle</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>FR</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">AZ</LabelName>
+                <Title>
+                    <TitleText/>
+                    <SubTitle>J'Reviens</SubTitle>
+                </Title>
+                <DisplayArtist>
+                    <PartyName>
+                        <FullName>Kool Shen</FullName>
+                        <KeyName>Shen</KeyName>
+                        <NamesAfterKeyName>Kool</NamesAfterKeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>Unknown</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroup>
+                        <SequenceNumber>1</SequenceNumber>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>1</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A200000140751</ReleaseResourceReference>
+                        </ResourceGroupContentItem>
+                    </ResourceGroup>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Hip Hop</GenreText>
+                </Genre>
+            </ReleaseDetailsByTerritory>
+            <Duration>P0Y0M0DT0H0M0.283S</Duration>
+            <PLine>
+                <PLineText>(P) 2009 AZ</PLineText>
+            </PLine>
+            <CLine>
+                <CLineText>(P) 2009 AZ</CLineText>
+            </CLine>
+        </Release>
+    </ReleaseList>
+    <DealList>
+        <ReleaseDeal>
+            <DealReleaseReference>R6ED241027477B7C1E040010ADB38613E</DealReleaseReference>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <TerritoryCode>FR</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="555">UNPRICED</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2006-10-20+02:00</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <TerritoryCode>FR</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="555">UNPRICED</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2006-10-20+02:00</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <TerritoryCode>FR</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="555">UNPRICED</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2006-10-20+02:00</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <TerritoryCode>FR</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="555">UNPRICED</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2006-10-20+02:00</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>ConditionalDownload</UseType>
+                        <DistributionChannelType Namespace="555">Internet</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>FR</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="555">UNPRICED</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2006-10-20+02:00</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>ConditionalDownload</UseType>
+                        <DistributionChannelType Namespace="555">Internet</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>FR</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="555">UNPRICED</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2006-10-20+02:00</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType Namespace="555">Internet</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>FR</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="555">UNPRICED</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2006-10-20+02:00</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType Namespace="555">Internet</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>FR</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="555">UNPRICED</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2006-10-20+02:00</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>ConditionalDownload</UseType>
+                        <DistributionChannelType Namespace="555">Internet</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>FR</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="555">UNPRICED</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2006-10-20+02:00</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>ConditionalDownload</UseType>
+                        <DistributionChannelType Namespace="555">Internet</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>FR</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="555">UNPRICED</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2006-10-20+02:00</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <TerritoryCode>FR</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="555">UNPRICED</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2006-10-20+02:00</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>ConditionalDownload</UseType>
+                        <DistributionChannelType Namespace="555">Internet</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>FR</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="555">UNPRICED</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2006-10-20+02:00</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType Namespace="555">Internet</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>FR</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="555">UNPRICED</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2006-10-20+02:00</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType Namespace="555">Internet</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>FR</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="555">UNPRICED</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2006-10-20+02:00</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <TerritoryCode>FR</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="555">UNPRICED</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2006-10-20+02:00</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType Namespace="555">Internet</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>FR</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="555">UNPRICED</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2006-10-20+02:00</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType Namespace="555">Internet</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>FR</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="555">UNPRICED</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2006-10-20+02:00</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>ConditionalDownload</UseType>
+                        <DistributionChannelType Namespace="555">Internet</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>FR</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="555">UNPRICED</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2006-10-20+02:00</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <EffectiveDate>2012-02-22</EffectiveDate>
+        </ReleaseDeal>
+        <ReleaseDeal>
+            <DealReleaseReference>R200000140751</DealReleaseReference>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>Stream</UseType>
+                        <DistributionChannelType Namespace="555">Internet</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>FR</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="555">UNPRICED</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2006-10-20+02:00</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>Stream</UseType>
+                        <DistributionChannelType Namespace="555">Internet</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>FR</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="555">UNPRICED</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2006-10-20+02:00</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>Stream</UseType>
+                        <DistributionChannelType Namespace="555">Internet</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>FR</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="555">UNPRICED</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2006-10-20+02:00</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>Stream</UseType>
+                        <DistributionChannelType Namespace="555">Internet</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>FR</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="555">UNPRICED</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2006-10-20+02:00</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>ConditionalDownload</UseType>
+                        <DistributionChannelType Namespace="555">Internet</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>FR</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="555">UNPRICED</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2006-10-20+02:00</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>ConditionalDownload</UseType>
+                        <DistributionChannelType Namespace="555">Internet</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>FR</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="555">UNPRICED</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2006-10-20+02:00</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType Namespace="555">Internet</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>FR</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="555">UNPRICED</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2006-10-20+02:00</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType Namespace="555">Internet</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>FR</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="555">UNPRICED</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2006-10-20+02:00</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>ConditionalDownload</UseType>
+                        <DistributionChannelType Namespace="555">Internet</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>FR</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="555">UNPRICED</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2006-10-20+02:00</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>ConditionalDownload</UseType>
+                        <DistributionChannelType Namespace="555">Internet</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>FR</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="555">UNPRICED</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2006-10-20+02:00</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>Stream</UseType>
+                        <DistributionChannelType Namespace="555">Internet</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>FR</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="555">UNPRICED</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2006-10-20+02:00</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType Namespace="555">Internet</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>FR</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="555">UNPRICED</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2006-10-20+02:00</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType Namespace="555">Internet</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>FR</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="555">UNPRICED</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2006-10-20+02:00</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>ConditionalDownload</UseType>
+                        <DistributionChannelType Namespace="555">Internet</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>FR</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="555">UNPRICED</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2006-10-20+02:00</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>Stream</UseType>
+                        <DistributionChannelType Namespace="555">Internet</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>FR</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="555">UNPRICED</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2006-10-20+02:00</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType Namespace="555">Internet</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>FR</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="555">UNPRICED</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2006-10-20+02:00</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType Namespace="555">Internet</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>FR</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="555">UNPRICED</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2006-10-20+02:00</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>ConditionalDownload</UseType>
+                        <DistributionChannelType Namespace="555">Internet</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>FR</TerritoryCode>
+                    <PriceInformation>
+                        <PriceType Namespace="555">UNPRICED</PriceType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2006-10-20+02:00</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <EffectiveDate>2012-02-22</EffectiveDate>
+        </ReleaseDeal>
+    </DealList>
+</ns2:NewReleaseMessage>

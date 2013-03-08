@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="timetemplate.xsl"?>
+ <racine>
+
+   <periode id="1" name="aaa" price="prix1">2004-10-14+02:00</periode>
+   <periode id="2" name="aaa" price="prix2">2005-10-22+02:00</periode>
+   <periode id="3" name="bbb" price="prix3">2006-10-27+02:00</periode>
+   <periode id="4" name="bbb" price="prix4">2009-11-05+02:00</periode>
+
+   <periode id="2" name="aaa" price="prix2">2011-10-22+02:00</periode>
+   <periode id="3" name="bbb" price="prix3">2012-10-27+02:00</periode>
+   <periode id="4" name="bbb" price="prix4">2013-11-05+02:00</periode>
+
+
+</racine>

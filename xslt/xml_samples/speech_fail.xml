@@ -1,0 +1,3624 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:NewReleaseMessage xmlns:ns2="http://ddex.net/xml/2011/ern-main/33" MessageSchemaVersionId="2011/ern-main/33">
+    <MessageHeader>
+        <MessageThreadId>3000010218149</MessageThreadId>
+        <MessageId>3000010218149_27483258235</MessageId>
+        <MessageFileName>Metadata_SYN_umgi_MobDDEX_1_new_00602498578018_2012-06-27_19-01-30.xml</MessageFileName>
+        <MessageSender>
+            <PartyId>PA-DPIDA-2010032301-A</PartyId>
+            <PartyName>
+                <FullName>Digiplug</FullName>
+            </PartyName>
+        </MessageSender>
+        <SentOnBehalfOf>
+            <PartyId>PA-DPIDA-2012031302-R</PartyId>
+            <PartyName>
+                <FullName>Universal Music Group International</FullName>
+            </PartyName>
+        </SentOnBehalfOf>
+        <MessageRecipient>
+            <PartyId>123456</PartyId>
+            <PartyName>
+                <FullName>SYN_umgi_MobDDEX_1</FullName>
+            </PartyName>
+        </MessageRecipient>
+        <MessageCreatedDateTime>2012-06-27T19:01:30</MessageCreatedDateTime>
+        <MessageControlType>LiveMessage</MessageControlType>
+    </MessageHeader>
+    <UpdateIndicator>OriginalMessage</UpdateIndicator>
+    <ResourceList>
+        <SoundRecording>
+            <SoundRecordingId>
+                <ProprietaryId Namespace="PA-DPIDA-2012031302-R">USUM70602608</ProprietaryId>
+            </SoundRecordingId>
+            <ResourceReference>A69312297</ResourceReference>
+            <ReferenceTitle>
+                <TitleText>Sending Out An S.O.S.</TitleText>
+                <SubTitle>Speechtone</SubTitle>
+            </ReferenceTitle>
+            <IsBonusResource>false</IsBonusResource>
+            <Duration>PT16.000S</Duration>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>CZ</TerritoryCode>
+                <Title>
+                    <TitleText>Sending Out An S.O.S.</TitleText>
+                    <SubTitle>Speechtone</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Rihanna</FullName>
+                        <KeyName>Rihanna</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Not Applicable</FullName>
+                        <KeyName>Not Applicable</KeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                    <IndirectResourceContributorRole>Author</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <PLine>
+                    <PLineText>(P) 2006 The Island Def Jam Music Group</PLineText>
+                </PLine>
+                <HostSoundCarrier>
+                    <ReleaseId>
+                        <ISRC>USUM70602608</ISRC>
+                    </ReleaseId>
+                </HostSoundCarrier>
+                <Genre>
+                    <GenreText>Spoken Word</GenreText>
+                </Genre>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T10647546088CZ</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="1112009">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">56</BitRate>
+                    <NumberOfChannels>1</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">22050</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_aud30s_00602498578018_01_004_1112009.mp3</FileName>
+                        <HashSum>
+                            <HashSum>e91b0e6a9a7e523e7f36866ec5a8e4de</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T10647548702CZ</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="1114003">ADPCM</AudioCodecType>
+                    <NumberOfChannels>1</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">8000</SamplingRate>
+                    <BitsPerSample>4</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_aud30s_00602498578018_01_004_1114003.wav</FileName>
+                        <HashSum>
+                            <HashSum>662e94152c81c06fe629956e12795e47</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>LV</TerritoryCode>
+                <Title>
+                    <TitleText>Sending Out An S.O.S.</TitleText>
+                    <SubTitle>Speechtone</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Rihanna</FullName>
+                        <KeyName>Rihanna</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Not Applicable</FullName>
+                        <KeyName>Not Applicable</KeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                    <IndirectResourceContributorRole>Author</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <PLine>
+                    <PLineText>(P) 2006 The Island Def Jam Music Group</PLineText>
+                </PLine>
+                <HostSoundCarrier>
+                    <ReleaseId>
+                        <ISRC>USUM70602608</ISRC>
+                    </ReleaseId>
+                </HostSoundCarrier>
+                <Genre>
+                    <GenreText>Spoken Word</GenreText>
+                </Genre>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T10647546088LV</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="1112009">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">56</BitRate>
+                    <NumberOfChannels>1</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">22050</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_aud30s_00602498578018_01_004_1112009.mp3</FileName>
+                        <HashSum>
+                            <HashSum>e91b0e6a9a7e523e7f36866ec5a8e4de</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T10647548702LV</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="1114003">ADPCM</AudioCodecType>
+                    <NumberOfChannels>1</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">8000</SamplingRate>
+                    <BitsPerSample>4</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_aud30s_00602498578018_01_004_1114003.wav</FileName>
+                        <HashSum>
+                            <HashSum>662e94152c81c06fe629956e12795e47</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>SE</TerritoryCode>
+                <Title>
+                    <TitleText>Sending Out An S.O.S.</TitleText>
+                    <SubTitle>Speechtone</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Rihanna</FullName>
+                        <KeyName>Rihanna</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Not Applicable</FullName>
+                        <KeyName>Not Applicable</KeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Author</IndirectResourceContributorRole>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <PLine>
+                    <PLineText>(P) 2006 The Island Def Jam Music Group</PLineText>
+                </PLine>
+                <HostSoundCarrier>
+                    <ReleaseId>
+                        <ISRC>USUM70602608</ISRC>
+                    </ReleaseId>
+                </HostSoundCarrier>
+                <Genre>
+                    <GenreText>Spoken Word</GenreText>
+                </Genre>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T10647546088SE</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="1112009">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">56</BitRate>
+                    <NumberOfChannels>1</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">22050</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_aud30s_00602498578018_01_004_1112009.mp3</FileName>
+                        <HashSum>
+                            <HashSum>e91b0e6a9a7e523e7f36866ec5a8e4de</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T10647548702SE</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="1114003">ADPCM</AudioCodecType>
+                    <NumberOfChannels>1</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">8000</SamplingRate>
+                    <BitsPerSample>4</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_aud30s_00602498578018_01_004_1114003.wav</FileName>
+                        <HashSum>
+                            <HashSum>662e94152c81c06fe629956e12795e47</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>LT</TerritoryCode>
+                <Title>
+                    <TitleText>Sending Out An S.O.S.</TitleText>
+                    <SubTitle>Speechtone</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Rihanna</FullName>
+                        <KeyName>Rihanna</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Not Applicable</FullName>
+                        <KeyName>Not Applicable</KeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                    <IndirectResourceContributorRole>Author</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <PLine>
+                    <PLineText>(P) 2006 The Island Def Jam Music Group</PLineText>
+                </PLine>
+                <HostSoundCarrier>
+                    <ReleaseId>
+                        <ISRC>USUM70602608</ISRC>
+                    </ReleaseId>
+                </HostSoundCarrier>
+                <Genre>
+                    <GenreText>Spoken Word</GenreText>
+                </Genre>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T10647546088LT</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="1112009">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">56</BitRate>
+                    <NumberOfChannels>1</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">22050</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_aud30s_00602498578018_01_004_1112009.mp3</FileName>
+                        <HashSum>
+                            <HashSum>e91b0e6a9a7e523e7f36866ec5a8e4de</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T10647548702LT</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="1114003">ADPCM</AudioCodecType>
+                    <NumberOfChannels>1</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">8000</SamplingRate>
+                    <BitsPerSample>4</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_aud30s_00602498578018_01_004_1114003.wav</FileName>
+                        <HashSum>
+                            <HashSum>662e94152c81c06fe629956e12795e47</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>ZA</TerritoryCode>
+                <Title>
+                    <TitleText>Sending Out An S.O.S.</TitleText>
+                    <SubTitle>Speechtone</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Rihanna</FullName>
+                        <KeyName>Rihanna</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Not Applicable</FullName>
+                        <KeyName>Not Applicable</KeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                    <IndirectResourceContributorRole>Author</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <PLine>
+                    <PLineText>(P) 2006 The Island Def Jam Music Group</PLineText>
+                </PLine>
+                <HostSoundCarrier>
+                    <ReleaseId>
+                        <ISRC>USUM70602608</ISRC>
+                    </ReleaseId>
+                </HostSoundCarrier>
+                <Genre>
+                    <GenreText>Spoken Word</GenreText>
+                </Genre>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T10647546088ZA</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="1112009">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">56</BitRate>
+                    <NumberOfChannels>1</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">22050</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_aud30s_00602498578018_01_004_1112009.mp3</FileName>
+                        <HashSum>
+                            <HashSum>e91b0e6a9a7e523e7f36866ec5a8e4de</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T10647548702ZA</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="1114003">ADPCM</AudioCodecType>
+                    <NumberOfChannels>1</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">8000</SamplingRate>
+                    <BitsPerSample>4</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_aud30s_00602498578018_01_004_1114003.wav</FileName>
+                        <HashSum>
+                            <HashSum>662e94152c81c06fe629956e12795e47</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>SI</TerritoryCode>
+                <Title>
+                    <TitleText>Sending Out An S.O.S.</TitleText>
+                    <SubTitle>Speechtone</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Rihanna</FullName>
+                        <KeyName>Rihanna</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Not Applicable</FullName>
+                        <KeyName>Not Applicable</KeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Author</IndirectResourceContributorRole>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <PLine>
+                    <PLineText>(P) 2006 The Island Def Jam Music Group</PLineText>
+                </PLine>
+                <HostSoundCarrier>
+                    <ReleaseId>
+                        <ISRC>USUM70602608</ISRC>
+                    </ReleaseId>
+                </HostSoundCarrier>
+                <Genre>
+                    <GenreText>Spoken Word</GenreText>
+                </Genre>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T10647546088SI</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="1112009">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">56</BitRate>
+                    <NumberOfChannels>1</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">22050</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_aud30s_00602498578018_01_004_1112009.mp3</FileName>
+                        <HashSum>
+                            <HashSum>e91b0e6a9a7e523e7f36866ec5a8e4de</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T10647548702SI</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="1114003">ADPCM</AudioCodecType>
+                    <NumberOfChannels>1</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">8000</SamplingRate>
+                    <BitsPerSample>4</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_aud30s_00602498578018_01_004_1114003.wav</FileName>
+                        <HashSum>
+                            <HashSum>662e94152c81c06fe629956e12795e47</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>HR</TerritoryCode>
+                <Title>
+                    <TitleText>Sending Out An S.O.S.</TitleText>
+                    <SubTitle>Speechtone</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Rihanna</FullName>
+                        <KeyName>Rihanna</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Not Applicable</FullName>
+                        <KeyName>Not Applicable</KeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                    <IndirectResourceContributorRole>Author</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <PLine>
+                    <PLineText>(P) 2006 The Island Def Jam Music Group</PLineText>
+                </PLine>
+                <HostSoundCarrier>
+                    <ReleaseId>
+                        <ISRC>USUM70602608</ISRC>
+                    </ReleaseId>
+                </HostSoundCarrier>
+                <Genre>
+                    <GenreText>Spoken Word</GenreText>
+                </Genre>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T10647546088HR</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="1112009">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">56</BitRate>
+                    <NumberOfChannels>1</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">22050</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_aud30s_00602498578018_01_004_1112009.mp3</FileName>
+                        <HashSum>
+                            <HashSum>e91b0e6a9a7e523e7f36866ec5a8e4de</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T10647548702HR</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="1114003">ADPCM</AudioCodecType>
+                    <NumberOfChannels>1</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">8000</SamplingRate>
+                    <BitsPerSample>4</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_aud30s_00602498578018_01_004_1114003.wav</FileName>
+                        <HashSum>
+                            <HashSum>662e94152c81c06fe629956e12795e47</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>SK</TerritoryCode>
+                <Title>
+                    <TitleText>Sending Out An S.O.S.</TitleText>
+                    <SubTitle>Speechtone</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Rihanna</FullName>
+                        <KeyName>Rihanna</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Not Applicable</FullName>
+                        <KeyName>Not Applicable</KeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Author</IndirectResourceContributorRole>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <PLine>
+                    <PLineText>(P) 2006 The Island Def Jam Music Group</PLineText>
+                </PLine>
+                <HostSoundCarrier>
+                    <ReleaseId>
+                        <ISRC>USUM70602608</ISRC>
+                    </ReleaseId>
+                </HostSoundCarrier>
+                <Genre>
+                    <GenreText>Spoken Word</GenreText>
+                </Genre>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T10647546088SK</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="1112009">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">56</BitRate>
+                    <NumberOfChannels>1</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">22050</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_aud30s_00602498578018_01_004_1112009.mp3</FileName>
+                        <HashSum>
+                            <HashSum>e91b0e6a9a7e523e7f36866ec5a8e4de</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T10647548702SK</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="1114003">ADPCM</AudioCodecType>
+                    <NumberOfChannels>1</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">8000</SamplingRate>
+                    <BitsPerSample>4</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_aud30s_00602498578018_01_004_1114003.wav</FileName>
+                        <HashSum>
+                            <HashSum>662e94152c81c06fe629956e12795e47</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>RO</TerritoryCode>
+                <Title>
+                    <TitleText>Sending Out An S.O.S.</TitleText>
+                    <SubTitle>Speechtone</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Rihanna</FullName>
+                        <KeyName>Rihanna</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Not Applicable</FullName>
+                        <KeyName>Not Applicable</KeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Author</IndirectResourceContributorRole>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <PLine>
+                    <PLineText>(P) 2006 The Island Def Jam Music Group</PLineText>
+                </PLine>
+                <HostSoundCarrier>
+                    <ReleaseId>
+                        <ISRC>USUM70602608</ISRC>
+                    </ReleaseId>
+                </HostSoundCarrier>
+                <Genre>
+                    <GenreText>Spoken Word</GenreText>
+                </Genre>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T10647546088RO</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="1112009">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">56</BitRate>
+                    <NumberOfChannels>1</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">22050</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_aud30s_00602498578018_01_004_1112009.mp3</FileName>
+                        <HashSum>
+                            <HashSum>e91b0e6a9a7e523e7f36866ec5a8e4de</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T10647548702RO</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="1114003">ADPCM</AudioCodecType>
+                    <NumberOfChannels>1</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">8000</SamplingRate>
+                    <BitsPerSample>4</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_aud30s_00602498578018_01_004_1114003.wav</FileName>
+                        <HashSum>
+                            <HashSum>662e94152c81c06fe629956e12795e47</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>NO</TerritoryCode>
+                <Title>
+                    <TitleText>Sending Out An S.O.S.</TitleText>
+                    <SubTitle>Speechtone</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Rihanna</FullName>
+                        <KeyName>Rihanna</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Not Applicable</FullName>
+                        <KeyName>Not Applicable</KeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                    <IndirectResourceContributorRole>Author</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <PLine>
+                    <PLineText>(P) 2006 The Island Def Jam Music Group</PLineText>
+                </PLine>
+                <HostSoundCarrier>
+                    <ReleaseId>
+                        <ISRC>USUM70602608</ISRC>
+                    </ReleaseId>
+                </HostSoundCarrier>
+                <Genre>
+                    <GenreText>Spoken Word</GenreText>
+                </Genre>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T10647546088NO</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="1112009">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">56</BitRate>
+                    <NumberOfChannels>1</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">22050</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_aud30s_00602498578018_01_004_1112009.mp3</FileName>
+                        <HashSum>
+                            <HashSum>e91b0e6a9a7e523e7f36866ec5a8e4de</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T10647548702NO</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="1114003">ADPCM</AudioCodecType>
+                    <NumberOfChannels>1</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">8000</SamplingRate>
+                    <BitsPerSample>4</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_aud30s_00602498578018_01_004_1114003.wav</FileName>
+                        <HashSum>
+                            <HashSum>662e94152c81c06fe629956e12795e47</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>HU</TerritoryCode>
+                <Title>
+                    <TitleText>Sending Out An S.O.S.</TitleText>
+                    <SubTitle>Speechtone</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Rihanna</FullName>
+                        <KeyName>Rihanna</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Not Applicable</FullName>
+                        <KeyName>Not Applicable</KeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Author</IndirectResourceContributorRole>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <PLine>
+                    <PLineText>(P) 2006 The Island Def Jam Music Group</PLineText>
+                </PLine>
+                <HostSoundCarrier>
+                    <ReleaseId>
+                        <ISRC>USUM70602608</ISRC>
+                    </ReleaseId>
+                </HostSoundCarrier>
+                <Genre>
+                    <GenreText>Spoken Word</GenreText>
+                </Genre>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T10647546088HU</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="1112009">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">56</BitRate>
+                    <NumberOfChannels>1</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">22050</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_aud30s_00602498578018_01_004_1112009.mp3</FileName>
+                        <HashSum>
+                            <HashSum>e91b0e6a9a7e523e7f36866ec5a8e4de</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T10647548702HU</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="1114003">ADPCM</AudioCodecType>
+                    <NumberOfChannels>1</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">8000</SamplingRate>
+                    <BitsPerSample>4</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_aud30s_00602498578018_01_004_1114003.wav</FileName>
+                        <HashSum>
+                            <HashSum>662e94152c81c06fe629956e12795e47</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>PL</TerritoryCode>
+                <Title>
+                    <TitleText>Sending Out An S.O.S.</TitleText>
+                    <SubTitle>Speechtone</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Rihanna</FullName>
+                        <KeyName>Rihanna</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Not Applicable</FullName>
+                        <KeyName>Not Applicable</KeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Author</IndirectResourceContributorRole>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <PLine>
+                    <PLineText>(P) 2006 The Island Def Jam Music Group</PLineText>
+                </PLine>
+                <HostSoundCarrier>
+                    <ReleaseId>
+                        <ISRC>USUM70602608</ISRC>
+                    </ReleaseId>
+                </HostSoundCarrier>
+                <Genre>
+                    <GenreText>Spoken Word</GenreText>
+                </Genre>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T10647546088PL</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="1112009">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">56</BitRate>
+                    <NumberOfChannels>1</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">22050</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_aud30s_00602498578018_01_004_1112009.mp3</FileName>
+                        <HashSum>
+                            <HashSum>e91b0e6a9a7e523e7f36866ec5a8e4de</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T10647548702PL</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="1114003">ADPCM</AudioCodecType>
+                    <NumberOfChannels>1</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">8000</SamplingRate>
+                    <BitsPerSample>4</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_aud30s_00602498578018_01_004_1114003.wav</FileName>
+                        <HashSum>
+                            <HashSum>662e94152c81c06fe629956e12795e47</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>BG</TerritoryCode>
+                <Title>
+                    <TitleText>Sending Out An S.O.S.</TitleText>
+                    <SubTitle>Speechtone</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Rihanna</FullName>
+                        <KeyName>Rihanna</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Not Applicable</FullName>
+                        <KeyName>Not Applicable</KeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Author</IndirectResourceContributorRole>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <PLine>
+                    <PLineText>(P) 2006 The Island Def Jam Music Group</PLineText>
+                </PLine>
+                <HostSoundCarrier>
+                    <ReleaseId>
+                        <ISRC>USUM70602608</ISRC>
+                    </ReleaseId>
+                </HostSoundCarrier>
+                <Genre>
+                    <GenreText>Spoken Word</GenreText>
+                </Genre>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T10647546088BG</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="1112009">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">56</BitRate>
+                    <NumberOfChannels>1</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">22050</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_aud30s_00602498578018_01_004_1112009.mp3</FileName>
+                        <HashSum>
+                            <HashSum>e91b0e6a9a7e523e7f36866ec5a8e4de</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T10647548702BG</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="1114003">ADPCM</AudioCodecType>
+                    <NumberOfChannels>1</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">8000</SamplingRate>
+                    <BitsPerSample>4</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_aud30s_00602498578018_01_004_1114003.wav</FileName>
+                        <HashSum>
+                            <HashSum>662e94152c81c06fe629956e12795e47</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>FR</TerritoryCode>
+                <Title>
+                    <TitleText>Sending Out An S.O.S.</TitleText>
+                    <SubTitle>Speechtone</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Rihanna</FullName>
+                        <KeyName>Rihanna</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Not Applicable</FullName>
+                        <KeyName>Not Applicable</KeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                    <IndirectResourceContributorRole>Author</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <LabelName LabelNameType="ReleaseLabel">Island Def Jam</LabelName>
+                <PLine>
+                    <PLineText>(P) 2006 The Island Def Jam Music Group</PLineText>
+                </PLine>
+                <HostSoundCarrier>
+                    <ReleaseId>
+                        <ISRC>USUM70602608</ISRC>
+                    </ReleaseId>
+                </HostSoundCarrier>
+                <Genre>
+                    <GenreText>Spoken Word</GenreText>
+                </Genre>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T10647546088FR</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="1112009">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">56</BitRate>
+                    <NumberOfChannels>1</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">22050</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_aud30s_00602498578018_01_004_1112009.mp3</FileName>
+                        <HashSum>
+                            <HashSum>e91b0e6a9a7e523e7f36866ec5a8e4de</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T10647548702FR</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="1114003">ADPCM</AudioCodecType>
+                    <NumberOfChannels>1</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">8000</SamplingRate>
+                    <BitsPerSample>4</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_aud30s_00602498578018_01_004_1114003.wav</FileName>
+                        <HashSum>
+                            <HashSum>662e94152c81c06fe629956e12795e47</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>RU</TerritoryCode>
+                <Title>
+                    <TitleText>Sending Out An S.O.S.</TitleText>
+                    <SubTitle>Speechtone</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Rihanna</FullName>
+                        <KeyName>Rihanna</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Not Applicable</FullName>
+                        <KeyName>Not Applicable</KeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                    <IndirectResourceContributorRole>Author</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <PLine>
+                    <PLineText>(P) 2006 The Island Def Jam Music Group</PLineText>
+                </PLine>
+                <HostSoundCarrier>
+                    <ReleaseId>
+                        <ISRC>USUM70602608</ISRC>
+                    </ReleaseId>
+                </HostSoundCarrier>
+                <Genre>
+                    <GenreText>Spoken Word</GenreText>
+                </Genre>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T10647546088RU</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="1112009">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">56</BitRate>
+                    <NumberOfChannels>1</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">22050</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_aud30s_00602498578018_01_004_1112009.mp3</FileName>
+                        <HashSum>
+                            <HashSum>e91b0e6a9a7e523e7f36866ec5a8e4de</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T10647548702RU</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="1114003">ADPCM</AudioCodecType>
+                    <NumberOfChannels>1</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">8000</SamplingRate>
+                    <BitsPerSample>4</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_aud30s_00602498578018_01_004_1114003.wav</FileName>
+                        <HashSum>
+                            <HashSum>662e94152c81c06fe629956e12795e47</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>GR</TerritoryCode>
+                <Title>
+                    <TitleText>Sending Out An S.O.S.</TitleText>
+                    <SubTitle>Speechtone</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Rihanna</FullName>
+                        <KeyName>Rihanna</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Not Applicable</FullName>
+                        <KeyName>Not Applicable</KeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Author</IndirectResourceContributorRole>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <PLine>
+                    <PLineText>(P) 2006 The Island Def Jam Music Group</PLineText>
+                </PLine>
+                <HostSoundCarrier>
+                    <ReleaseId>
+                        <ISRC>USUM70602608</ISRC>
+                    </ReleaseId>
+                </HostSoundCarrier>
+                <Genre>
+                    <GenreText>Spoken Word</GenreText>
+                </Genre>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T10647546088GR</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="1112009">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">56</BitRate>
+                    <NumberOfChannels>1</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">22050</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_aud30s_00602498578018_01_004_1112009.mp3</FileName>
+                        <HashSum>
+                            <HashSum>e91b0e6a9a7e523e7f36866ec5a8e4de</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T10647548702GR</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="1114003">ADPCM</AudioCodecType>
+                    <NumberOfChannels>1</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">8000</SamplingRate>
+                    <BitsPerSample>4</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_aud30s_00602498578018_01_004_1114003.wav</FileName>
+                        <HashSum>
+                            <HashSum>662e94152c81c06fe629956e12795e47</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>ES</TerritoryCode>
+                <Title>
+                    <TitleText>Sending Out An S.O.S.</TitleText>
+                    <SubTitle>Speechtone</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Rihanna</FullName>
+                        <KeyName>Rihanna</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Not Applicable</FullName>
+                        <KeyName>Not Applicable</KeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                    <IndirectResourceContributorRole>Author</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <PLine>
+                    <PLineText>(P) 2006 The Island Def Jam Music Group</PLineText>
+                </PLine>
+                <HostSoundCarrier>
+                    <ReleaseId>
+                        <ISRC>USUM70602608</ISRC>
+                    </ReleaseId>
+                </HostSoundCarrier>
+                <Genre>
+                    <GenreText>Spoken Word</GenreText>
+                </Genre>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T10647546088ES</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="1112009">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">56</BitRate>
+                    <NumberOfChannels>1</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">22050</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_aud30s_00602498578018_01_004_1112009.mp3</FileName>
+                        <HashSum>
+                            <HashSum>e91b0e6a9a7e523e7f36866ec5a8e4de</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T10647548702ES</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="1114003">ADPCM</AudioCodecType>
+                    <NumberOfChannels>1</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">8000</SamplingRate>
+                    <BitsPerSample>4</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_aud30s_00602498578018_01_004_1114003.wav</FileName>
+                        <HashSum>
+                            <HashSum>662e94152c81c06fe629956e12795e47</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>BE</TerritoryCode>
+                <Title>
+                    <TitleText>Sending Out An S.O.S.</TitleText>
+                    <SubTitle>Speechtone</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Rihanna</FullName>
+                        <KeyName>Rihanna</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Not Applicable</FullName>
+                        <KeyName>Not Applicable</KeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                    <IndirectResourceContributorRole>Author</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <PLine>
+                    <PLineText>(P) 2006 The Island Def Jam Music Group</PLineText>
+                </PLine>
+                <HostSoundCarrier>
+                    <ReleaseId>
+                        <ISRC>USUM70602608</ISRC>
+                    </ReleaseId>
+                </HostSoundCarrier>
+                <Genre>
+                    <GenreText>Spoken Word</GenreText>
+                </Genre>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T10647546088BE</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="1112009">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">56</BitRate>
+                    <NumberOfChannels>1</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">22050</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_aud30s_00602498578018_01_004_1112009.mp3</FileName>
+                        <HashSum>
+                            <HashSum>e91b0e6a9a7e523e7f36866ec5a8e4de</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T10647548702BE</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="1114003">ADPCM</AudioCodecType>
+                    <NumberOfChannels>1</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">8000</SamplingRate>
+                    <BitsPerSample>4</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_aud30s_00602498578018_01_004_1114003.wav</FileName>
+                        <HashSum>
+                            <HashSum>662e94152c81c06fe629956e12795e47</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>EE</TerritoryCode>
+                <Title>
+                    <TitleText>Sending Out An S.O.S.</TitleText>
+                    <SubTitle>Speechtone</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Rihanna</FullName>
+                        <KeyName>Rihanna</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Not Applicable</FullName>
+                        <KeyName>Not Applicable</KeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Author</IndirectResourceContributorRole>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <PLine>
+                    <PLineText>(P) 2006 The Island Def Jam Music Group</PLineText>
+                </PLine>
+                <HostSoundCarrier>
+                    <ReleaseId>
+                        <ISRC>USUM70602608</ISRC>
+                    </ReleaseId>
+                </HostSoundCarrier>
+                <Genre>
+                    <GenreText>Spoken Word</GenreText>
+                </Genre>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T10647546088EE</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="1112009">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">56</BitRate>
+                    <NumberOfChannels>1</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">22050</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_aud30s_00602498578018_01_004_1112009.mp3</FileName>
+                        <HashSum>
+                            <HashSum>e91b0e6a9a7e523e7f36866ec5a8e4de</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T10647548702EE</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="1114003">ADPCM</AudioCodecType>
+                    <NumberOfChannels>1</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">8000</SamplingRate>
+                    <BitsPerSample>4</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_aud30s_00602498578018_01_004_1114003.wav</FileName>
+                        <HashSum>
+                            <HashSum>662e94152c81c06fe629956e12795e47</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>DK</TerritoryCode>
+                <Title>
+                    <TitleText>Sending Out An S.O.S.</TitleText>
+                    <SubTitle>Speechtone</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Rihanna</FullName>
+                        <KeyName>Rihanna</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Not Applicable</FullName>
+                        <KeyName>Not Applicable</KeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Author</IndirectResourceContributorRole>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <PLine>
+                    <PLineText>(P) 2006 The Island Def Jam Music Group</PLineText>
+                </PLine>
+                <HostSoundCarrier>
+                    <ReleaseId>
+                        <ISRC>USUM70602608</ISRC>
+                    </ReleaseId>
+                </HostSoundCarrier>
+                <Genre>
+                    <GenreText>Spoken Word</GenreText>
+                </Genre>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T10647546088DK</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="1112009">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">56</BitRate>
+                    <NumberOfChannels>1</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">22050</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_aud30s_00602498578018_01_004_1112009.mp3</FileName>
+                        <HashSum>
+                            <HashSum>e91b0e6a9a7e523e7f36866ec5a8e4de</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T10647548702DK</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="1114003">ADPCM</AudioCodecType>
+                    <NumberOfChannels>1</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">8000</SamplingRate>
+                    <BitsPerSample>4</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_aud30s_00602498578018_01_004_1114003.wav</FileName>
+                        <HashSum>
+                            <HashSum>662e94152c81c06fe629956e12795e47</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>FI</TerritoryCode>
+                <Title>
+                    <TitleText>Sending Out An S.O.S.</TitleText>
+                    <SubTitle>Speechtone</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Rihanna</FullName>
+                        <KeyName>Rihanna</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Not Applicable</FullName>
+                        <KeyName>Not Applicable</KeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Author</IndirectResourceContributorRole>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <PLine>
+                    <PLineText>(P) 2006 The Island Def Jam Music Group</PLineText>
+                </PLine>
+                <HostSoundCarrier>
+                    <ReleaseId>
+                        <ISRC>USUM70602608</ISRC>
+                    </ReleaseId>
+                </HostSoundCarrier>
+                <Genre>
+                    <GenreText>Spoken Word</GenreText>
+                </Genre>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T10647546088FI</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="1112009">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">56</BitRate>
+                    <NumberOfChannels>1</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">22050</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_aud30s_00602498578018_01_004_1112009.mp3</FileName>
+                        <HashSum>
+                            <HashSum>e91b0e6a9a7e523e7f36866ec5a8e4de</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T10647548702FI</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="1114003">ADPCM</AudioCodecType>
+                    <NumberOfChannels>1</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">8000</SamplingRate>
+                    <BitsPerSample>4</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_aud30s_00602498578018_01_004_1114003.wav</FileName>
+                        <HashSum>
+                            <HashSum>662e94152c81c06fe629956e12795e47</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>SA</TerritoryCode>
+                <Title>
+                    <TitleText>Sending Out An S.O.S.</TitleText>
+                    <SubTitle>Speechtone</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Rihanna</FullName>
+                        <KeyName>Rihanna</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <IndirectResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Not Applicable</FullName>
+                        <KeyName>Not Applicable</KeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>Author</IndirectResourceContributorRole>
+                    <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <PLine>
+                    <PLineText>(P) 2006 The Island Def Jam Music Group</PLineText>
+                </PLine>
+                <HostSoundCarrier>
+                    <ReleaseId>
+                        <ISRC>USUM70602608</ISRC>
+                    </ReleaseId>
+                </HostSoundCarrier>
+                <Genre>
+                    <GenreText>Spoken Word</GenreText>
+                </Genre>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T10647546088SA</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="1112009">MP3</AudioCodecType>
+                    <BitRate UnitOfMeasure="kbps">56</BitRate>
+                    <NumberOfChannels>1</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">22050</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_aud30s_00602498578018_01_004_1112009.mp3</FileName>
+                        <HashSum>
+                            <HashSum>e91b0e6a9a7e523e7f36866ec5a8e4de</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T10647548702SA</TechnicalResourceDetailsReference>
+                    <AudioCodecType UserDefinedValue="1114003">ADPCM</AudioCodecType>
+                    <NumberOfChannels>1</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="Hz">8000</SamplingRate>
+                    <BitsPerSample>4</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_aud30s_00602498578018_01_004_1114003.wav</FileName>
+                        <HashSum>
+                            <HashSum>662e94152c81c06fe629956e12795e47</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+        </SoundRecording>
+        <Image>
+            <ImageId>
+                <ProprietaryId Namespace="PA-DPIDA-2012031302-R">06UMGIM20678</ProprietaryId>
+            </ImageId>
+            <ResourceReference>A52388186</ResourceReference>
+            <Title>
+                <TitleText>Unfaithful</TitleText>
+            </Title>
+            <ImageDetailsByTerritory>
+                <TerritoryCode>CZ</TerritoryCode>
+                <CLine>
+                    <CLineText>(C) 2006 The Island Def Jam Music Group</CLineText>
+                </CLine>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalImageDetails>
+                    <TechnicalResourceDetailsReference>T10651382533CZ</TechnicalResourceDetailsReference>
+                    <ImageCodecType>JPEG</ImageCodecType>
+                    <ImageHeight UnitOfMeasure="Pixel">595</ImageHeight>
+                    <ImageWidth UnitOfMeasure="Pixel">600</ImageWidth>
+                    <AspectRatio>1.01</AspectRatio>
+                    <ImageResolution>300</ImageResolution>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_cvrart_00602498578018_RGB_300_600x595_10651382533.jpg</FileName>
+                        <HashSum>
+                            <HashSum>cc776c9bf770d1e89fe471e188b383f7</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalImageDetails>
+            </ImageDetailsByTerritory>
+            <ImageDetailsByTerritory>
+                <TerritoryCode>LV</TerritoryCode>
+                <CLine>
+                    <CLineText>(C) 2006 The Island Def Jam Music Group</CLineText>
+                </CLine>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalImageDetails>
+                    <TechnicalResourceDetailsReference>T10651382533LV</TechnicalResourceDetailsReference>
+                    <ImageCodecType>JPEG</ImageCodecType>
+                    <ImageHeight UnitOfMeasure="Pixel">595</ImageHeight>
+                    <ImageWidth UnitOfMeasure="Pixel">600</ImageWidth>
+                    <AspectRatio>1.01</AspectRatio>
+                    <ImageResolution>300</ImageResolution>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_cvrart_00602498578018_RGB_300_600x595_10651382533.jpg</FileName>
+                        <HashSum>
+                            <HashSum>cc776c9bf770d1e89fe471e188b383f7</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalImageDetails>
+            </ImageDetailsByTerritory>
+            <ImageDetailsByTerritory>
+                <TerritoryCode>SE</TerritoryCode>
+                <CLine>
+                    <CLineText>(C) 2006 The Island Def Jam Music Group</CLineText>
+                </CLine>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalImageDetails>
+                    <TechnicalResourceDetailsReference>T10651382533SE</TechnicalResourceDetailsReference>
+                    <ImageCodecType>JPEG</ImageCodecType>
+                    <ImageHeight UnitOfMeasure="Pixel">595</ImageHeight>
+                    <ImageWidth UnitOfMeasure="Pixel">600</ImageWidth>
+                    <AspectRatio>1.01</AspectRatio>
+                    <ImageResolution>300</ImageResolution>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_cvrart_00602498578018_RGB_300_600x595_10651382533.jpg</FileName>
+                        <HashSum>
+                            <HashSum>cc776c9bf770d1e89fe471e188b383f7</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalImageDetails>
+            </ImageDetailsByTerritory>
+            <ImageDetailsByTerritory>
+                <TerritoryCode>LT</TerritoryCode>
+                <CLine>
+                    <CLineText>(C) 2006 The Island Def Jam Music Group</CLineText>
+                </CLine>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalImageDetails>
+                    <TechnicalResourceDetailsReference>T10651382533LT</TechnicalResourceDetailsReference>
+                    <ImageCodecType>JPEG</ImageCodecType>
+                    <ImageHeight UnitOfMeasure="Pixel">595</ImageHeight>
+                    <ImageWidth UnitOfMeasure="Pixel">600</ImageWidth>
+                    <AspectRatio>1.01</AspectRatio>
+                    <ImageResolution>300</ImageResolution>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_cvrart_00602498578018_RGB_300_600x595_10651382533.jpg</FileName>
+                        <HashSum>
+                            <HashSum>cc776c9bf770d1e89fe471e188b383f7</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalImageDetails>
+            </ImageDetailsByTerritory>
+            <ImageDetailsByTerritory>
+                <TerritoryCode>ZA</TerritoryCode>
+                <CLine>
+                    <CLineText>(C) 2006 The Island Def Jam Music Group</CLineText>
+                </CLine>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalImageDetails>
+                    <TechnicalResourceDetailsReference>T10651382533ZA</TechnicalResourceDetailsReference>
+                    <ImageCodecType>JPEG</ImageCodecType>
+                    <ImageHeight UnitOfMeasure="Pixel">595</ImageHeight>
+                    <ImageWidth UnitOfMeasure="Pixel">600</ImageWidth>
+                    <AspectRatio>1.01</AspectRatio>
+                    <ImageResolution>300</ImageResolution>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_cvrart_00602498578018_RGB_300_600x595_10651382533.jpg</FileName>
+                        <HashSum>
+                            <HashSum>cc776c9bf770d1e89fe471e188b383f7</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalImageDetails>
+            </ImageDetailsByTerritory>
+            <ImageDetailsByTerritory>
+                <TerritoryCode>SI</TerritoryCode>
+                <CLine>
+                    <CLineText>(C) 2006 The Island Def Jam Music Group</CLineText>
+                </CLine>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalImageDetails>
+                    <TechnicalResourceDetailsReference>T10651382533SI</TechnicalResourceDetailsReference>
+                    <ImageCodecType>JPEG</ImageCodecType>
+                    <ImageHeight UnitOfMeasure="Pixel">595</ImageHeight>
+                    <ImageWidth UnitOfMeasure="Pixel">600</ImageWidth>
+                    <AspectRatio>1.01</AspectRatio>
+                    <ImageResolution>300</ImageResolution>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_cvrart_00602498578018_RGB_300_600x595_10651382533.jpg</FileName>
+                        <HashSum>
+                            <HashSum>cc776c9bf770d1e89fe471e188b383f7</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalImageDetails>
+            </ImageDetailsByTerritory>
+            <ImageDetailsByTerritory>
+                <TerritoryCode>HR</TerritoryCode>
+                <CLine>
+                    <CLineText>(C) 2006 The Island Def Jam Music Group</CLineText>
+                </CLine>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalImageDetails>
+                    <TechnicalResourceDetailsReference>T10651382533HR</TechnicalResourceDetailsReference>
+                    <ImageCodecType>JPEG</ImageCodecType>
+                    <ImageHeight UnitOfMeasure="Pixel">595</ImageHeight>
+                    <ImageWidth UnitOfMeasure="Pixel">600</ImageWidth>
+                    <AspectRatio>1.01</AspectRatio>
+                    <ImageResolution>300</ImageResolution>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_cvrart_00602498578018_RGB_300_600x595_10651382533.jpg</FileName>
+                        <HashSum>
+                            <HashSum>cc776c9bf770d1e89fe471e188b383f7</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalImageDetails>
+            </ImageDetailsByTerritory>
+            <ImageDetailsByTerritory>
+                <TerritoryCode>SK</TerritoryCode>
+                <CLine>
+                    <CLineText>(C) 2006 The Island Def Jam Music Group</CLineText>
+                </CLine>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalImageDetails>
+                    <TechnicalResourceDetailsReference>T10651382533SK</TechnicalResourceDetailsReference>
+                    <ImageCodecType>JPEG</ImageCodecType>
+                    <ImageHeight UnitOfMeasure="Pixel">595</ImageHeight>
+                    <ImageWidth UnitOfMeasure="Pixel">600</ImageWidth>
+                    <AspectRatio>1.01</AspectRatio>
+                    <ImageResolution>300</ImageResolution>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_cvrart_00602498578018_RGB_300_600x595_10651382533.jpg</FileName>
+                        <HashSum>
+                            <HashSum>cc776c9bf770d1e89fe471e188b383f7</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalImageDetails>
+            </ImageDetailsByTerritory>
+            <ImageDetailsByTerritory>
+                <TerritoryCode>RO</TerritoryCode>
+                <CLine>
+                    <CLineText>(C) 2006 The Island Def Jam Music Group</CLineText>
+                </CLine>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalImageDetails>
+                    <TechnicalResourceDetailsReference>T10651382533RO</TechnicalResourceDetailsReference>
+                    <ImageCodecType>JPEG</ImageCodecType>
+                    <ImageHeight UnitOfMeasure="Pixel">595</ImageHeight>
+                    <ImageWidth UnitOfMeasure="Pixel">600</ImageWidth>
+                    <AspectRatio>1.01</AspectRatio>
+                    <ImageResolution>300</ImageResolution>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_cvrart_00602498578018_RGB_300_600x595_10651382533.jpg</FileName>
+                        <HashSum>
+                            <HashSum>cc776c9bf770d1e89fe471e188b383f7</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalImageDetails>
+            </ImageDetailsByTerritory>
+            <ImageDetailsByTerritory>
+                <TerritoryCode>NO</TerritoryCode>
+                <CLine>
+                    <CLineText>(C) 2006 The Island Def Jam Music Group</CLineText>
+                </CLine>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalImageDetails>
+                    <TechnicalResourceDetailsReference>T10651382533NO</TechnicalResourceDetailsReference>
+                    <ImageCodecType>JPEG</ImageCodecType>
+                    <ImageHeight UnitOfMeasure="Pixel">595</ImageHeight>
+                    <ImageWidth UnitOfMeasure="Pixel">600</ImageWidth>
+                    <AspectRatio>1.01</AspectRatio>
+                    <ImageResolution>300</ImageResolution>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_cvrart_00602498578018_RGB_300_600x595_10651382533.jpg</FileName>
+                        <HashSum>
+                            <HashSum>cc776c9bf770d1e89fe471e188b383f7</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalImageDetails>
+            </ImageDetailsByTerritory>
+            <ImageDetailsByTerritory>
+                <TerritoryCode>HU</TerritoryCode>
+                <CLine>
+                    <CLineText>(C) 2006 The Island Def Jam Music Group</CLineText>
+                </CLine>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalImageDetails>
+                    <TechnicalResourceDetailsReference>T10651382533HU</TechnicalResourceDetailsReference>
+                    <ImageCodecType>JPEG</ImageCodecType>
+                    <ImageHeight UnitOfMeasure="Pixel">595</ImageHeight>
+                    <ImageWidth UnitOfMeasure="Pixel">600</ImageWidth>
+                    <AspectRatio>1.01</AspectRatio>
+                    <ImageResolution>300</ImageResolution>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_cvrart_00602498578018_RGB_300_600x595_10651382533.jpg</FileName>
+                        <HashSum>
+                            <HashSum>cc776c9bf770d1e89fe471e188b383f7</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalImageDetails>
+            </ImageDetailsByTerritory>
+            <ImageDetailsByTerritory>
+                <TerritoryCode>PL</TerritoryCode>
+                <CLine>
+                    <CLineText>(C) 2006 The Island Def Jam Music Group</CLineText>
+                </CLine>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalImageDetails>
+                    <TechnicalResourceDetailsReference>T10651382533PL</TechnicalResourceDetailsReference>
+                    <ImageCodecType>JPEG</ImageCodecType>
+                    <ImageHeight UnitOfMeasure="Pixel">595</ImageHeight>
+                    <ImageWidth UnitOfMeasure="Pixel">600</ImageWidth>
+                    <AspectRatio>1.01</AspectRatio>
+                    <ImageResolution>300</ImageResolution>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_cvrart_00602498578018_RGB_300_600x595_10651382533.jpg</FileName>
+                        <HashSum>
+                            <HashSum>cc776c9bf770d1e89fe471e188b383f7</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalImageDetails>
+            </ImageDetailsByTerritory>
+            <ImageDetailsByTerritory>
+                <TerritoryCode>BG</TerritoryCode>
+                <CLine>
+                    <CLineText>(C) 2006 The Island Def Jam Music Group</CLineText>
+                </CLine>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalImageDetails>
+                    <TechnicalResourceDetailsReference>T10651382533BG</TechnicalResourceDetailsReference>
+                    <ImageCodecType>JPEG</ImageCodecType>
+                    <ImageHeight UnitOfMeasure="Pixel">595</ImageHeight>
+                    <ImageWidth UnitOfMeasure="Pixel">600</ImageWidth>
+                    <AspectRatio>1.01</AspectRatio>
+                    <ImageResolution>300</ImageResolution>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_cvrart_00602498578018_RGB_300_600x595_10651382533.jpg</FileName>
+                        <HashSum>
+                            <HashSum>cc776c9bf770d1e89fe471e188b383f7</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalImageDetails>
+            </ImageDetailsByTerritory>
+            <ImageDetailsByTerritory>
+                <TerritoryCode>FR</TerritoryCode>
+                <CLine>
+                    <CLineText>(C) 2006 The Island Def Jam Music Group</CLineText>
+                </CLine>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalImageDetails>
+                    <TechnicalResourceDetailsReference>T10651382533FR</TechnicalResourceDetailsReference>
+                    <ImageCodecType>JPEG</ImageCodecType>
+                    <ImageHeight UnitOfMeasure="Pixel">595</ImageHeight>
+                    <ImageWidth UnitOfMeasure="Pixel">600</ImageWidth>
+                    <AspectRatio>1.01</AspectRatio>
+                    <ImageResolution>300</ImageResolution>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_cvrart_00602498578018_RGB_300_600x595_10651382533.jpg</FileName>
+                        <HashSum>
+                            <HashSum>cc776c9bf770d1e89fe471e188b383f7</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalImageDetails>
+            </ImageDetailsByTerritory>
+            <ImageDetailsByTerritory>
+                <TerritoryCode>RU</TerritoryCode>
+                <CLine>
+                    <CLineText>(C) 2006 The Island Def Jam Music Group</CLineText>
+                </CLine>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalImageDetails>
+                    <TechnicalResourceDetailsReference>T10651382533RU</TechnicalResourceDetailsReference>
+                    <ImageCodecType>JPEG</ImageCodecType>
+                    <ImageHeight UnitOfMeasure="Pixel">595</ImageHeight>
+                    <ImageWidth UnitOfMeasure="Pixel">600</ImageWidth>
+                    <AspectRatio>1.01</AspectRatio>
+                    <ImageResolution>300</ImageResolution>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_cvrart_00602498578018_RGB_300_600x595_10651382533.jpg</FileName>
+                        <HashSum>
+                            <HashSum>cc776c9bf770d1e89fe471e188b383f7</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalImageDetails>
+            </ImageDetailsByTerritory>
+            <ImageDetailsByTerritory>
+                <TerritoryCode>GR</TerritoryCode>
+                <CLine>
+                    <CLineText>(C) 2006 The Island Def Jam Music Group</CLineText>
+                </CLine>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalImageDetails>
+                    <TechnicalResourceDetailsReference>T10651382533GR</TechnicalResourceDetailsReference>
+                    <ImageCodecType>JPEG</ImageCodecType>
+                    <ImageHeight UnitOfMeasure="Pixel">595</ImageHeight>
+                    <ImageWidth UnitOfMeasure="Pixel">600</ImageWidth>
+                    <AspectRatio>1.01</AspectRatio>
+                    <ImageResolution>300</ImageResolution>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_cvrart_00602498578018_RGB_300_600x595_10651382533.jpg</FileName>
+                        <HashSum>
+                            <HashSum>cc776c9bf770d1e89fe471e188b383f7</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalImageDetails>
+            </ImageDetailsByTerritory>
+            <ImageDetailsByTerritory>
+                <TerritoryCode>ES</TerritoryCode>
+                <CLine>
+                    <CLineText>(C) 2006 The Island Def Jam Music Group</CLineText>
+                </CLine>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalImageDetails>
+                    <TechnicalResourceDetailsReference>T10651382533ES</TechnicalResourceDetailsReference>
+                    <ImageCodecType>JPEG</ImageCodecType>
+                    <ImageHeight UnitOfMeasure="Pixel">595</ImageHeight>
+                    <ImageWidth UnitOfMeasure="Pixel">600</ImageWidth>
+                    <AspectRatio>1.01</AspectRatio>
+                    <ImageResolution>300</ImageResolution>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_cvrart_00602498578018_RGB_300_600x595_10651382533.jpg</FileName>
+                        <HashSum>
+                            <HashSum>cc776c9bf770d1e89fe471e188b383f7</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalImageDetails>
+            </ImageDetailsByTerritory>
+            <ImageDetailsByTerritory>
+                <TerritoryCode>BE</TerritoryCode>
+                <CLine>
+                    <CLineText>(C) 2006 The Island Def Jam Music Group</CLineText>
+                </CLine>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalImageDetails>
+                    <TechnicalResourceDetailsReference>T10651382533BE</TechnicalResourceDetailsReference>
+                    <ImageCodecType>JPEG</ImageCodecType>
+                    <ImageHeight UnitOfMeasure="Pixel">595</ImageHeight>
+                    <ImageWidth UnitOfMeasure="Pixel">600</ImageWidth>
+                    <AspectRatio>1.01</AspectRatio>
+                    <ImageResolution>300</ImageResolution>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_cvrart_00602498578018_RGB_300_600x595_10651382533.jpg</FileName>
+                        <HashSum>
+                            <HashSum>cc776c9bf770d1e89fe471e188b383f7</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalImageDetails>
+            </ImageDetailsByTerritory>
+            <ImageDetailsByTerritory>
+                <TerritoryCode>EE</TerritoryCode>
+                <CLine>
+                    <CLineText>(C) 2006 The Island Def Jam Music Group</CLineText>
+                </CLine>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalImageDetails>
+                    <TechnicalResourceDetailsReference>T10651382533EE</TechnicalResourceDetailsReference>
+                    <ImageCodecType>JPEG</ImageCodecType>
+                    <ImageHeight UnitOfMeasure="Pixel">595</ImageHeight>
+                    <ImageWidth UnitOfMeasure="Pixel">600</ImageWidth>
+                    <AspectRatio>1.01</AspectRatio>
+                    <ImageResolution>300</ImageResolution>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_cvrart_00602498578018_RGB_300_600x595_10651382533.jpg</FileName>
+                        <HashSum>
+                            <HashSum>cc776c9bf770d1e89fe471e188b383f7</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalImageDetails>
+            </ImageDetailsByTerritory>
+            <ImageDetailsByTerritory>
+                <TerritoryCode>DK</TerritoryCode>
+                <CLine>
+                    <CLineText>(C) 2006 The Island Def Jam Music Group</CLineText>
+                </CLine>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalImageDetails>
+                    <TechnicalResourceDetailsReference>T10651382533DK</TechnicalResourceDetailsReference>
+                    <ImageCodecType>JPEG</ImageCodecType>
+                    <ImageHeight UnitOfMeasure="Pixel">595</ImageHeight>
+                    <ImageWidth UnitOfMeasure="Pixel">600</ImageWidth>
+                    <AspectRatio>1.01</AspectRatio>
+                    <ImageResolution>300</ImageResolution>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_cvrart_00602498578018_RGB_300_600x595_10651382533.jpg</FileName>
+                        <HashSum>
+                            <HashSum>cc776c9bf770d1e89fe471e188b383f7</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalImageDetails>
+            </ImageDetailsByTerritory>
+            <ImageDetailsByTerritory>
+                <TerritoryCode>FI</TerritoryCode>
+                <CLine>
+                    <CLineText>(C) 2006 The Island Def Jam Music Group</CLineText>
+                </CLine>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalImageDetails>
+                    <TechnicalResourceDetailsReference>T10651382533FI</TechnicalResourceDetailsReference>
+                    <ImageCodecType>JPEG</ImageCodecType>
+                    <ImageHeight UnitOfMeasure="Pixel">595</ImageHeight>
+                    <ImageWidth UnitOfMeasure="Pixel">600</ImageWidth>
+                    <AspectRatio>1.01</AspectRatio>
+                    <ImageResolution>300</ImageResolution>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_cvrart_00602498578018_RGB_300_600x595_10651382533.jpg</FileName>
+                        <HashSum>
+                            <HashSum>cc776c9bf770d1e89fe471e188b383f7</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalImageDetails>
+            </ImageDetailsByTerritory>
+            <ImageDetailsByTerritory>
+                <TerritoryCode>SA</TerritoryCode>
+                <CLine>
+                    <CLineText>(C) 2006 The Island Def Jam Music Group</CLineText>
+                </CLine>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <TechnicalImageDetails>
+                    <TechnicalResourceDetailsReference>T10651382533SA</TechnicalResourceDetailsReference>
+                    <ImageCodecType>JPEG</ImageCodecType>
+                    <ImageHeight UnitOfMeasure="Pixel">595</ImageHeight>
+                    <ImageWidth UnitOfMeasure="Pixel">600</ImageWidth>
+                    <AspectRatio>1.01</AspectRatio>
+                    <ImageResolution>300</ImageResolution>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>UMG_cvrart_00602498578018_RGB_300_600x595_10651382533.jpg</FileName>
+                        <HashSum>
+                            <HashSum>cc776c9bf770d1e89fe471e188b383f7</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalImageDetails>
+            </ImageDetailsByTerritory>
+        </Image>
+    </ResourceList>
+    <ReleaseList>
+        <Release>
+            <ReleaseId>
+                <ProprietaryId Namespace="PA-DPIDA-2012031302-R">DGP-M-307364</ProprietaryId>
+            </ReleaseId>
+            <ReleaseReference>R7EDB2381E660BE0AE040020A210036E6</ReleaseReference>
+            <ReferenceTitle>
+                <TitleText>Sending Out An S.O.S.</TitleText>
+                <SubTitle>Speechtone</SubTitle>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A69312297</ReleaseResourceReference>
+                <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A52388186</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType UserDefinedValue="SpeechtoneRelease">UserDefined</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>CZ</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <Title>
+                    <TitleText>Sending Out An S.O.S.</TitleText>
+                    <SubTitle>Speechtone</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Rihanna</FullName>
+                        <KeyName>Rihanna</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroup>
+                        <SequenceNumber>1</SequenceNumber>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>4</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A69312297</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                    </ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A52388186</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Spoken Word</GenreText>
+                </Genre>
+            </ReleaseDetailsByTerritory>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>LV</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <Title>
+                    <TitleText>Sending Out An S.O.S.</TitleText>
+                    <SubTitle>Speechtone</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Rihanna</FullName>
+                        <KeyName>Rihanna</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroup>
+                        <SequenceNumber>1</SequenceNumber>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>4</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A69312297</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                    </ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A52388186</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Spoken Word</GenreText>
+                </Genre>
+            </ReleaseDetailsByTerritory>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>SE</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <Title>
+                    <TitleText>Sending Out An S.O.S.</TitleText>
+                    <SubTitle>Speechtone</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Rihanna</FullName>
+                        <KeyName>Rihanna</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroup>
+                        <SequenceNumber>1</SequenceNumber>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>4</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A69312297</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                    </ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A52388186</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Spoken Word</GenreText>
+                </Genre>
+            </ReleaseDetailsByTerritory>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>LT</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <Title>
+                    <TitleText>Sending Out An S.O.S.</TitleText>
+                    <SubTitle>Speechtone</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Rihanna</FullName>
+                        <KeyName>Rihanna</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroup>
+                        <SequenceNumber>1</SequenceNumber>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>4</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A69312297</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                    </ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A52388186</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Spoken Word</GenreText>
+                </Genre>
+            </ReleaseDetailsByTerritory>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>ZA</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <Title>
+                    <TitleText>Sending Out An S.O.S.</TitleText>
+                    <SubTitle>Speechtone</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Rihanna</FullName>
+                        <KeyName>Rihanna</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroup>
+                        <SequenceNumber>1</SequenceNumber>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>4</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A69312297</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                    </ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A52388186</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Spoken Word</GenreText>
+                </Genre>
+            </ReleaseDetailsByTerritory>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>SI</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <Title>
+                    <TitleText>Sending Out An S.O.S.</TitleText>
+                    <SubTitle>Speechtone</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Rihanna</FullName>
+                        <KeyName>Rihanna</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroup>
+                        <SequenceNumber>1</SequenceNumber>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>4</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A69312297</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                    </ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A52388186</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Spoken Word</GenreText>
+                </Genre>
+            </ReleaseDetailsByTerritory>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>HR</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <Title>
+                    <TitleText>Sending Out An S.O.S.</TitleText>
+                    <SubTitle>Speechtone</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Rihanna</FullName>
+                        <KeyName>Rihanna</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroup>
+                        <SequenceNumber>1</SequenceNumber>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>4</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A69312297</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                    </ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A52388186</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Spoken Word</GenreText>
+                </Genre>
+            </ReleaseDetailsByTerritory>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>SK</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <Title>
+                    <TitleText>Sending Out An S.O.S.</TitleText>
+                    <SubTitle>Speechtone</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Rihanna</FullName>
+                        <KeyName>Rihanna</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroup>
+                        <SequenceNumber>1</SequenceNumber>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>4</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A69312297</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                    </ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A52388186</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Spoken Word</GenreText>
+                </Genre>
+            </ReleaseDetailsByTerritory>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>RO</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <Title>
+                    <TitleText>Sending Out An S.O.S.</TitleText>
+                    <SubTitle>Speechtone</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Rihanna</FullName>
+                        <KeyName>Rihanna</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroup>
+                        <SequenceNumber>1</SequenceNumber>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>4</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A69312297</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                    </ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A52388186</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Spoken Word</GenreText>
+                </Genre>
+            </ReleaseDetailsByTerritory>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>NO</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <Title>
+                    <TitleText>Sending Out An S.O.S.</TitleText>
+                    <SubTitle>Speechtone</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Rihanna</FullName>
+                        <KeyName>Rihanna</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroup>
+                        <SequenceNumber>1</SequenceNumber>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>4</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A69312297</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                    </ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A52388186</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Spoken Word</GenreText>
+                </Genre>
+            </ReleaseDetailsByTerritory>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>HU</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <Title>
+                    <TitleText>Sending Out An S.O.S.</TitleText>
+                    <SubTitle>Speechtone</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Rihanna</FullName>
+                        <KeyName>Rihanna</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroup>
+                        <SequenceNumber>1</SequenceNumber>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>4</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A69312297</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                    </ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A52388186</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Spoken Word</GenreText>
+                </Genre>
+            </ReleaseDetailsByTerritory>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>PL</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <Title>
+                    <TitleText>Sending Out An S.O.S.</TitleText>
+                    <SubTitle>Speechtone</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Rihanna</FullName>
+                        <KeyName>Rihanna</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroup>
+                        <SequenceNumber>1</SequenceNumber>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>4</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A69312297</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                    </ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A52388186</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Spoken Word</GenreText>
+                </Genre>
+            </ReleaseDetailsByTerritory>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>BG</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <Title>
+                    <TitleText>Sending Out An S.O.S.</TitleText>
+                    <SubTitle>Speechtone</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Rihanna</FullName>
+                        <KeyName>Rihanna</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroup>
+                        <SequenceNumber>1</SequenceNumber>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>4</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A69312297</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                    </ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A52388186</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Spoken Word</GenreText>
+                </Genre>
+            </ReleaseDetailsByTerritory>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>FR</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Island Def Jam</LabelName>
+                <Title>
+                    <TitleText>Sending Out An S.O.S.</TitleText>
+                    <SubTitle>Speechtone</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Rihanna</FullName>
+                        <KeyName>Rihanna</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroup>
+                        <SequenceNumber>1</SequenceNumber>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>4</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A69312297</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                    </ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A52388186</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Spoken Word</GenreText>
+                </Genre>
+            </ReleaseDetailsByTerritory>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>RU</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <Title>
+                    <TitleText>Sending Out An S.O.S.</TitleText>
+                    <SubTitle>Speechtone</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Rihanna</FullName>
+                        <KeyName>Rihanna</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroup>
+                        <SequenceNumber>1</SequenceNumber>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>4</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A69312297</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                    </ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A52388186</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Spoken Word</GenreText>
+                </Genre>
+            </ReleaseDetailsByTerritory>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>GR</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <Title>
+                    <TitleText>Sending Out An S.O.S.</TitleText>
+                    <SubTitle>Speechtone</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Rihanna</FullName>
+                        <KeyName>Rihanna</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroup>
+                        <SequenceNumber>1</SequenceNumber>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>4</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A69312297</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                    </ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A52388186</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Spoken Word</GenreText>
+                </Genre>
+            </ReleaseDetailsByTerritory>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>ES</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <Title>
+                    <TitleText>Sending Out An S.O.S.</TitleText>
+                    <SubTitle>Speechtone</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Rihanna</FullName>
+                        <KeyName>Rihanna</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroup>
+                        <SequenceNumber>1</SequenceNumber>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>4</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A69312297</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                    </ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A52388186</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Spoken Word</GenreText>
+                </Genre>
+            </ReleaseDetailsByTerritory>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>BE</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <Title>
+                    <TitleText>Sending Out An S.O.S.</TitleText>
+                    <SubTitle>Speechtone</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Rihanna</FullName>
+                        <KeyName>Rihanna</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroup>
+                        <SequenceNumber>1</SequenceNumber>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>4</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A69312297</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                    </ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A52388186</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Spoken Word</GenreText>
+                </Genre>
+            </ReleaseDetailsByTerritory>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>EE</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <Title>
+                    <TitleText>Sending Out An S.O.S.</TitleText>
+                    <SubTitle>Speechtone</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Rihanna</FullName>
+                        <KeyName>Rihanna</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroup>
+                        <SequenceNumber>1</SequenceNumber>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>4</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A69312297</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                    </ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A52388186</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Spoken Word</GenreText>
+                </Genre>
+            </ReleaseDetailsByTerritory>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>DK</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <Title>
+                    <TitleText>Sending Out An S.O.S.</TitleText>
+                    <SubTitle>Speechtone</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Rihanna</FullName>
+                        <KeyName>Rihanna</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroup>
+                        <SequenceNumber>1</SequenceNumber>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>4</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A69312297</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                    </ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A52388186</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Spoken Word</GenreText>
+                </Genre>
+            </ReleaseDetailsByTerritory>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>FI</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <Title>
+                    <TitleText>Sending Out An S.O.S.</TitleText>
+                    <SubTitle>Speechtone</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Rihanna</FullName>
+                        <KeyName>Rihanna</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroup>
+                        <SequenceNumber>1</SequenceNumber>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>4</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A69312297</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                    </ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A52388186</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Spoken Word</GenreText>
+                </Genre>
+            </ReleaseDetailsByTerritory>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>SA</TerritoryCode>
+                <LabelName LabelNameType="ReleaseLabel">Universal Music</LabelName>
+                <Title>
+                    <TitleText>Sending Out An S.O.S.</TitleText>
+                    <SubTitle>Speechtone</SubTitle>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Rihanna</FullName>
+                        <KeyName>Rihanna</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NoAdviceAvailable</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroup>
+                        <SequenceNumber>1</SequenceNumber>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>4</SequenceNumber>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A69312297</ReleaseResourceReference>
+                            <IsBonusResource>false</IsBonusResource>
+                        </ResourceGroupContentItem>
+                    </ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A52388186</ReleaseResourceReference>
+                        <IsBonusResource>false</IsBonusResource>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Spoken Word</GenreText>
+                </Genre>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT16.000S</Duration>
+            <PLine>
+                <PLineText>(P) 2006 The Island Def Jam Music Group</PLineText>
+            </PLine>
+            <CLine>
+                <CLineText>(C) 2006 The Island Def Jam Music Group</CLineText>
+            </CLine>
+        </Release>
+    </ReleaseList>
+    <DealList>
+        <ReleaseDeal>
+            <DealReleaseReference>R7EDB2381E660BE0AE040020A210036E6</DealReleaseReference>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>CZ</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-06-27Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>CZ</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-06-27Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>CZ</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-06-27Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>LV</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-06-27Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>LV</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-06-27Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>LV</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-06-27Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>SE</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-06-27Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>SE</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-06-27Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>SE</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-06-27Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>LT</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-06-27Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>LT</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-06-27Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>LT</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-06-27Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>ZA</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-06-27Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>ZA</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-06-27Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>ZA</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-06-27Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>SI</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-06-27Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>SI</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-06-27Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>SI</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-06-27Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>HR</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-06-27Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>HR</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-06-27Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>HR</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-06-27Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>SK</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-06-27Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>SK</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-06-27Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>SK</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-06-27Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>RO</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-06-27Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>RO</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-06-27Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>RO</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-06-27Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>NO</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-06-27Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>NO</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-06-27Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>NO</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-06-27Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>HU</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-06-27Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>HU</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-06-27Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>HU</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-06-27Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>PL</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-06-27Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>PL</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-06-27Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>PL</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-06-27Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>BG</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-06-27Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>BG</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-06-27Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>BG</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-06-27Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>FR</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-06-27Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>FR</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-06-27Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>FR</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-06-27Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>RU</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-06-27Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>RU</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-06-27Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>RU</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-06-27Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GR</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-06-27Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GR</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-06-27Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>GR</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-06-27Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>ES</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-06-27Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>ES</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-06-27Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>ES</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-06-27Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>BE</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-06-27Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>BE</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-06-27Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>BE</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-06-27Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>EE</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-06-27Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>EE</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-06-27Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>EE</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-06-27Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>DK</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-06-27Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>DK</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-06-27Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>DK</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-06-27Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>FI</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-06-27Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>FI</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-06-27Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>FI</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-06-27Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>SA</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-06-27Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>SA</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-06-27Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <DistributionChannelType UserDefinedValue="Mobile" Namespace="PA-DPIDA-2012031302-R">UserDefined</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>SA</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2012-06-27Z</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <EffectiveDate>2012-06-27</EffectiveDate>
+        </ReleaseDeal>
+    </DealList>
+</ns2:NewReleaseMessage>
