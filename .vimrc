@@ -1,9 +1,12 @@
 "Vim > Vi
 set nocompatible
+"set cc=80
+set cmdheight=3
 
-"Options generiques
 set wildmode=list:longest,full
 set wildmenu
+set wildignore+=*\\tmp\\*,*.swp,*.swo,*.zip,.git,.cabal-sandbox
+set completeopt=menuone,menu,longest
 set smd
 set hlsearch
 set showmatch
@@ -16,29 +19,40 @@ set backspace=indent,eol,start
 set ut=1000
 set formatoptions=crol
 
-set laststatus=2
-set statusline=%<%f\ %h%w%m%r%y%=L:%l/%L\ (%p%%)\ C:%c%V\ B:%o\ F:%{foldlevel('.')}
+"TODO : do something better
+function! GitBranch()
+  return system("git rev-parse --abbrev-ref HEAD 2>/dev/null | tr -d '\n'")
+endfunction
 
-"les couleurs
+"TODO : do something better
+function! StatuslineGit()
+  let l:branchname = GitBranch()
+  return strlen(l:branchname) > 0?l:branchname:'no git'
+endfunction
+
+set laststatus=2
+set statusline=
+set statusline+=[%{StatuslineGit()}]
+set statusline+=\ %f\ %h%w%m%r
+set statusline+=%=
+set statusline+=\[%{&fileformat}\]
+set statusline+=[%{&fileencoding?&fileencoding:&encoding}]
+set statusline+=\ L:%l/%L\ (%p%%)\ C:%c%V\ P:%o(%B)
+
 set t_Co=256
 syn on
 set background=dark
-"colors gardener
-"colors jellybeans
 colors xoria256
-"colors solarized
 "set cursorline
 "highlight CursorLine ctermbg=lightgreen
 
-"Comportement de la touche TAB
-
-set ts=2
-"set softtabstop=2
-set sw=2
+"set ts=4
+set softtabstop=2
+set shiftwidth=2
 set expandtab
-"set smarttab
+set shiftround
+set smarttab
 
-"indentation
 "set cindent
 "set cino=>1se1sj1s
 set autoindent
@@ -47,32 +61,27 @@ filetype on
 filetype plugin on
 filetype indent on
 
+"TODO : do something better
+inoremap <Tab> <c-n>
+
 let mapleader=","
 
-highlight WhitespaceEOL ctermbg=red
-match WhitespaceEOL /\s\+$/
-autocmd WinEnter * match WhiteSpaceEOL /\s\+$/
+highlight ExtraWhitespace ctermbg=red guibg=red
+match ExtraWhitespace /\s\+$/
+autocmd BufWinEnter * match ExtraWhitespace /\s\+$/
+autocmd InsertEnter * match ExtraWhitespace /\s\+\%#\@<!$/
+autocmd InsertLeave * match ExtraWhitespace /\s\+$/
+autocmd BufWinLeave * call clearmatches()
 nnoremap <silent> <Leader>n :let _s=@/<Bar>:%s/\s\+$//e<Bar>:let @/=_s<Bar>:nohl<CR>
 
 cabbr <expr> %% expand('%:p:h')
 
-let g:neocomplcache_enable_at_startup = 1
-let g:slimv_swank_cmd = '! xterm -e sbcl --load /usr/share/common-lisp/source/slime/start-swank.lisp &'
-
-map <silent> <F4> :BufExplorer<CR>
-map <silent> <F5> :TlistToggle<CR>
-imap <silent> <F5> :TlistToggle<CR>
-map <silent> <F6> :NERDTreeToggle<CR>
-imap <silent> <F6> :NERDTreeToggle<CR>
-
 autocmd InsertEnter * let @/=""
 autocmd InsertLeave * let @/=""
 
-au Bufenter *.hs compiler ghc
-let g:haddock_browser = "/usr/bin/chromium"
+set tags=./tags;
 
-set tags=~./tags,tags,~/.tags
-
+set encoding=utf-8
 set fileencodings=utf-8
 set secure
 
