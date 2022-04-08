@@ -85,3 +85,4 @@ set encoding=utf-8
 set fileencodings=utf-8
 set secure
 
+set rtp+=/opt/homebrew/opt/fzf
