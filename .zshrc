@@ -65,6 +65,11 @@ alias hh='stack hoogle -- generate --local'
 alias hw='stack hoogle -- server --local --port=8080'
 alias ht='stack build --copy-compiler-tool'
 
+mikrotik-fw-logIP() {
+  readonly logfile=${1:?"Must specify log file !"}
+  awk -F "," '{print $5}' $logfile | awk -F "->" '{print $1}' | sort
+}
+
 serve() {
   python3 -m http.server ${1:-8000}
 }
