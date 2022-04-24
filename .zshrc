@@ -1,10 +1,17 @@
 ZSH=$HOME/.oh-my-zsh
 ZSH_THEME="muse"
 
+if type brew &>/dev/null; then
+  FPATH=$(brew --prefix)/share/zsh-completions:$FPATH
+
+  autoload -Uz compinit
+  compinit
+fi
+
 source $ZSH/oh-my-zsh.sh
 
-plugins=(git macos)
-fpath=(/usr/local/share/zsh-completions $fpath)
+plugins=(git macos docker)
+#fpath=(/usr/local/share/zsh-completions $fpath)
 
 setopt nohup
 setopt nocheckjobs
@@ -14,7 +21,7 @@ setopt print_exit_value
 setopt nullglob
 setopt chase_links
 setopt hist_verify
-setopt auto_cd
+#setopt auto_cd
 setopt auto_pushd
 setopt pushd_ignore_dups
 setopt pushd_silent
@@ -90,3 +97,4 @@ export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
 
 source <(kubectl completion zsh)
+
