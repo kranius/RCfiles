@@ -8,9 +8,8 @@ if type brew &>/dev/null; then
   compinit
 fi
 
-source $ZSH/oh-my-zsh.sh
 
-plugins=(git macos docker)
+plugins=(git macos docker kubectl nmap)
 #fpath=(/usr/local/share/zsh-completions $fpath)
 
 setopt nohup
@@ -47,7 +46,7 @@ alias vn="v ~/.config/nvim/init.vim"
 alias kek='cat ~/kek.meme'
 alias rm='rm -R -i'
 #need GNU ls for -X and long options
-alias mls='gls -BFGX --color=auto --group-directories-first'
+alias mls='gls -BFX --color=auto --group-directories-first'
 alias ls='mls'
 alias ll='mls -l'
 alias la='mls -la'
@@ -97,4 +96,7 @@ export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
 
 source <(kubectl completion zsh)
+
+source $ZSH/oh-my-zsh.sh
+#source ~/.zshrc
 
