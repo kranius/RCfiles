@@ -46,12 +46,10 @@ alias vn="v ~/.config/nvim/init.vim"
 alias kek='cat ~/kek.meme'
 alias rm='rm -R -i'
 #need GNU ls for -X and long options
-alias mls='gls -BFX --color=auto --group-directories-first'
-alias ls='mls'
-alias ll='mls -l'
-alias la='mls -la'
+alias mls='gls -FX --color=auto --group-directories-first'
+alias l='mls -l'
+alias ll='mls -la'
 alias lla='mls -ila'
-alias l='ll'
 alias less='less -q'
 alias df='df -h'
 alias du='du -h'
@@ -89,7 +87,6 @@ export NNTPSERVER="reader.albasani.net"
 export LANG="en_US.utf-8"
 export PATH="$HOME/.local/bin:$PATH"
 
-[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
@@ -98,5 +95,11 @@ export NVM_DIR="$HOME/.nvm"
 source <(kubectl completion zsh)
 
 source $ZSH/oh-my-zsh.sh
-#source ~/.zshrc
 
+# need to define those after `source oh-my-zsh` because collision with 'directories' aliases
+alias mls='gls -FX --color=auto --group-directories-first'
+alias l='mls -l'
+alias la='mls -la'
+alias ll='mls -ila'
+
+[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
